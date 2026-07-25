@@ -3,7 +3,7 @@ article_id: BES-14-A05
 title: "Inspeksi Surface Preparation, Coating, dan Galvanizing"
 slug: "inspeksi-coating-dan-galvanizing-baja"
 description: "Cover substrate condition, environment, preparation, consumables/batches, application, cure, coverage, specified tests, damage, repair, and records"
-status: outline
+status: draft
 publication_date: "2026-06-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -34,7 +34,7 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- GENERATED ARTICLE OUTLINE: retained as hidden production context.
 
 # Inspeksi Surface Preparation, Coating, dan Galvanizing
 
@@ -62,9 +62,10 @@ sources:
 - State what evidence or condition can change that answer.
 - Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
 - Do not use a generic industry-history or “Di era digital” introduction.
+-->
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,8 +76,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
+<!--
 ## Evidence packet
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
@@ -149,69 +151,87 @@ These are future routes. Do not link them as live until their HTML exists.
 - `BES-14-A03` → `/artikel/pengujian-material-baja.html` — Chemistry, Tensile, Impact, dan Hardness Test: Pertanyaan yang Benar
 - `BES-14-A04` → `/artikel/memilih-metode-ndt-sambungan-baja.html` — Visual, PT, MT, UT, dan RT: Memilih Metode Inspeksi Sambungan
 - `BES-14-A06` → `/artikel/handover-dossier-fabrikasi-baja.html` — Manufacturing Record Book dan Handover Dossier Baja
+-->
 
 <!-- BEGIN PUBLIC ARTICLE SECTIONS -->
 
 ## Tentukan objek, kondisi, dan tahap siklus hidup
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Besi.co.id! Inspeksi pelapisan baja bukan sekadar melihat apakah permukaannya tampak rapi. Keputusan yang aman adalah memeriksa bukti bahwa baja, persiapan permukaan, bahan pelapis atau proses galvanizing, aplikasi, perbaikan, dan rekamannya masih satu rantai yang dapat ditelusuri. Jika salah satu mata rantai tidak jelas, tampilan akhir yang baik belum cukup untuk menerima pekerjaan.
+
+Mulailah dengan menetapkan objek yang diperiksa: nomor komponen atau area, gambar yang berlaku, tahap pekerjaan, sistem perlindungan yang ditentukan, serta kondisi saat inspeksi. Untuk baja yang akan dicat, pisahkan kondisi sebelum persiapan, setelah persiapan, selama aplikasi, dan setelah pengeringan atau *cure* (pematangan lapisan). Untuk galvanizing celup panas, identitas fabrikasi, geometri tertutup atau tumpang tindih, ventilasi dan drainase, orientasi pengangkatan, serta penanganan setelah proses perlu dibaca sebagai satu sistem. Pedoman AGA menekankan bahwa geometri, jalur vent/drain, las, kebersihan permukaan, kimia baja, dan penanganan saling berpengaruh; detail akhirnya tetap perlu ditinjau oleh perancang yang bertanggung jawab dan galvanizer. [AGA: venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)
+
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
+
+Aset lokal proyek.
+
+Catat juga identitas material yang mendasari pekerjaan. Dokumen inspeksi baru bernilai ketika dapat direkonsiliasi dengan pesanan, produsen, produk, *heat* atau batch, dimensi, pengujian, dan penandaan fisik. Metode uji atau satu angka pada sertifikat tidak dengan sendirinya membuktikan seluruh stok atau komponen sesuai. [ISO 10474](https://www.iso.org/standard/53736.html) [ISO 6892-1](https://www.iso.org/standard/78322.html)
+
+Identitas spesimen, lokasi atau orientasi pengambilan, persiapan, metode, kondisi, satuan, dan keterkaitannya dengan produk atau *heat* juga perlu dipertahankan ketika hasil uji dipakai dalam dossier. [ISO 377](https://www.iso.org/standard/72529.html) [ISO 377/Amd 1](https://www.iso.org/standard/89449.html)
+
+Sebelum menetapkan penerimaan, siapkan [NEEDS REVIEW: spesifikasi coating/galvanizing yang disetujui, gambar berlaku, ITP, dan kriteria penerimaan proyek]. Dokumen itulah yang memiliki otoritas untuk metode, nilai, cakupan pemeriksaan, dan keputusan terima atau tolak.
 
 ## Mekanisme perubahan atau penurunan kinerja
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lapisan pelindung bekerja sebagai sistem, bukan sebagai warna atau kilap semata. Kontaminasi yang tertinggal, kondisi substrat yang tidak dicatat, bahan yang tertukar, aplikasi pada kondisi yang tidak dikendalikan, atau kerusakan saat angkut dapat mengubah hasil sebelum bangunan dipakai. Karena itu, pemeriksaan akhir tidak dapat membangun kembali variabel proses yang tidak pernah dikendalikan.
+
+Pada pekerjaan coating, pertanyaan praktisnya adalah: kondisi permukaan apa yang diterima sebelum aplikasi, lingkungan apa yang tercatat saat kerja, bahan dan batch mana yang dipakai, serta kapan lapisan dinyatakan cukup matang untuk tahap berikutnya? Jangan mengganti jawaban tersebut dengan dugaan dari ketebalan atau tampilan saja. Bila pengukuran atau pengujian disyaratkan, metode, alat, identitas area, cakupan, hasil, dan kriteria harus mengikuti spesifikasi yang disetujui.
+
+Pada galvanizing, masalah dapat bermula jauh sebelum komponen masuk bak. Rongga tertutup atau tumpang tindih, lubang yang tidak ditinjau, las dan kontaminasi, serta cara mengangkat komponen dapat memengaruhi proses dan keselamatan. Kawan Besi.co.id, jangan menyalin ukuran lubang, nilai perbaikan, atau kriteria dari panduan asing menjadi aturan proyek Indonesia. AGA sendiri menempatkan keputusan detail desain pada koordinasi dengan perancang dan galvanizer. [AGA: design and fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg)
+
+Usia layanan juga tidak boleh diprediksi hanya dari nama sistem. Lingkungan aktual, desain detail, pemakaian, kerusakan mekanis, pemeliharaan, dan bukti proses dapat mengubah risikonya. Jika keputusan menyangkut keselamatan, fungsi struktural, atau penerimaan kontrak, gunakan [NEEDS REVIEW: penilaian teknis oleh pihak berwenang berdasarkan spesifikasi dan kondisi proyek].
 
 ## Inspeksi dan data yang perlu dicatat
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bangun pemeriksaan sebagai urutan titik tahan (*hold point*) dan titik saksi yang dapat dibuktikan, bukan satu formulir di akhir. Baseline yang berguna memuat tanggal, lokasi atau nomor komponen, gambar/revisi, pihak yang memeriksa, kondisi sebelum kerja, foto yang terhubung ke area, serta dokumen yang dipakai. Foto membantu memahami lokasi dan perubahan, tetapi bukan pengganti metode ukur atau kriteria penerimaan.
+
+Untuk coating, daftar rekaman biasanya perlu menghubungkan kondisi substrat, metode dan hasil persiapan, kebersihan yang disyaratkan, kondisi lingkungan bila diwajibkan, identitas produk serta batch, masa pakai bahan setelah pencampuran bila relevan, aplikator, waktu setiap tahap, hasil pemeriksaan yang disyaratkan, kondisi cure, dan cacat atau kerusakan yang ditemukan. Nilai ukur, alat, status kalibrasi atau verifikasi, area uji, dan keputusan harus dapat ditautkan kembali ke spesifikasi.
+
+Untuk galvanizing, catat komponen dan batch, gambar yang telah direview, komunikasi ventilasi/drainase, kondisi fabrikasi sebelum kirim, penerimaan dari galvanizer, penanganan, lokasi kerusakan bila ada, serta rencana perbaikan yang disetujui. Halaman inspeksi AGA dapat menjadi bahan orientasi tentang inspeksi produk galvanis, tetapi bukan pengganti standar proyek atau persetujuan galvanizer. [AGA: inspection of hot-dip galvanized products](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
+
+Jika inspeksi mencakup las atau NDT, rekamannya perlu menyebut objek atau sambungan, metode/teknik, prosedur, personel, peralatan dan kalibrasi, akses atau kondisi permukaan, cakupan, temuan, sumber kriteria, hasil, serta disposisi. Pernyataan singkat “NDT lulus” tidak cukup tanpa rantai informasi itu. [ISO 17635](https://www.iso.org/standard/85705.html) [ISO 9712](https://www.iso.org/standard/75614.html)
+
+Untuk rekaman peralatan pengelasan, bedakan pula kegiatan kalibrasi, verifikasi, atau validasi sesuai dokumen yang berlaku; istilah itu tidak boleh dipakai sebagai cap umum tanpa bukti objek dan kegiatannya. [ISO 17662](https://www.iso.org/standard/83737.html)
 
 ## Pilihan perawatan atau intervensi
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Temuan tidak selalu berarti seluruh sistem harus diganti, tetapi juga tidak otomatis boleh ditutup dengan cat. Pisahkan dahulu temuan kosmetik, kerusakan lokal, ketidaksesuaian proses, indikasi masalah pada baja atau sambungan, dan kondisi yang mengganggu fungsi. Pilihannya dapat berupa pemantauan dengan baseline yang jelas, pembersihan dan pemeliharaan, perbaikan lokal, pekerjaan ulang pada area terdampak, penggantian komponen, atau penghentian pekerjaan sambil menunggu keputusan teknis.
+
+Untuk setiap perbaikan, tulis alasan, batas area, kondisi awal, metode yang disetujui, bahan dan batch, persiapan ulang, pemeriksaan ulang, serta penerima keputusan. Teman Besi.co.id, perbaikan yang tidak tercatat dapat membuat peninjau berikutnya tidak tahu apakah ia melihat kerusakan lama, pekerjaan ulang, atau cacat baru.
+
+Jangan memilih metode repair atau nilai penerimaan dari kebiasaan lapangan. [NEEDS REVIEW: prosedur perbaikan, kompatibilitas sistem, persetujuan pemilik/perancang bila diperlukan, dan kriteria inspeksi ulang]. Untuk komponen yang menunjukkan isu geometri, las, atau fungsi, penguatan dan penggantian adalah keputusan desain/otoritas proyek, bukan keputusan inspeksi coating semata.
+
+Saat perbaikan berhubungan dengan hasil pemotongan termal atau dimensi fabrikasi, hubungkan keputusan pada gambar, proses, material, tebal, pengukuran, dan fungsi lanjutan; standar umum tidak otomatis menjadi toleransi untuk seluruh jenis komponen. [ISO 9013](https://www.iso.org/standard/60321.html) [ISO 9013/Amd 1](https://www.iso.org/standard/87851.html) [ISO 13920](https://www.iso.org/standard/86032.html)
 
 ## Cara menentukan prioritas
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Prioritaskan berdasarkan konsekuensi bila pelindung gagal, kecepatan perubahan kondisi, akses untuk perbaikan, tahap pekerjaan yang akan menutup akses, dan siapa yang berwenang mengambil keputusan. Area yang akan tertutup oleh pekerjaan berikutnya atau komponen dengan fungsi penting biasanya memerlukan keputusan lebih cepat daripada noda yang dapat diamati tanpa mengganggu fungsi.
+
+Gunakan tiga pertanyaan sederhana: apa yang bisa terjadi jika temuan dibiarkan, bukti apa yang hilang bila tahap berikutnya dimulai, dan apakah tim inspeksi memiliki wewenang untuk melepas pekerjaan? Bila jawabannya melibatkan keselamatan, kapasitas, desain, atau kewajiban kontrak, tahan pelepasan dan eskalasi ke otoritas yang ditetapkan. Ini bukan memperlambat proyek; ini menjaga agar keputusan tidak didasarkan pada rekaman yang tidak lengkap.
+
+Rencana sampling juga harus ditetapkan lebih dahulu. Lot/populasi, karakteristik, metode, pemilihan sampel, identitas, frekuensi atau ukuran, sumber kriteria, aturan keputusan, tanggung jawab, dan jalur ketidaksesuaian perlu tertulis. Satu hasil tidak otomatis mewakili satu lot tanpa rencana yang berlaku. [ISO 2859-1](https://www.iso.org/standard/85464.html) [ISO 28590](https://www.iso.org/standard/64622.html)
 
 ## Rekaman, handover, dan pemicu pemeriksaan ulang
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Surface Preparation, Coating, dan Galvanizing”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Handover yang dapat dipakai pemilik berikutnya bukan tumpukan PDF tanpa hubungan. Susun indeks yang menghubungkan daftar komponen, gambar dan revisi, sertifikat atau dokumen inspeksi material, catatan persiapan dan aplikasi, batch bahan, laporan pemeriksaan/pengujian yang disyaratkan, catatan ketidaksesuaian dan penutupannya, foto berlokasi, serta instruksi pemeliharaan. Kepercayaan pada laporan laboratorium juga perlu dibedakan dari kesesuaian item: kompetensi laboratorium relevan, tetapi tidak sendiri membuktikan komponen tertentu memenuhi persyaratan. [ISO/IEC 17025](https://www.iso.org/standard/66912.html)
 
-## Objection or shortcut to address
+Tetapkan pemicu pemeriksaan ulang sebelum serah terima: kerusakan saat transportasi atau pemasangan, area yang dikerjakan ulang, perubahan paparan lingkungan, temuan baru di dekat sambungan atau tepi, kehilangan identitas batch, atau dokumen yang tidak lagi dapat dicocokkan dengan komponen. Setelah pemicu terjadi, kembali ke baseline dan spesifikasi; jangan hanya menambahkan foto baru tanpa menjelaskan perubahan keputusan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum dossier ditutup, cocokkan setiap dokumen dengan objek fisik dan statusnya. Pada pekerjaan dengan persyaratan pengelasan, pengendalian yang baik mencakup kebutuhan yang terdefinisi, koordinasi kompeten, prosedur/personel yang sesuai bila dipersyaratkan, bahan serta peralatan terkendali, inspeksi, ketidaksesuaian, dan rekaman. [ISO 3834-2](https://www.iso.org/standard/81651.html) [ISO 14731](https://www.iso.org/standard/68893.html)
 
-## Required conclusion
+## Jangan lepaskan pekerjaan hanya karena tampilannya baik
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering muncul adalah, “Permukaannya sudah rata dan warnanya bagus, jadi langsung lanjut.” Pendekatan ini gagal ketika catatan persiapan, kondisi aplikasi, identitas bahan, atau kerusakan setelah proses tidak tersedia. Pemeriksaan akhir mungkin menemukan tampilan yang baik, tetapi tidak dapat memastikan bagaimana keadaan yang tertutup di balik lapisan atau apakah ketidaksesuaian proses sudah dikendalikan.
 
+Alternatif yang lebih andal ialah melepas pekerjaan per tahap dengan rekaman singkat namun dapat ditelusuri. Sobat Besi.co.id tidak perlu mengubah setiap inspeksi menjadi laporan tebal; yang penting, orang berikutnya dapat menjawab apa yang diperiksa, pada objek mana, menurut dokumen apa, hasilnya apa, dan siapa yang menyetujui disposisinya.
+
+## Langkah berikutnya sebelum penerimaan
+
+Inspeksi surface preparation, coating, dan galvanizing yang baik adalah pengendalian rantai bukti dari baja awal sampai handover, bukan penilaian visual di garis akhir. Langkah berikutnya: minta spesifikasi perlindungan yang disetujui, ITP, gambar berlaku, daftar komponen/batch, dan formulir rekaman per tahap sebelum pekerjaan ditutup.
+
+Aturan operasinya sederhana: jangan menerima atau memperbaiki berdasarkan tampilan saja ketika metode, nilai, cakupan, atau disposisi harus ditentukan oleh spesifikasi dan pihak berwenang proyek. [NEEDS REVIEW: konfirmasi akhir terhadap dokumen proyek yang berlaku sebelum penerimaan.]
+
+<!--
 ## Draft completion checklist
 
 - [ ] Opening answers the main question within two or three paragraphs.
@@ -225,3 +245,4 @@ These are future routes. Do not link them as live until their HTML exists.
 - [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
 - [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
 - [ ] Conclusion gives a concrete next action and an honest limit.
+-->

@@ -3,7 +3,7 @@ article_id: BES-15-A01
 title: "Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja"
 slug: "informasi-sebelum-mengangkat-dan-menyimpan-baja"
 description: "Gather verified mass, package geometry, center of gravity, lifting points, edge/rolling hazards, restraints, supports, coating, segregation, weather, and access"
-status: outline
+status: draft
 publication_date: "2026-06-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -28,6 +28,7 @@ sources:
 
 # Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja
 
+<!--
 ## Assignment lock
 
 - **Writer task:** Expand this file into one complete article answering: “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”
@@ -54,7 +55,9 @@ sources:
 - Do not use a generic industry-history or “Di era digital” introduction.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+-->
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,8 +68,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
+<!--
 ## Evidence packet
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
@@ -110,79 +114,91 @@ These are future routes. Do not link them as live until their HTML exists.
 
 - `BES-15-A02` → `/artikel/transport-baja-packing-dan-restraint.html` — Transport Baja: Packing, Restraint, Route, dan Damage Record
 - `BES-15-A03` → `/artikel/penyimpanan-produk-baja.html` — Menyimpan Plat, Profil, Pipa, dan Rebar Tanpa Merusak Material
+-->
 
 <!-- BEGIN PUBLIC ARTICLE SECTIONS -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Besi.co.id! Sebelum baja diangkat dari truk atau ditaruh di gudang, kumpulkan dulu identitas barang, massa yang terverifikasi, bentuk dan ukuran paket, titik berat, titik angkat yang diizinkan, serta kondisi penyangga dan jalurnya. Data itu bukan administrasi tambahan: satu paket dapat bergerak, berputar, menekan lapisan pelindung, atau tidak lagi mudah ditelusuri bila rencana dibuat hanya dari perkiraan visual.
+
+Jawaban singkatnya, informasi wajib adalah informasi yang memungkinkan tim memeriksa apakah barang dapat diterima, dipindahkan, lalu disimpan tanpa mengubah asumsi keselamatan, kondisi permukaan, atau identitasnya. Selain massa dan geometri, catat bahaya tepi tajam atau benda menggelinding, pengikat/pengekang yang masih diperlukan, lokasi tumpuan, pemisahan antarjenis barang, cuaca, akses, dan kondisi saat diterima. Praktik penyimpanan material juga menuntut pencegahan terhadap gerak, penyebaran, serta akses yang tidak aman; rujukannya perlu diterjemahkan menjadi rencana lokasi yang spesifik, bukan disalin mentah-mentah. [Panduan penyimpanan material OSHA](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)
+
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
+
+Jawaban ini dapat berubah bila dokumen pemasok, penandaan barang, gambar, atau kondisi fisik tidak saling cocok. Jika pusat gravitasi, titik angkat, kapasitas area, jenis pelapis, atau kondisi kemasan belum terverifikasi, jangan mengisi kekosongan dengan asumsi. [NEEDS G-12 REVIEW: rencana pengangkatan, penyimpanan, lalu lintas, dan pengendalian darurat spesifik lokasi oleh pihak kompeten.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud “baja” di sini bukan satu bentuk yang seragam. Barang dapat berupa profil, pelat, pipa, batang, rakitan, atau paket campuran; tiap bentuk membawa cara bergerak dan titik kontak yang berbeda. Karena itu, data paket tidak boleh dipinjam begitu saja dari barang lain yang tampak mirip. Nomor identitas atau penandaan, dokumen pengiriman, ukuran paket, kondisi coating, dan foto penerimaan membantu menjaga hubungan antara barang fisik dengan catatan yang menyertainya.
+
+Artikel ini membahas informasi untuk menyiapkan keputusan pengangkatan dan penyimpanan, bukan memilih sling, menentukan kapasitas alat angkat, menghitung batas tumpukan, atau menyatakan barang layak struktural. Permenaker 8/2020 tersedia sebagai salah satu sumber konteks peralatan angkat dan angkut Indonesia, tetapi penerapan di lokasi tetap membutuhkan penilaian risiko, metode kerja, personel, dan pengendalian yang sesuai pekerjaan. [Permenaker Nomor 8 Tahun 2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
+
+Pisahkan pula dua pertanyaan yang kerap tercampur: “apakah paket ini dapat dipindahkan menurut rencana?” dan “apakah barangnya masih sesuai untuk dipakai?” Yang pertama memerlukan data logistik; yang kedua dapat memerlukan dokumen material, inspeksi, atau penilaian profesional. Untuk baja berlapis, instruksi penanganan pemasok dan spesifikasi perlindungan korosi tetap menjadi acuan yang harus diminta. [NEEDS G-05/G-09 REVIEW: data produk, kompatibilitas kontak, serta instruksi perbaikan pelapis yang berlaku.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari penerimaan, bukan saat alat angkat sudah siap. Cocokkan barang dengan dokumen dan penandaan yang tersedia; rekam massa yang dinyatakan, bentuk paket, dimensi, jumlah, dan kondisi kemasan. Lalu tandai informasi yang belum diketahui, misalnya titik berat atau titik angkat yang benar. Ketidaksesuaian antara penandaan, daftar kemasan, dan barang fisik adalah alasan untuk menahan keputusan serta meminta klarifikasi, bukan alasan untuk menerka.
+
+Berikutnya, petakan perpindahan dari titik bongkar ke lokasi simpan. Tim perlu mengetahui apakah paket berisiko menggelinding atau menyebar, apakah ada tepi yang dapat merusak pengikat atau pelapis, dan apakah orientasi paket selama pemindahan berpengaruh. Untuk komponen yang akan digalvanisasi atau sudah tergalvanisasi, geometri tertutup/bertumpuk, jalur ventilasi dan drainase, orientasi, las, kebersihan permukaan, pemeriksaan, dan perbaikan saling terkait; keputusan detailnya harus dikaji bersama perancang dan galvanizer. [Panduan AGA tentang ventilasi dan drainase](https://galvanizeit.org/knowledgebase/article/venting-and-draining)
+
+Setelah itu, rancang lokasi simpan berdasarkan fakta lokasi: tanah atau rak yang stabil, tumpuan yang memadai, akses dan lorong, aliran air, ventilasi, dan cara menjaga penandaan tetap terlihat. Panduan perawatan produk LYSAGHT menekankan perlindungan terhadap kelembapan dan penyimpanan yang mendukung kondisi produk, namun itu adalah panduan produsen dan bukan desain untuk seluruh campuran baja atau aturan hukum Indonesia. [Panduan perawatan dan penyimpanan LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)
+
+Terakhir, buat catatan serah-terima yang dapat dipakai lagi: identitas dan lokasi barang, dokumen/gambar terkait, kondisi dan foto, cacat atau dugaan kerusakan, tindakan, penanggung jawab, serta waktu pemeriksaan berikutnya. Struktur catatan semacam ini sejalan dengan kebutuhan baseline aset yang menghubungkan identitas, kondisi, bukti, keputusan, dan tindak lanjut; standar yang dirujuk tidak menetapkan interval atau batas penerimaan proyek Anda. [ISO 55001:2024](https://www.iso.org/standard/83054.html)
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tidak ada daftar yang dapat menggantikan kondisi barang dan lokasi. Massa serta geometri yang benar memengaruhi cara paket dikendalikan; bentuk bulat atau panjang dapat menambah risiko gerak yang tidak diinginkan. Kemasan dapat menyembunyikan titik kontak atau kerusakan. Barang bercampur dapat kehilangan identitas bila tidak disegregasi. Area lembap, genangan, kondensasi, atau kontak antarpermukaan yang tidak sesuai dapat mengubah risiko terhadap pelapis dan kondisi permukaan.
+
+Kawan Besi.co.id, perlakukan setiap perubahan informasi sebagai pemicu pemeriksaan ulang. Contohnya: paket dipisah dari kemasan asal, dipindah ke rak lain, ditemukan goresan, jalur pengangkutan berubah, atau hujan membuat kondisi lokasi berbeda dari rencana. Catatan perubahan membuat keputusan berikutnya dapat ditelusuri, bukan bergantung pada ingatan shift sebelumnya.
+
+Untuk baja yang akan melalui proses galvanisasi, jangan menentukan sendiri lokasi/ukuran lubang, orientasi proses, atau penerimaan/perbaikan coating berdasarkan referensi umum. AGA menjelaskan bahwa detail desain dan fabrikasi memengaruhi hasil hot-dip galvanizing, tetapi detail akhir tetap bergantung pada gambar yang disetujui, kemampuan proses, spesifikasi, dan kajian galvanizer. [Praktik desain dan fabrikasi AGA](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg) [NEEDS G-10 REVIEW: tinjauan tertulis galvanizer yang terikat pada gambar dan persetujuan struktural.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan contoh berikut sebagai cara memilih pertanyaan, bukan sebagai instruksi rigging atau batas susun.
+
+| Situasi yang ditemukan | Informasi yang harus tersedia sebelum bergerak | Keputusan aman yang dapat diambil sekarang |
+| --- | --- | --- |
+| Paket profil datang dengan label dan daftar kemasan yang cocok | Massa, geometri paket, titik angkat yang diizinkan, kondisi pengikat, jalur, tumpuan, dan akses | Teruskan ke rencana kerja pihak kompeten; rekam kondisi penerimaan. |
+| Bundel batang kehilangan label saat bongkar | Dokumen asal, cara merekonsiliasi identitas, massa/isi, kondisi kemasan, dan risiko menggelinding | Pisahkan dan tandai sebagai karantina sampai identitasnya dipulihkan. |
+| Barang berlapis terlihat memiliki kerusakan atau kontak yang meragukan | Spesifikasi coating, instruksi pemasok/coater, foto, lokasi dan luas kerusakan, serta jalur keputusan | Lindungi dari kerusakan lanjutan dan minta disposisi tertulis; jangan menyatakan perbaikan sendiri memadai. |
+| Lokasi simpan berubah karena genangan atau akses tertutup | Kondisi tanah/rak, drainase, ruang lorong, cuaca, kapasitas lokasi, dan rencana baru | Tahan pemindahan ke lokasi tersebut sampai rencana penyimpanan diperbarui. |
+
+Teman Besi.co.id, kolom “keputusan aman” sengaja tidak memuat jenis alat, sudut sling, atau kapasitas. Hal-hal itu hanya dapat diputuskan setelah rencana pengangkatan/penyimpanan spesifik lokasi disetujui oleh pihak kompeten. [NEEDS G-12 REVIEW: verifikasi metode, peralatan, kompetensi, pengawasan, dan kontrol darurat.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Informasi Wajib Sebelum Mengangkat dan Menyimpan Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai massa dari ingatan, katalog umum, atau paket lain. Periksa kembali sumber massanya dan apakah sumber itu benar-benar berlaku untuk barang serta kemasannya. Kesalahan kedua adalah menganggap “sudah ada ikatan” berarti paket siap diangkat. Tanyakan fungsi ikatan tersebut: apakah hanya untuk pengiriman, apakah kondisinya masih baik, dan apakah rencana kerja memang mengizinkannya dipakai.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menaruh baja di tempat kosong tanpa menilai tumpuan, ruang akses, air, ventilasi, dan pemisahan. Checklist ringkas sebelum barang ditinggal adalah: identitas masih terbaca; barang tidak dapat menggelinding atau menyebar; tumpuan dan lokasi telah diperiksa; jalur akses tidak tertutup; kondisi cuaca/air telah dipertimbangkan; dan ada catatan kondisi serta pemilik tindakan bila ditemukan masalah. Kebutuhan menjaga penyimpanan agar stabil dan aksesibel juga tercermin dalam [persyaratan penyimpanan OSHA](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menganggap goresan atau perubahan tampilan pelapis sebagai masalah kosmetik yang bisa diputuskan di lapangan. Pemeriksaan hot-dip galvanizing mencakup ekspektasi penampilan, inspeksi, dan perbaikan dalam sistem yang terkait dengan spesifikasi serta proses. [Panduan inspeksi AGA](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products) Catat temuan, lindungi area dari kerusakan tambahan, lalu ikuti spesifikasi dan jalur persetujuan proyek.
 
-## Required conclusion
+## Mengapa "cuma dipindahkan sebentar" tetap perlu data
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Bajanya cuma dipindahkan sebentar” terdengar seperti alasan untuk melewati pencatatan. Justru perpindahan singkat sering memutus hubungan antara label, kemasan, lokasi, dan orang yang menyaksikan kondisinya. Begitu barang diletakkan di area sementara, tim berikutnya mungkin hanya melihat bentuknya, bukan data massanya, perlindungan permukaannya, atau alasan ia dipisahkan.
 
+Alternatif yang lebih andal adalah kartu atau catatan penerimaan singkat yang mengikuti barang: ID, dokumen rujukan, massa dan geometri yang telah diverifikasi, kondisi/foto awal, lokasi, pembatasan yang diketahui, serta orang yang harus dihubungi. Bila ada data yang belum ada, tulis sebagai terbuka dan karantina barang bila perlu. ISO 13822 menempatkan pengkajian struktur eksisting pada konteks informasi kondisi dan penilaian, bukan asumsi dari tampilan semata. [ISO 13822:2010](https://www.iso.org/standard/46556.html)
+
+## Langkah berikutnya sebelum barang dipindahkan
+
+Informasi wajib sebelum mengangkat dan menyimpan baja adalah bukti yang membuat identitas, massa, geometri, pusat gravitasi, titik angkat, bahaya gerak, pengekangan, tumpuan, kondisi coating, lingkungan, dan akses dapat diperiksa bersama. Sobat Besi.co.id, langkah berikutnya adalah meminta daftar kemasan/dokumen pemasok, meninjau barang dan lokasi, lalu memasukkan data yang terverifikasi ke rencana pengangkatan serta penyimpanan yang disetujui.
+
+Aturan operasionalnya sederhana: bila data barang, kondisi lokasi, atau kontrol kerja belum cocok, hentikan keputusan pemindahan atau penumpukan sampai pihak kompeten menetapkan pengendaliannya. Artikel ini tidak memilih rigging maupun batas tumpukan; keputusan tersebut tetap milik rencana spesifik proyek dan lokasi.
+
+<!--
 ## Draft completion checklist
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+- [x] Opening answers the main question within two or three paragraphs.
+- [x] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally four times total.
+- [x] Every H2 above has been replaced with finished, non-repetitive prose.
+- [x] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [x] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [x] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [x] Internal links use exact listed routes and helpful natural anchors.
+- [x] Future sibling routes are not presented as live.
+- [x] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [x] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [x] Conclusion gives a concrete next action and an honest limit.
+-->
