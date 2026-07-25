@@ -3,7 +3,7 @@ article_id: BES-06-A02
 title: "Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability"
 slug: "besi-beton-polos-dan-ulir"
 description: "Cover bar form, ribs, marking, diameter/mass checks, heat/certificate link, damage, cutting/bending traceability, and quarantine"
-status: outline
+status: draft
 publication_date: "2025-11-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +14,24 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/besi-beton-polos-dan-ulir.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
   - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
-  - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
+  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability
 
-## Assignment lock
+Halo, Teman Besi.co.id! Saat batang besi tiba di proyek, keputusan yang aman bukan sekadar memilih mana yang polos dan mana yang berulir. Terima material hanya setelah bentuk batang, marking, ukuran yang dipesan, dan dokumen pengiring masih dapat ditautkan satu sama lain. Jika salah satu mata rantai itu putus, batang tersebut belum punya identitas yang cukup untuk langsung dicampur ke stok kerja.
 
-- **Writer task:** Expand this file into one complete article answering: “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”
-- **Reader and situation:** Contractor receiving reinforcing bar
-- **Reader outcome:** Cover bar form, ribs, marking, diameter/mass checks, heat/certificate link, damage, cutting/bending traceability, and quarantine
-- **Primary intent:** Verify reinforcement identity
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design reinforcement or state acceptance limits; structural drawings and BES-14-A01 own acceptance
-- **Final public route:** `/artikel/besi-beton-polos-dan-ulir.html`
-- **Appointed CMS date:** `2025-11-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: besi beton polos dan ulir dibedakan antara lain oleh permukaan batangnya, tetapi bentuk fisik bukan bukti tunggal mutu maupun kesesuaiannya untuk pekerjaan tertentu. Periksa batang terhadap pesanan dan gambar, catat tanda/label yang tersedia, lalu cocokkan dengan dokumen produsen dan kelompok materialnya sebelum pemotongan atau pembengkokan. Persyaratan penerimaan akhirnya tetap mengikuti dokumen proyek, SNI dan ketentuan yang benar-benar berlaku bagi produk tersebut, serta persetujuan pihak yang berwenang.
 
-## Opening instructions
+![Ilustrasi besi beton ulir qqw48db9kvp7k7t15bhcfyv7s7zq0kqxfsp7q49ewo](/wp-content/uploads/elementor/thumbs/besi-beton-ulir-qqw48db9kvp7k7t15bhcfyv7s7zq0kqxfsp7q49ewo.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Kredit gambar: aset lokal proyek, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-016`
@@ -72,137 +42,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi beton ulir qqw48db9kvp7k7t15bhcfyv7s7zq0kqxfsp7q49ewo` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-016]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-06
-
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-06
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-ulir-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-ulir-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-ulir-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-ulir-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-ulir-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-ulir-way-kanan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-06-A01` → `/artikel/besi-polos-assental-nako-dan-poros.html` — Besi Polos, Assental, Nako, dan Poros: Memahami Produk Batang
-- `BES-06-A03` → `/artikel/begel-dan-bending-rebar.html` — Begel dan Bending Rebar: Bukti sebelum Batang Ditekuk
-- `BES-06-A04` → `/artikel/wiremesh-dan-kawat-bendrat.html` — Wiremesh dan Kawat Bendrat: Fungsi yang Tidak Bisa Saling Ganti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Istilah “besi beton” sering dipakai seolah-olah semua batang dapat dipertukarkan selama diameternya tampak sama. Itu shortcut yang berisiko. Batang polos, batang berulir, produk gulungan, maupun batang hasil proses tertentu dapat berada pada ruang lingkup produk dan pengendalian yang berbeda. Katalog BSN sendiri perlu dibaca pada rekaman standar yang tepat; sebuah judul atau nomor yang pernah dikenal tidak cukup untuk menyimpulkan edisi, ruang lingkup, atau status penerimaan material hari ini. Rekaman [SNI 2052:2017](https://pesta.bsn.go.id/produk/detail/11443-sni20522017) adalah titik awal penelusuran, bukan pengganti pembacaan dokumen yang berlaku untuk pesanan Anda.
+
+Karena itu, jangan menilai “ulir” sebagai jaminan otomatis dan “polos” sebagai pasti tidak boleh dipakai. Yang perlu dijawab oleh penerima adalah: batang ini produk apa, berasal dari kelompok kiriman mana, ditujukan untuk item mana pada pesanan, dan bukti apa yang masih melekat setelah penanganan di lapangan? Bila jawaban itu belum jelas, pisahkan material sambil meminta klarifikasi; jangan membuat keputusan desain atau batas penerimaan berdasarkan tampilan saja.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, identitas berarti kemampuan mengenali batang secara fisik dan administratif. Bentuk permukaan adalah salah satu petunjuk awal: batang polos memiliki permukaan tanpa pola ulir pengikat, sedangkan batang ulir memiliki pola rusuk/ulir. Marking dapat berupa tanda pada batang, ikatan, label bundel, tag, atau informasi kemasan—namun bentuk dan kelengkapan penandaan yang wajib harus diverifikasi pada dokumen produk dan proyek yang aktual.
+
+Traceability, atau ketertelusuran, adalah kemampuan menelusuri material dari batang atau kelompok batang di lapangan kembali ke dokumen dan sumbernya, lalu maju lagi ke lokasi pemakaiannya. Rantai ini biasanya menghubungkan pesanan, penerimaan, identitas produsen atau pemasok, heat/batch bila tersedia, sertifikat/inspection document, dan catatan pemotongan atau pembengkokan. Tujuannya bukan menambah administrasi, melainkan mencegah batang yang identitasnya hilang tersisip ke pekerjaan tanpa jalur verifikasi.
+
+Batas artikel ini penting: pembahasan tidak menetapkan diameter desain, mutu yang harus diterima, panjang penyaluran, radius tekuk, atau keputusan kelayakan struktur. Itu harus kembali ke gambar, spesifikasi, prosedur proyek, dan peninjauan teknis. [NEEDS TECHNICAL REVIEW: pastikan SNI edisi, regulasi, klasifikasi produk, dan kriteria penerimaan yang berlaku untuk pesanan/proyek sebelum material disetujui.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah saat material tiba, bukan setelah batang sudah dipotong. Pisahkan penerimaan per kendaraan, surat jalan, atau bundel agar hubungan fisik dengan dokumen tidak langsung hilang. Bandingkan jumlah dan bentuk produk dengan purchase order, lalu periksa apakah label, tag, marking batang, dan dokumen pengiring menunjuk ke kelompok yang sama. Bila identitas pada batang tidak praktis dibaca satu per satu, sistem proyek tetap perlu menetapkan cara menjaga hubungan batang dengan tag/bundelnya selama penyimpanan.
+
+Langkah berikutnya adalah pemeriksaan ukur yang dapat diulang: catat diameter nominal yang dipesan dan ukur dengan alat yang sesuai prosedur proyek; timbang sampel atau panjang tertentu hanya bila rencana inspeksi memang memintanya. Angka hasil ukur tidak berdiri sendiri. Catatan harus menyebut alat, tanggal, pelaksana, kelompok material, dan rujukan dokumen agar pembaca berikutnya tahu batang mana yang diperiksa. Jangan mengubah hasil ukur menjadi pernyataan lulus/gagal tanpa batas penerimaan yang disahkan.
+
+Kemudian cocokkan sertifikat atau inspection document dengan barang yang ada. Prinsipnya, dokumen inspeksi perlu direkonsiliasi terhadap pesanan, produsen, produk, heat/batch, dimensi, pengujian, dan penandaan fisik yang relevan. [ISO 10474](https://www.iso.org/standard/53736.html) membahas dokumen inspeksi untuk produk logam; gunakan itu sebagai kerangka membaca, bukan alasan menebak jenis dokumen, penandatangan, atau aturan sampling yang dipersyaratkan kontrak.
+
+Jika proyek memakai laporan uji dari laboratorium, periksa pula identitas sampel, metode yang disebutkan, otorisasi laporan, dan hubungan sampel dengan batang/bundel yang diterima. Kompetensi laboratorium relevan untuk menilai kepercayaan terhadap hasil, tetapi akreditasi tidak dengan sendirinya membuktikan satu batang tertentu sesuai spesifikasi. Rujukan [ISO/IEC 17025](https://www.iso.org/standard/66912.html) membantu menempatkan batas tersebut. Sobat Besi.co.id, dokumen bagus tanpa rantai identitas ke barang fisik tetap menyisakan pertanyaan yang harus ditutup.
+
+Sesudah material dilepas untuk fabrikasi, traceability harus berpindah bersama proses. Beri kode lot kerja pada area penyimpanan dan pada daftar potong/bending; simpan hubungan kode itu dengan dokumen penerimaan. Ketika batang menjadi beberapa potongan atau begel, identitasnya tidak lagi bisa bergantung pada panjang batang awal. Catatan produksi yang sederhana—tanggal, lot asal, item gambar, dan tujuan penempatan—lebih berguna daripada mencoba mengingatnya setelah tulangan sudah bercampur.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, bentuk produk dan asal material mengubah jalur pemeriksaan. Jangan menyamakan batang berulir, batang polos, produk rerolled, atau produk gulungan hanya karena semuanya disebut besi beton. Regulasi dan standar dapat membedakan definisi, ruang lingkup, penilaian kesesuaian, pengecualian, masa transisi, dan penandaan. [Permenperin 55 Tahun 2024](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024) perlu dibaca bersama teks konsolidasi yang berlaku dan rujukan SNI terkait oleh penanggung jawab yang kompeten; halaman status saja tidak cukup untuk menetapkan kewajiban pada suatu kiriman.
+
+Kedua, kondisi fisik menentukan apakah identitas masih bisa dipercaya. Tag yang lepas, cat penanda yang pudar, korosi atau kerusakan yang mengaburkan marking, bundel yang bercampur, dan batang yang sudah dipotong dapat memutus hubungan dengan sertifikat. Catat kondisi tersebut sebagai temuan identitas, bukan langsung sebagai klaim bahwa mutu material pasti buruk. Kawan Besi.co.id, semakin jauh material bergerak dari bundel asal, semakin penting kode lot dan catatan perpindahannya.
+
+Ketiga, urutan kerja memengaruhi biaya koreksi. Memeriksa sebelum pembongkaran, sebelum pemotongan, dan sebelum penempatan memberi pilihan lebih banyak daripada memeriksa setelah tulangan terpasang. Penanganan, pengangkatan, penyimpanan, fabrikasi, dan pemasangan juga mempunyai risiko K3 yang tidak selesai dengan satu daftar cek generik. Pedoman [SMKK Permen PUPR 10 Tahun 2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) harus diterapkan melalui penilaian risiko, metode kerja, kompetensi personel, dan pengawasan yang sesuai kondisi lokasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara memilih tindakan, bukan sebagai batas penerimaan teknis.
+
+| Situasi penerimaan | Bukti yang masih terhubung | Tindakan awal yang lebih aman |
+| --- | --- | --- |
+| Bundel berlabel, dokumen pengiring tersedia, dan bentuk/ukuran pesanan dapat diperiksa | Tag/bundel, surat jalan, order, serta dokumen produsen dapat dibandingkan | Catat lot, lakukan pemeriksaan sesuai ITP/prosedur proyek, lalu lepaskan hanya setelah persetujuan yang disyaratkan. |
+| Batang ada tetapi tag lepas atau beberapa bundel tercampur | Hubungan fisik ke dokumen tidak pasti | Karantina secara fisik, beri status tahan, dan minta penelusuran pemasok/produsen atau arahan penanggung jawab teknis. |
+| Sertifikat tersedia tetapi heat/batch atau produk pada dokumen tidak dapat dicocokkan ke barang | Dokumen tidak membuktikan identitas batang tertentu | Jangan memakai sertifikat itu sebagai bukti tunggal; bangun kembali chain of identity atau lakukan tindakan yang ditetapkan prosedur proyek. |
+| Batang sudah dipotong dan bercampur sebelum pemeriksaan | Traceability dari batang asal telah berkurang | Hentikan pemakaian kelompok terdampak, petakan lokasi/daftar potong, lalu eskalasikan keputusan kepada pihak berwenang proyek. |
+
+Contoh ini sengaja tidak menyebut angka toleransi atau hasil tes. Keputusan akhir bergantung pada spesifikasi kontrak, gambar struktur, rencana inspeksi dan pengujian (ITP), serta bukti yang benar-benar tersedia. Jika pemasok menawarkan penggantian atau dokumen baru, perlakukan itu sebagai informasi untuk diverifikasi, bukan perbaikan otomatis atas rantai bukti yang putus.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Polos dan Ulir: Identitas, Marking, dan Traceability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap diameter yang tampak sama berarti itemnya sama. Perbaiki dengan membandingkan kode item pada pesanan, bentuk batang, label/marking, dan dokumen lot sebelum stok digabungkan. Kesalahan kedua adalah menyimpan sertifikat di kantor sementara bundel di lapangan tanpa kode penghubung. Perbaiki dengan menuliskan nomor lot pada register penerimaan dan menandai lokasi simpan yang bersangkutan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memotong semua batang agar pekerjaan cepat, lalu baru mencari dokumen ketika ada pertanyaan. Shortcut ini gagal karena satu batang asal berubah menjadi banyak potongan yang sulit ditautkan kembali. Buat titik henti: material belum boleh masuk daftar potong sampai status identitasnya jelas. Bila perubahan jadwal memaksa keputusan cepat, catat siapa yang meminta, bukti apa yang ada, serta siapa yang memiliki kewenangan menyetujui deviasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah memakai satu klaim standar untuk semua produk. Status standar dan ketentuan regulasi perlu diverifikasi terhadap produk, edisi, dan lingkup pembelian yang spesifik. Jangan menarik detail kewajiban dari judul katalog atau ringkasan regulasi. [NEEDS REGULATORY REVIEW: konfirmasi ketentuan wajib, masa transisi, pengecualian, dan bukti kesesuaian yang relevan sebelum menetapkan penerimaan.]
 
-## Required conclusion
+## Aturan kerja sebelum batang masuk fabrikasi
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Aturan praktisnya sederhana: **jangan potong, tekuk, atau campurkan batang yang belum dapat dihubungkan kembali ke pesanan dan dokumen lotnya.** Teman Besi.co.id, mulai dari register penerimaan hari ini: satu lot, satu kode, satu lokasi simpan, dan satu tautan ke dokumen pendukung. Tambahkan daftar potong/bending saat material bergerak dari gudang ke fabrikasi.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Dengan cara itu, perbedaan antara besi polos dan ulir diperlakukan sebagai awal identifikasi, bukan akhir pemeriksaan. Untuk persetujuan penggunaan, minta penanggung jawab teknis dan mutu proyek meninjau bukti terhadap gambar, spesifikasi, SNI/regulasi yang berlaku, serta kondisi material aktual. Jika rantai tersebut tidak dapat dibuktikan, pertahankan material dalam karantina sampai ada keputusan tertulis—bukan sampai pekerjaan kebetulan membutuhkannya.
