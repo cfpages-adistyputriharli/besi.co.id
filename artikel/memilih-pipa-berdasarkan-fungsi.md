@@ -108,7 +108,7 @@ Misalnya seorang pembeli berkata, “Saya butuh pipa 2 inci untuk proyek.” Kal
 
 Contoh ini sengaja tidak memberi angka ukuran, ketebalan, atau kapasitas. Angka tersebut berubah mengikuti desain dan kondisi nyata, sedangkan tujuan artikel ini adalah memastikan pertanyaan awalnya sudah benar.
 
-## Shortcut yang sering mahal di belakang
+## Jalan pintas yang sering mahal di belakang
 
 Shortcut paling menggoda adalah: “Ambil yang paling tebal saja, pasti aman untuk semua.” Pendekatan ini bisa gagal karena ketebalan tidak menjawab kesesuaian terhadap fluida, kualitas sambungan, detail struktur, ruang tarik kabel, atau bukti mutu. Ia juga dapat membuat pembeli membayar lebih untuk barang yang masih tidak cocok dengan sistemnya.
 

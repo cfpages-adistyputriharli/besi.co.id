@@ -88,7 +88,7 @@ Tanyakan juga apakah ada pengujian pihak ketiga, laboratorium mana yang menerbit
 
 Untuk klaim asal bahan, kandungan daur ulang, atau keberlanjutan, minta karakteristik yang diklaim, batas sistem, catatan input-output, pihak yang bertanggung jawab, aturan transfer, dan pencegahan hitung ganda. [ISO 22095](https://www.iso.org/standard/72532.html) membedakan pendekatan identitas fisik, segregasi, mass balance, dan klaim administratif; pembaruan ISO pada 2026 juga menegaskan pentingnya kejelasan rantai penguasaan. [Penjelasan pembaruan ISO](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html) bukan bukti bahwa baja tertentu memenuhi klaim tersebut.
 
-## Red flag dan biaya yang sering tersembunyi
+## Tanda peringatan dan biaya yang sering tersembunyi
 
 Red flag praktis bukan tuduhan kepada penyedia. Ini hanya alasan untuk memperlambat keputusan, biar tidak salah langkah: nomor sertifikat tidak mengarah ke barang yang datang, label tampak diganti tanpa penjelasan, jumlah atau ukuran berbeda dari PO, halaman sertifikat terpotong, penerbit tidak dapat dikonfirmasi, atau beberapa batch digabung menjadi satu klaim tanpa pemetaan.
 

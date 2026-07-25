@@ -53,7 +53,7 @@ Siapkan dokumen pengiriman, pesanan pembelian, daftar pengepakan bila ada, serta
 
 Pastikan permukaan yang akan diukur cukup bersih untuk dibaca. Lumpur, plastik pembungkus, karat lepas, cat tebal, burr, atau ujung yang penyok dapat membuat rahang jangka sorong tidak duduk pada material yang sebenarnya. Bila kondisi permukaan menghalangi pembacaan, catat kondisinya dan minta arahan pemeriksa teknis, bukan memaksa satu angka tampak rapi.
 
-## Langkah 1 — tetapkan scope
+## Langkah 1 — tetapkan cakupan
 
 Mulailah dari pertanyaan sederhana: dimensi mana yang menentukan bahwa barang ini sesuai dengan identitas yang dipesan? Untuk pelat, bisa jadi tebal, lebar, dan panjang. Untuk pipa, diameter luar, tebal dinding, dan panjang sering lebih relevan daripada nama nominalnya. Untuk profil, pilih ukuran yang memang disebut pada dokumen pengadaan atau gambar, bukan semua sisi yang kebetulan mudah dijangkau.
 
@@ -87,13 +87,13 @@ Berikut urutan catatan yang sederhana dan mudah diaudit:
 4. Catat lokasi ukur, hasil tiap pembacaan, satuan, dan kondisi permukaan.
 5. Tandai hasil yang perlu ditinjau, lalu pisahkan status “diukur” dari status “diterima”.
 
-## Hold point dan kondisi berhenti
+## Titik pemeriksaan dan kondisi berhenti
 
 Hentikan proses penerimaan biasa dan naikkan ke pihak yang berwenang bila identitas material tidak dapat dicocokkan, alat ukur tidak punya status yang dapat ditelusuri, barang tidak aman diakses, atau hasil ukur berbeda dari dokumen tanpa batas penerimaan yang disetujui. Hold point bukan berarti material pasti ditolak; artinya barang tidak boleh dilepas sebagai sesuai sebelum dasar keputusannya lengkap.
 
 Kondisi berhenti juga berlaku ketika satuan tidak jelas, dokumen menyebut ukuran nominal tetapi tidak menyebut sistem produk, atau satu batang yang diukur tidak dapat dihubungkan ke lot. Jangan mengisi angka perkiraan agar formulir selesai. Minta review teknis untuk mengonfirmasi spesifikasi produk, toleransi, rencana sampling, dan aturan disposition sebelum keputusan lulus-tolak.
 
-## Verifikasi hasil dan handover
+## Verifikasi hasil dan serah-terima
 
 Sebelum handover, periksa kembali bahwa setiap hasil bisa ditelusuri ke barang dan dokumennya. Rekaman minimal sebaiknya memuat identitas kiriman, sampel, alat, tanggal, pemeriksa, lokasi ukur, hasil, satuan, serta status tindak lanjut. Jika ada selisih, simpan hasil asli dan jelaskan tindakan berikutnya: minta klarifikasi pemasok, ukur ulang dengan alat yang sesuai, lakukan pemeriksaan teknis, atau tahan lot di area terpisah.
 

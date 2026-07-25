@@ -58,7 +58,7 @@ Hasil yang dicari bukan sekadar pelat terpisah. Fabricator perlu menyerahkan kom
 
 Prasyarat minimumnya adalah gambar revisi terkendali, daftar material, jumlah potong, urutan produksi, serta jalur proses yang telah disetujui. Orang yang berwenang menetapkan parameter mesin, bukan artikel ini. Jika komponen akan dilas, koordinasi mutu perlu menghubungkan persyaratan, prosedur, personel, peralatan, material, inspeksi, ketidaksesuaian, dan rekaman; inspeksi akhir tidak dapat mengembalikan variabel proses penting yang sejak awal tidak dikendalikan. [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 14731:2019](https://www.iso.org/standard/68893.html), dan [ISO 17662:2025](https://www.iso.org/standard/83737.html) memberi kerangka mutu tersebut, bukan pengaturan mesin siap pakai.
 
-## Langkah 1 — tetapkan scope
+## Langkah 1 — tetapkan cakupan
 
 Mulailah dengan membagi kebutuhan menjadi lima pertanyaan: bentuk apa yang dipotong, berapa ketebalannya, seberapa penting mutu tepi dan ukuran akhir, berapa banyak unitnya, dan akan diproses menjadi apa setelah itu. Potongan lurus pada profil atau batang sering mengarahkan pembahasan ke saw. Pelat dengan garis lurus tertentu dapat dinilai untuk shear. Kontur pada pelat dapat membawa pilihan ke plasma, laser, atau oxyfuel. Ini peta keputusan, bukan aturan bahwa satu proses pasti unggul.
 
@@ -86,7 +86,7 @@ Untuk potong termal, proses yang dipilih perlu dipertemukan dengan persyaratan t
 
 Keselamatan pun bukan lampiran terakhir. Pemotongan, pemindahan material, peralatan produksi, paparan lingkungan kerja, dan kemungkinan pekerjaan di lokasi dapat berada dalam lingkup yang berbeda. Kerangka SMKK pada [Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) serta peraturan tentang [lingkungan kerja](https://jdih.kemnaker.go.id/peraturan/detail/1546), [pesawat angkat dan angkut](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [kerja pada ketinggian](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), dan [pesawat tenaga dan produksi](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016) tidak menggantikan penilaian risiko, izin, kompetensi, pemeriksaan peralatan, rencana darurat, dan pengawasan di tempat kerja.
 
-## Hold point dan kondisi berhenti
+## Titik pemeriksaan dan kondisi berhenti
 
 Berhentikan keputusan dan minta review bila salah satu hal ini muncul: material tidak bisa ditelusuri ke dokumennya; gambar tidak jelas atau revisinya bertentangan; proses yang direncanakan tidak tertulis dalam rute yang disetujui; mutu tepi atau ukuran belum memiliki kriteria penerimaan; atau hasil potongan awal tidak mendukung fungsi lanjutannya. Hold point berarti titik tahan: produksi tidak diteruskan sampai pihak yang berwenang menilai bukti dan memberi keputusan.
 
@@ -94,7 +94,7 @@ Jangan pula meneruskan pemotongan karena “nanti dirapikan”. Jalan pintas ini
 
 [NEEDS REVIEW: G-12—pastikan penilaian risiko lokasi, kewajiban pemberi kerja, kompetensi personel, kondisi peralatan, dan izin kerja diperiksa terhadap teks peraturan terkini serta kondisi pekerjaan nyata.]
 
-## Verifikasi hasil dan handover
+## Verifikasi hasil dan serah-terima
 
 Sebelum handover ke proses berikutnya, periksa identitas komponen, jumlah, bentuk, ukuran yang diminta, kondisi tepi terhadap kriteria yang telah disetujui, serta kesiapan untuk operasi lanjut. Catat proses yang dipakai, revisi gambar, lot atau heat material bila dipersyaratkan, hasil pemeriksaan, ketidaksesuaian, dan tindakan koreksi. Rekaman itu membantu pihak berikutnya memahami apa yang telah dilakukan tanpa menebak.
 

@@ -114,7 +114,7 @@ Jalan pintas ini terlihat aman karena UT dikenal sebagai pemeriksaan bagian dala
 
 Alternatif yang lebih rapi adalah menyusun urutan keputusan: identifikasi sambungan dan konsekuensinya, lakukan pemeriksaan visual serta kesiapan area, tentukan pertanyaan yang perlu dijawab, lalu tetapkan metode dan cakupan melalui rencana yang disetujui. Sesudah itu, pastikan laporan menyimpan alasan, kondisi, dan hasilnya. Singkatnya, pilih metode karena pertanyaannya tepat, bukan karena nama metodenya paling terkenal.
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+## Rekaman, serah-terima, dan pemicu pemeriksaan ulang
 
 Saat pekerjaan diserahkan, simpan hubungan antara gambar atau daftar sambungan, rencana NDT, prosedur yang berlaku, identitas petugas, status alat, laporan hasil, temuan, keputusan, dan bukti pemeriksaan ulang bila ada. Handover bukan tumpukan PDF; ia harus cukup jelas agar peninjau berikutnya tahu sambungan mana yang diperiksa, dengan cara apa, pada kondisi apa, dan apa batas kesimpulannya.
 
