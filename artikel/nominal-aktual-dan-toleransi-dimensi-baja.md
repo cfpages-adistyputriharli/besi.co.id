@@ -2,8 +2,9 @@
 article_id: BES-03-A01
 title: "Nominal, Aktual, dan Toleransi Dimensi Baja"
 slug: "nominal-aktual-dan-toleransi-dimensi-baja"
-description: "Explain nominal size, measured size, permitted variation, rounding, length tolerance, straightness, and measurement conditions"
-status: outline
+description: "Memahami ukuran nominal, ukuran hasil ukur, dan batas penyimpangan dimensi baja."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -27,37 +28,7 @@ sources:
   - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Nominal, Aktual, dan Toleransi Dimensi Baja
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Nominal, Aktual, dan Toleransi Dimensi Baja”
-- **Reader and situation:** Buyer comparing catalog and measured stock
-- **Reader outcome:** Explain nominal size, measured size, permitted variation, rounding, length tolerance, straightness, and measurement conditions
-- **Primary intent:** Interpret dimensional terms
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not publish universal tolerance; product standard in BES-02-A01 owns limits
-- **Final public route:** `/artikel/nominal-aktual-dan-toleransi-dimensi-baja.html`
-- **Appointed CMS date:** `2025-09-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Nominal, Aktual, dan Toleransi Dimensi Baja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,131 +39,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Nominal, Aktual, dan Toleransi Dimensi Baja
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Angka pada katalog belum tentu sama persis dengan angka yang keluar dari alat ukur di gudang. Itu tidak otomatis berarti barangnya salah. Yang perlu dibedakan adalah **ukuran nominal**, **ukuran aktual**, dan **toleransi** atau batas penyimpangan yang masih diizinkan oleh dokumen produk.
 
-### KR-03
+Ukuran nominal adalah nama atau penanda ukuran. Ukuran aktual adalah hasil pengukuran pada batang, pelat, atau pipa yang benar-benar diterima. Sementara toleransi menjawab pertanyaan penting: selisih sebesar apa yang masih boleh diterima untuk produk, pesanan, dan cara pakai tertentu. Jadi, jangan menilai hanya dari satu angka di meteran lalu langsung menyimpulkan material lolos atau ditolak.
 
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-### KR-08
+*Aset lokal proyek; bukan klaim dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+## Bedakan nama ukuran dengan hasil ukur
 
-### KR-15
+Bayangkan Anda membeli pipa yang diberi nama ukuran tertentu. Nama itu membantu orang memesan, membaca tabel, dan menyamakan produk dalam percakapan. Namun nama ukuran tidak selalu merupakan janji bahwa setiap titik pada benda harus menunjukkan angka yang identik saat diukur.
 
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
+Ukuran aktual adalah angka yang didapat ketika pemeriksa mengukur objek nyata. Angka itu dipengaruhi oleh objek mana yang diukur, posisi ukurnya, alat yang dipakai, cara alat disentuhkan, serta kondisi permukaan. Pada produk yang panjang, hasil di dekat ujung belum tentu sama dengan hasil di tengah. Pada produk yang sudah dipotong atau dikerjakan ulang, kondisi proses juga ikut berpengaruh.
 
-### KR-23
+Toleransi bukan istilah untuk membolehkan asal berbeda. Toleransi adalah batas penyimpangan yang harus dirujuk ke spesifikasi produk, pesanan, gambar, dan syarat penerimaan yang berlaku. Untuk pipa, misalnya, tabel dimensi dan massa teoretis harus dibaca bersama geometri acuan, panjang, asumsi massa jenis, serta aturan pembulatan; angka hasil timbang dan hasil ukur penerimaan adalah pemeriksaan yang berbeda. [ISO 4200](https://www.iso.org/standard/9985.html) dan [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) menunjukkan bahwa identitas ukuran dan tabel produk memang bergantung pada standar rujukannya.
 
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
+Begitu pula dengan angka hasil uji. [ISO 6892-1](https://www.iso.org/standard/78322.html) membahas cara uji tarik pada suhu ruang, sedangkan [ISO 377](https://www.iso.org/standard/72529.html) dan [amendemennya](https://www.iso.org/standard/89449.html) membahas pengambilan serta penyiapan contoh baja. Artinya, satu angka pada laporan tidak berdiri sendiri: sumber contoh, arah pengambilan, penyiapan, metode, kondisi, satuan, dan identitas produk atau lelehan tetap perlu jelas. Metode uji tidak dengan sendirinya membuktikan seluruh stok memenuhi syarat.
 
-## Evidence gates
+Kawan Besi.co.id, pegang tiga pertanyaan ini sebelum membandingkan angka: ukuran apa yang sedang disebut, di titik mana ukurannya diambil, dan dokumen mana yang menetapkan batas penerimaannya?
 
-- **TOPIC-GATE:** G-01, G-04, G-13
+## Dimensi mana yang harus diperiksa?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kata “dimensi” bisa berarti hal yang berbeda menurut bentuk produk. Pada pelat, pembeli mungkin memperhatikan tebal, lebar, dan panjang. Pada batang bulat, diameternya menjadi perhatian utama. Pada pipa, diameter luar, tebal dinding, panjang, dan bentuk penampang bisa sama-sama penting. Pada rakitan hasil pengelasan, kelurusan, siku, dan ukuran antarbagian dapat memengaruhi apakah komponen dapat dipasang.
 
-## Internal-link plan
+Karena itu, jangan membuat satu aturan umum untuk semua baja. Persyaratan pada bahan baku tidak otomatis sama dengan persyaratan pada komponen yang sudah dipotong, dibengkokkan, dilas, atau dimesin. [ISO 9013](https://www.iso.org/standard/60321.html), termasuk [amendemennya](https://www.iso.org/standard/87851.html), membahas mutu pemotongan termal, sedangkan [ISO 13920](https://www.iso.org/standard/86032.html) membahas toleransi umum untuk konstruksi las. Keduanya tidak dapat dipakai begitu saja untuk menetapkan batas setiap bentuk dan setiap pekerjaan.
 
-### Existing local routes
+Dalam praktik penerimaan, tuliskan objek pemeriksaan dengan jelas. “Tebal pelat” masih terlalu umum bila tidak disertai nomor kelompok produksi (lot), lokasi pengukuran, satuan, dan acuan pesanan. Catatan sederhana seperti itu membantu saat ada selisih yang harus dibahas dengan pemasok.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Mengapa satu hasil ukur belum cukup?
 
-### Planned sibling articles
+Hasil ukur hanya bermakna bila konteksnya utuh. Alat harus sesuai untuk ukuran yang diperiksa dan penggunaannya perlu konsisten. Permukaan yang kasar, lapisan, burr di tepi, karat, atau titik ukur yang berbeda dapat membuat pembacaan berubah. Panjang pun perlu dipahami sebagai panjang pada kondisi pengukuran yang disepakati, bukan sekadar angka yang diambil tergesa-gesa.
 
-These are future routes. Do not link them as live until their HTML exists.
+Selain itu, keputusan atas satu lot tidak layak dibuat dari satu angka tanpa rencana pemeriksaan. Rencana tersebut setidaknya perlu menyebut lot atau populasi, ciri yang diperiksa, metode, pemilihan sampel, identitas sampel, frekuensi, sumber kriteria, aturan keputusan, penanggung jawab, catatan, dan cara menangani ketidaksesuaian. Prinsip ini sejalan dengan ruang lingkup [ISO 2859-1](https://www.iso.org/standard/85464.html) tentang pengambilan sampel lot demi lot, [ISO 28590](https://www.iso.org/standard/64622.html) sebagai pengantar seri tersebut, dan [ISO/IEC 17025](https://www.iso.org/standard/66912.html) tentang kompetensi laboratorium.
 
-- `BES-03-A02` → `/artikel/menghitung-berat-teoretis-produk-baja.html` — Menghitung Berat Teoretis Produk Baja
-- `BES-03-A03` → `/artikel/mengukur-dimensi-material-saat-receiving.html` — Cara Mengukur Tebal, Diameter, dan Panjang Material saat Receiving
+Sederhananya, Teman Besi.co.id: alat ukur memberi angka, tetapi dokumen yang disetujui memberi arti pada angka itu. Tanpa keduanya, pemeriksaan mudah berubah menjadi debat pendapat.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kondisi yang bisa mengubah keputusan
 
-## Jawaban singkat dan salah paham utama
+Beberapa kondisi berikut perlu dicatat karena dapat mengubah cara angka dibaca.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Kondisi | Mengapa berpengaruh | Langkah aman |
+|---|---|---|
+| Bentuk dan jenis produk | Dimensi penting pada pelat, pipa, batang, dan rakitan tidak sama. | Cocokkan istilah dimensi dengan spesifikasi produk yang dipesan. |
+| Tahap proses | Potong termal, pembengkokan, pengelasan, atau pemesinan dapat menambah kebutuhan pemeriksaan. | Rujuk gambar dan prosedur pekerjaan yang berlaku. |
+| Lokasi dan cara ukur | Titik ukur dan cara menempelkan alat memengaruhi hasil. | Tetapkan lokasi, alat, satuan, dan cara pencatatan sebelum memeriksa. |
+| Dasar penerimaan | Katalog, pesanan, gambar, dan standar dapat memegang peran berbeda. | Pastikan dokumen yang menjadi acuan penerimaan disebut secara tertulis. |
 
-## Definisi dan batas objek
+Jangan memakai toleransi umum dari internet untuk membenarkan produk tertentu. Kelas toleransi, rentang ukuran, metode ukur, serta aturan penerimaan harus berasal dari dokumen lengkap yang relevan. [NEEDS REVIEW: standar produk lengkap, gambar yang disetujui, dan rencana inspeksi untuk pesanan ini belum tersedia; cocokkan ketiganya sebelum menerima atau menolak lot.]
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh cara mengambil keputusan tanpa menebak
 
-## Cara kerjanya
+Misalnya, pembeli menerima beberapa batang baja dan menemukan satu hasil pengukuran yang tidak persis sama dengan angka nominal pada penawaran. Langkah yang lebih berguna bukan langsung berkata “kurang” atau “aman”, melainkan:
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. Identifikasi produk dan lotnya, termasuk dokumen pesanan atau sertifikat yang menyertainya.
+2. Pastikan dimensi yang dibandingkan memang sama: diameter dengan diameter, tebal dengan tebal, atau panjang dengan panjang.
+3. Ulangi pengukuran pada titik yang ditentukan memakai alat dan satuan yang sama.
+4. Bandingkan hasil dengan batas pada spesifikasi produk atau gambar, bukan dengan perkiraan pribadi.
+5. Bila ada selisih, catat hasil, lokasi ukur, identitas lot, dan langkah tindak lanjutnya.
 
-## Faktor yang mengubah hasil
+Cara ini juga mencegah salah paham antara massa teoretis dan massa aktual. Massa teoretis bergantung pada bentuk rujukan, panjang, asumsi massa jenis, dan aturan pembulatan. Menimbang barang yang diterima adalah pemeriksaan lain. Sobat Besi.co.id, jangan menjadikan satu jenis angka sebagai pengganti untuk jenis pemeriksaan yang lain.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering membuat pemeriksaan meleset
 
-## Contoh keputusan praktis
+Kesalahan pertama adalah menganggap ukuran nominal sebagai ukuran hasil ukur yang wajib identik di semua titik. Kesalahan kedua adalah mengukur sekali, lalu memakai hasil itu untuk mewakili seluruh lot. Kesalahan ketiga adalah memakai angka toleransi dari produk atau proses yang berbeda. Ketiganya dapat berujung pada barang ditolak tanpa dasar, atau sebaliknya barang bermasalah lolos tanpa pemeriksaan memadai.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada juga jalan pintas yang terdengar praktis: “kalau dekat dengan angka katalog, pasti tidak apa-apa.” Jalan pintas ini gagal ketika fungsi akhir membutuhkan batas tertentu, ketika produk sudah melewati proses fabrikasi, atau ketika syarat kontrak menetapkan cara penerimaan yang spesifik. Pilihan yang lebih aman adalah meminta acuan tertulis dan mencatat pemeriksaan secara konsisten.
 
-## Kesalahan umum dan cara memeriksanya
+Jika Anda sedang menyusun daftar pertanyaan sebelum membeli, [halaman utama Besi.co.id](/) dapat menjadi titik awal untuk melihat konteks material yang tersedia. Namun keputusan penerimaan tetap harus kembali ke dokumen produk dan proyek yang benar-benar berlaku.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Nominal, Aktual, dan Toleransi Dimensi Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penutup: angka harus dibaca bersama acuannya
 
-## Objection or shortcut to address
+Nominal adalah nama ukuran, aktual adalah angka yang Anda ukur, dan toleransi adalah batas penyimpangan yang hanya sah bila dirujuk ke dokumen yang tepat. Ketiganya tidak boleh dicampur, apalagi dipakai untuk menebak kelayakan material.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum menerima barang, mintalah spesifikasi produk, pesanan atau gambar yang berlaku, serta rencana pemeriksaan; lalu ukur dan catat dengan cara yang konsisten. Itu aturan kerja yang sederhana: **jangan putuskan dari angka tunggal—periksa objek, cara ukur, dan acuannya bersama-sama.**

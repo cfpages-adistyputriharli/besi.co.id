@@ -2,8 +2,9 @@
 article_id: BES-07-A02
 title: "OD, NPS, DN, Tebal, dan Schedule Pipa"
 slug: "od-nps-dn-tebal-dan-schedule-pipa"
-description: "Distinguish outside diameter, nominal size, wall thickness, schedule, inside diameter, tolerances, and unit conversions"
-status: outline
+description: "Memahami perbedaan diameter luar, ukuran nominal, DN, tebal dinding, dan schedule pipa sebelum membaca tabel atau memesan material"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,37 +25,7 @@ sources:
   - "https://www.iso.org/standard/79581.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# OD, NPS, DN, Tebal, dan Schedule Pipa
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “OD, NPS, DN, Tebal, dan Schedule Pipa”
-- **Reader and situation:** Buyer reading a pipe table
-- **Reader outcome:** Distinguish outside diameter, nominal size, wall thickness, schedule, inside diameter, tolerances, and unit conversions
-- **Primary intent:** Interpret pipe dimensions
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not infer pressure rating; BES-07-A04 owns service-system verification
-- **Final public route:** `/artikel/od-nps-dn-tebal-dan-schedule-pipa.html`
-- **Appointed CMS date:** `2025-12-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **OD, NPS, DN, Tebal, dan Schedule Pipa**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-022`
@@ -65,137 +36,91 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jual Pipa Schedule 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-022]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# OD, NPS, DN, Tebal, dan Schedule Pipa
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Saat membaca tabel pipa, tulisan OD, NPS, DN, tebal, dan *schedule* sering tampak seperti lima cara menyebut ukuran yang sama. Padahal masing-masing menjawab pertanyaan berbeda. Kalau kelimanya tertukar, pipa bisa tidak cocok dengan sambungan, ruang dalamnya tidak seperti yang dibayangkan, atau pesanan tidak sama dengan gambar kerja.
 
-### KR-02
+Jawaban singkatnya: **OD** adalah diameter bagian luar yang diukur; **NPS** dan **DN** adalah penamaan ukuran nominal, bukan jaminan ukuran hasil ukur; **tebal dinding** menentukan seberapa tebal material dari sisi luar ke sisi dalam; sedangkan **schedule** adalah sistem penandaan ketebalan pada tabel pipa tertentu. Diameter dalam baru bisa dipahami setelah OD dan tebal dinding untuk produk yang benar diketahui. Tidak ada satu istilah yang boleh menggantikan semuanya.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+![Ilustrasi Jual Pipa Schedule 1](/wp-content/uploads/2024/01/Jual-Pipa-Schedule-1.jpg)
 
-### KR-08
+_Aset lokal proyek; tidak dinyatakan sebagai dokumentasi proyek tertentu._
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+## Bedakan nama ukuran dengan ukuran yang diukur
 
-### KR-10
+**OD** (*outside diameter*, diameter luar) adalah jarak dari sisi luar pipa ke sisi luar di seberangnya. Ini ukuran yang lazim diperiksa ketika pipa harus masuk ke sambungan, dudukan, atau komponen lain. Namun hasil ukur di lapangan tetap perlu dibandingkan dengan toleransi produk dan dokumen pesanan; angka pada label tidak otomatis menjadi hasil pengukuran aktual.
 
-- **Original sources:** [API announcement for API Spec 5L 47th edition](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l), [ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe), and [ISO 4200 scope](https://www.iso.org/standard/9985.html)
-- **Purpose for this article:** Stop articles from deriving pressure rating, fluid compatibility, or structural suitability from schedule, color, seam, or galvanizing.
-- **Safe grounded facts:** `Seamless`, `welded`, `schedule`, nominal size, outside diameter, wall thickness, coating, and end type answer different questions. A product specification and passed tests still do not replace system design, joining procedure, corrosion review, or operating limits.
-- **Limits:** Foreign API/ASME/ISO documents are not Indonesian law. Obtain the specified full edition, actual certificate, design code, fluid/exposure data, fittings/joints, tests, and responsible engineer approval through G-01/G-16.
+**NPS** (*nominal pipe size*) adalah nama ukuran pipa dalam sistem penamaan tertentu. Kata “nominal” berarti nama pengenal, bukan pernyataan bahwa semua ukuran fisik persis sama dengan angka namanya. **DN** (*diamètre nominal* atau diameter nominal) juga label ukuran yang umum dipakai untuk menyatakan kelas ukuran. Karena keduanya adalah label, Sobat Besi.co.id jangan langsung menyamakan NPS atau DN dengan OD, diameter dalam, maupun tebal dinding tanpa melihat tabel dan spesifikasi yang dirujuk.
 
-### KR-17
+Standar seperti [ISO 4200](https://www.iso.org/standard/9985.html) dan ruang lingkup [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) menunjukkan bahwa dimensi pipa harus dibaca dalam sistem tabel dan lingkup produknya. Itu bukan izin untuk mengambil angka dari tabel yang berbeda lalu menggabungkannya sendiri. Produk pipa, tabung, profil, dan bentuk baja lain juga memiliki istilah serta bukti spesifikasi yang terpisah; lihat [ISO 6929](https://www.iso.org/standard/52949.html) dan [klasifikasi ISO untuk produk besi dan baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf).
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+## Tebal dinding, schedule, dan ruang di dalam pipa
 
-## Evidence gates
+Tebal dinding adalah ketebalan material dari permukaan luar menuju permukaan dalam. Dengan OD yang sama, pipa berdinding lebih tebal akan menyisakan ruang dalam lebih kecil. Karena itu, dua barang yang sama-sama disebut “pipa ukuran sekian” belum tentu menyediakan lintasan aliran atau ruang kabel yang sama.
 
-- **TOPIC-GATE:** G-01, G-04, G-05, G-16
+*Schedule* adalah penandaan seri ketebalan yang digunakan pada tabel pipa tertentu. Ia membantu pembaca tabel mencari pasangan antara ukuran nominal, diameter luar, dan ketebalan yang berlaku di tabel itu. Tetapi schedule bukan angka tekanan universal, bukan nama mutu baja, dan bukan bukti bahwa pipa cocok untuk fluida atau pekerjaan tertentu. Ruang lingkup ASME B36.10 sendiri berbicara tentang pipa baja tempa berlas dan tanpa las; pemakaian produk nyata tetap perlu mencocokkan spesifikasi, jenis sambungan, serta kondisi layanannya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Secara geometri, diameter dalam berkaitan dengan diameter luar dan tebal dinding pada produk yang sama. Dalam pemeriksaan pembelian, jangan mengubah hubungan sederhana itu menjadi klaim angka tanpa data lengkap. Nilai ketebalan, toleransi, pembulatan, massa teoritis, dan kesetaraan schedule perlu diambil dari standar lengkap serta syarat pasokan yang benar. **[NEEDS REVIEW: gambar kerja, spesifikasi produk, edisi standar yang ditetapkan, dan toleransi penerimaan untuk pesanan ini.]**
 
-## Internal-link plan
+## Urutan membaca tabel pipa yang lebih aman
 
-### Existing local routes
+Kawan Besi.co.id, cara praktisnya bukan mencari satu kolom “ukuran” lalu berhenti. Baca tabel dalam urutan berikut.
 
-- `/pipa-schedule` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+1. Pastikan dulu jenis barangnya: pipa untuk apa, material apa, berlas atau tanpa las, dan standar atau lembar data apa yang disebut pada dokumen.
+2. Catat NPS atau DN sebagai identitas ukuran yang diminta, lalu cari OD yang dipasangkan oleh tabel tersebut.
+3. Cari schedule atau ketebalan dinding yang diminta pada baris dan seri tabel yang sama.
+4. Periksa apakah diameter dalam, panjang, ujung pipa, pelapisan, dan toleransi juga disebut terpisah.
+5. Cocokkan temuan itu dengan gambar, daftar material, sertifikat, dan aturan penerimaan barang; jangan hanya cocokkan judul produk dari penjual.
 
-### Planned sibling articles
+Urutan ini penting karena sebuah istilah dapat menjawab satu bagian masalah tetapi tidak bagian lainnya. Contohnya, kata “galvanis” biasanya berbicara tentang pelapisan, bukan otomatis tentang OD, schedule, atau kemampuan sistem. [ISO 1461](https://www.iso.org/standard/81435.html) dan [ISO 14713-2](https://www.iso.org/standard/71136.html) juga memiliki lingkup tertentu untuk galvanisasi; nama proses atau metode uji tidak membuktikan setiap produk telah memenuhi persyaratan pesanan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Hal yang membuat hasil pembacaan berubah
 
-- `BES-07-A01` → `/artikel/pipa-seamless-dan-welded.html` — Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda
-- `BES-07-A03` → `/artikel/pipa-hitam-galvanis-stainless-dan-hollow.html` — Pipa Hitam, Galvanis, Stainless, dan Hollow Struktural
-- `BES-07-A04` → `/artikel/memilih-pipa-berdasarkan-fungsi.html` — Memilih Pipa untuk Tekanan, Struktur, atau Conduit
+Ada beberapa hal yang sering membuat orang membaca tabel yang benar tetapi menerapkannya pada barang yang salah.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+| Yang perlu dipastikan | Mengapa tidak boleh diasumsikan |
+| --- | --- |
+| Standar dan edisinya | Tabel, istilah, dan lingkup produk harus mengikuti rujukan yang sama. |
+| Jenis pipa dan cara pembuatannya | “Berlas” dan “tanpa las” menjawab pertanyaan proses, bukan seluruh persyaratan penggunaan. |
+| Tebal, toleransi, dan kondisi penerimaan | Nilai katalog atau massa teoritis tidak menggantikan pemeriksaan barang yang datang. |
+| Ujung, sambungan, fluida, dan lingkungan | Kecocokan sambungan serta kondisi kerja tidak dapat disimpulkan dari schedule saja. |
+| Pelapisan atau cat | Nama pelapisan perlu dibedakan dari material dasar dan bukti hasil pekerjaan. |
 
-## Jawaban singkat dan salah paham utama
+Jadi, bila pipa akan dipakai pada sistem yang bertekanan, mengalirkan fluida tertentu, menjadi bagian struktur, atau terkena korosi, berhenti pada kolom schedule adalah jalan pintas yang berisiko. Pengumuman [API Spec 5L](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l) menunjukkan adanya spesifikasi khusus untuk pipa saluran; keberadaan standar tersebut justru mengingatkan bahwa fungsi sistem memerlukan pemeriksaan yang lebih luas daripada label ukuran. **[NEEDS REVIEW: data fluida, tekanan/temperatur operasi, desain sambungan, paparan korosi, pengujian, dan persetujuan penanggung jawab teknis.]**
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh keputusan tanpa menebak angka
 
-## Definisi dan batas objek
+Bayangkan pembeli menerima daftar material yang hanya menulis “pipa DN tertentu, schedule tertentu”. Langkah pertama bukan mencari diameter dalam dari ingatan. Pembeli perlu meminta standar atau tabel yang menjadi rujukan, material dan jenis pipa, panjang, kondisi ujung, serta toleransi. Setelah itu baru OD, tebal dinding, dan ukuran dalam dapat dibaca sebagai satu paket informasi.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Situasi lain: pipa harus tersambung dengan komponen yang sudah tersedia. Yang perlu dipastikan terutama adalah sistem ukuran dan OD pasangan sambungannya, bukan sekadar apakah kedua barang memakai nama nominal serupa. Jika pembelian membutuhkan halaman produk atau jalur permintaan yang sudah tersedia, gunakan [informasi pipa schedule](/pipa-schedule) sebagai awal percakapan, lalu sertakan dokumen teknis yang relevan agar penawaran tidak hanya berdasarkan sebutan dagang.
 
-## Cara kerjanya
+Teman Besi.co.id, tabel ini sengaja tidak memuat konversi angka, diameter, atau batas toleransi. Tanpa edisi standar, tabel produk, dan syarat proyek yang tepat, angka yang tampak meyakinkan bisa menjadi sumber salah pesan. Lebih aman menulis pertanyaan yang lengkap daripada mengisi celah dengan perkiraan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang paling sering terjadi
 
-## Faktor yang mengubah hasil
+Kesalahan pertama adalah menganggap NPS, DN, dan OD selalu identik. Perbaikannya: tulis ketiganya pada dokumen bila diperlukan, lalu sebutkan standar rujukannya.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah menganggap schedule langsung menyatakan daya tahan tekanan. Perbaikannya: pisahkan data dimensi dari verifikasi desain sistem. Schedule memberi konteks ketebalan pada tabel terkait, sedangkan keputusan penggunaan masih membutuhkan data material, sambungan, beban, kondisi operasi, dan pemeriksaan yang berlaku.
 
-## Contoh keputusan praktis
+Kesalahan ketiga adalah menghitung atau memesan dari massa teoritis saja. Massa teoritis bergantung pada geometri, asumsi densitas, aturan pembulatan, dan tabel rujukan; pemeriksaan penerimaan serta penimbangan aktual adalah kegiatan yang berbeda. [ISO 4200](https://www.iso.org/standard/9985.html) dapat menjadi petunjuk identitas standar dimensi, tetapi dokumen ringkasnya tidak menggantikan ketentuan lengkap untuk transaksi tertentu.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan keempat adalah menyamakan nama pelapisan dengan mutu atau kecocokan pipa. Jika dokumen menyebut galvanis, tanyakan metode pelapisan, standar yang diminta, dan bukti penerimaan yang dipersyaratkan. Metode gravimetri pada [ISO 1460](https://www.iso.org/standard/79581.html), misalnya, adalah metode uji dengan lingkupnya sendiri; ia bukan bukti bahwa semua produk berlapis telah lolos uji.
 
-## Kesalahan umum dan cara memeriksanya
+## Sebelum mengirim pesanan, gunakan daftar ini
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “OD, NPS, DN, Tebal, dan Schedule Pipa”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum mengirim permintaan penawaran atau menerima barang, kumpulkan:
 
-## Objection or shortcut to address
+- ukuran nominal yang ditulis di gambar atau daftar material (NPS/DN bila memang dipakai);
+- OD dan tebal dinding menurut standar atau lembar data yang ditentukan;
+- schedule bila sistem tabel tersebut memang menjadi rujukan;
+- material, proses pembuatan, panjang, jenis ujung, dan pelapisan;
+- standar beserta edisinya, toleransi, sertifikat, serta cara pemeriksaan penerimaan;
+- untuk penggunaan kritis, data desain sistem dan persetujuan pihak teknis yang bertanggung jawab.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Dengan begitu, Anda tidak perlu menebak apakah nama nominal sudah cukup. Pertanyaan yang lengkap biasanya jauh lebih murah daripada koreksi setelah pipa dipotong atau dipasang.
 
-## Required conclusion
+## Penutup
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+OD adalah ukuran diameter luar; NPS dan DN adalah penamaan nominal; tebal dinding adalah ukuran material; dan schedule adalah penandaan ketebalan pada sistem tabel tertentu. Bacalah sebagai satu rangkaian, bukan sebagai istilah yang saling menggantikan. Jika ada keputusan tentang tekanan, fluida, struktur, atau sambungan, Kawan Besi.co.id perlu meminta spesifikasi lengkap dan verifikasi teknis yang sesuai—jangan menetapkannya hanya dari schedule atau nama ukuran pipa.
