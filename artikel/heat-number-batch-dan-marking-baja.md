@@ -3,7 +3,7 @@ article_id: BES-02-A03
 title: "Heat Number, Batch, dan Marking: Rantai Identitas Material"
 slug: "heat-number-batch-dan-marking-baja"
 description: "Explain heat/batch identity, physical marking, transfer during cutting, traveler records, remnants, and reconciliation"
-status: outline
+status: draft
 publication_date: "2025-08-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -32,7 +32,7 @@ sources:
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- GENERATED ARTICLE OUTLINE: expanded draft; preserve scope/evidence constraints
 
 # Heat Number, Batch, dan Marking: Rantai Identitas Material
 
@@ -62,7 +62,7 @@ sources:
 - Do not use a generic industry-history or “Di era digital” introduction.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,7 +73,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+
+<!--
 
 ## Evidence packet
 
@@ -135,78 +137,107 @@ These are future routes. Do not link them as live until their HTML exists.
 - `BES-02-A04` → `/artikel/membandingkan-grade-lintas-standar.html` — Membandingkan Grade Lintas Standar Tanpa Menganggap Setara
 - `BES-02-A05` → `/artikel/memeriksa-dokumen-dan-material-baja.html` — Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END PUBLIC ARTICLE SECTIONS -->
+
+# Heat Number, Batch, dan Marking: Rantai Identitas Material
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Besi.co.id! Ketika satu batang, pelat, atau profil dipotong menjadi beberapa bagian, persoalannya bukan sekadar menyimpan sisa material. Pertanyaan pentingnya: bagian mana yang masih bisa dibuktikan berasal dari dokumen dan material yang diterima? Heat number, batch, dan marking membentuk rantai identitas untuk menjawabnya.
+
+Jawaban singkatnya: identitas pada barang fisik harus tetap tersambung ke dokumen penerimaan dan catatan perpindahan sampai bagian itu dipakai, dikembalikan sebagai sisa, atau dinyatakan tidak dapat ditelusuri. Nomor yang tampak serupa di sertifikat belum cukup bila tidak dapat dicocokkan dengan pesanan, produsen, bentuk produk, ukuran, hasil uji yang dilaporkan, dan tanda fisik material. Cara membaca dokumen inspeksi memang perlu rekonsiliasi seperti itu; kompetensi laboratorium juga tidak otomatis membuktikan satu item tertentu memenuhi pesanan. [ISO 10474:2013](https://www.iso.org/standard/53736.html) dan [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
+
+Rantai ini bisa putus karena label hilang, material dari penerimaan berbeda bercampur, atau potongan kecil dipisahkan tanpa catatan. Jika proyek, kontrak, atau persyaratan penerimaan menuntut keterlacakan tertentu, jangan menyimpulkan sebuah potongan dapat diterima hanya dari rupa atau ukuran. Tetapkan terlebih dahulu apa yang harus dicocokkan dalam pesanan dan rencana mutu proyek; detail standar, edisi yang berlaku, dan aturan penerimaannya perlu ditinjau oleh pihak teknis yang berwenang.
+
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
+
+*Kredit gambar: aset lokal proyek.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, **heat number** berarti pengenal yang dipakai produsen untuk menautkan material pada satu proses peleburan atau rekaman produksinya. **Batch** adalah kelompok pengelolaan atau produksi yang maknanya harus dibaca dari dokumen penerbitnya; ia tidak boleh otomatis dianggap sama dengan heat number. **Marking** adalah tanda yang dapat dibaca pada material, kemasan, tag, atau label yang membantu menjaga tautan fisik tersebut.
+
+Yang dijaga bukan hanya nomor. Satu identitas yang berguna setidaknya menjawab: material apa, dari siapa, untuk pesanan mana, dalam bentuk dan ukuran apa, serta dokumen pengujian atau inspeksi mana yang diklaim terkait dengannya. Kawan Besi.co.id, bila salah satu jawaban itu tidak tersedia, catatan sebaiknya menyatakan keterbatasannya alih-alih membuat hubungan baru berdasarkan perkiraan.
+
+Artikel ini tidak menetapkan metode marking untuk semua proyek. Produk dan penggunaan menentukan keluarga standar yang perlu diperiksa: katalog BSN sendiri membedakan antara antara lain produk struktur, profil, dan produk baja pipih, sehingga satu standar profil tidak serta-merta mengatur pelat, pipa, batang, jaring, pengikat, pelapis, atau rakitan terpasang. [Katalog struktur logam BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key=), [katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), dan [katalog produk baja pipih BSN](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) Rekam publik untuk produk lain, misalnya [kawat las SNI 9172:2023](https://pesta.bsn.go.id/produk/detail/14592-91722023), juga bukan alasan untuk menerapkannya pada bentuk produk yang berbeda.
+
+Status yang terlihat di katalog publik juga bukan pengganti pemeriksaan edisi yang mengikat untuk pekerjaan Anda. BSN menyediakan akses SNI melalui mekanisme gratis dan berbayar, dan rekam publik dapat membantu memeriksa identitas, status terlihat, serta ruang lingkup yang tampak; namun kontrak, regulasi, amandemen, dan teks lengkap masih menentukan pertanyaan teknis yang lebih rinci. [FAQ Pesta Online BSN](https://pesta.bsn.go.id/faq)
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rantai identitas dimulai saat material datang, bukan setelah material berada di meja potong. Petugas penerimaan membandingkan tanda fisik dan jumlah yang diterima dengan pesanan serta dokumen yang menyertainya. Bila satu dokumen mencantumkan heat atau batch, rekaman penerimaan perlu membuat hubungan yang dapat diaudit antara nomor itu, pemasok atau produsen, jenis produk, dimensi, dan lokasi simpan awal.
+
+Selama barang masih utuh, marking asli atau tag yang terkendali dapat menjadi titik rujuk. Ketika material akan dipotong, pilih pengendalian yang membuat setiap turunan masih bisa dilacak ke sumbernya. Praktiknya dapat berupa catatan potong, traveler record (lembar pengiring material), atau penandaan ulang sesuai metode yang sudah disetujui proyek. Traveler bukan bukti ajaib: nilainya bergantung pada apakah ia dibuat saat perpindahan terjadi, mengidentifikasi material sumber dan bagian hasil, serta dapat ditautkan kembali ke penerimaan.
+
+Urutan kerjanya dapat dibaca seperti ini:
+
+1. Terima dan pisahkan material yang identitasnya berbeda.
+2. Rekonsiliasikan barang, pesanan, marking, dan dokumen pendukung sebelum statusnya dipakai untuk keputusan penerimaan.
+3. Catat material sumber sebelum pemotongan atau pemecahan kelompok.
+4. Jaga hubungan antara potongan, lokasi kerja, dan traveler sampai potongan dipasang, dipindahkan, atau disimpan sebagai sisa.
+5. Saat serah-terima atau pemeriksaan, cocokkan kembali catatan tersebut dengan barang yang masih ada dan dokumen asalnya.
+
+Model rantai penguasaan atau *chain of custody* juga mengingatkan bahwa identitas fisik yang dipisahkan dari klaim administratif bukan hal yang sama. Klaim yang dapat diaudit memerlukan karakteristik yang didefinisikan, batas sistem, catatan input-output, aturan transfer, pihak yang bertanggung jawab, dan pencegahan penghitungan ganda. Kerangka itu tidak khusus untuk baja, tetapi berguna untuk membedakan bukti fisik dari sekadar pernyataan di atas kertas. Kerangkanya juga sedang berkembang, sehingga klaim khusus perlu diperiksa terhadap versi dan skema yang dipakai. [ISO 22095:2020](https://www.iso.org/standard/72532.html), [amandemen 2026](https://www.iso.org/standard/90678.html), dan [pembaruan ISO 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kekuatan rantai identitas berubah menurut keputusan proyek dan kondisi lapangan. Campuran ukuran atau grade yang mirip dalam satu area, pemotongan berulang, perpindahan antar-gudang, sisa pendek, dan pekerjaan oleh lebih dari satu pihak semuanya menambah titik putus. Risiko juga meningkat bila marking asli tidak lagi terlihat atau bila dokumentasi diterima jauh setelah barang dipisahkan.
+
+Perbedaan produk tidak boleh disederhanakan menjadi satu kategori “besi beton”. Untuk produk tulangan, batangan hasil rerol, dan produk gulungan, ruang lingkup regulasi, definisi produk, kesesuaian, pengecualian, transisi, dan marking tidak dapat direkonstruksi dari judul SNI saja. Pemeriksaan terhadap regulasi terkini, [naskah resmi Permenperin 55 Tahun 2024](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), dan SNI yang dirujuk tetap diperlukan sebelum menyatakan suatu kewajiban atau penerimaan. [Status peraturan](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024) dan [rekam SNI 2052:2017 BSN](https://pesta.bsn.go.id/produk/detail/11443-sni20522017)
+
+Teman Besi.co.id, perubahan paling penting bukan selalu jenis pena atau label. Yang menentukan adalah aturan transfer identitas: siapa yang boleh menandai ulang, kapan penandaan dilakukan, siapa yang memeriksa, dan apa yang harus terjadi bila keterkaitan tidak dapat dibuktikan. Rencana QA proyek yang disetujui adalah tempat untuk menetapkan kontrol tersebut; artikel ini tidak menggantikannya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan material datang dalam dua kelompok dengan bentuk yang sama. Dokumen untuk masing-masing kelompok tersedia, tetapi sesudah pemotongan beberapa potongan diletakkan bersama. Berikut keputusan yang lebih aman, dengan asumsi rencana mutu proyek memang meminta identitas material dipelihara.
+
+| Keadaan yang ditemukan | Pertanyaan sebelum material bergerak | Tindakan yang lebih aman |
+| --- | --- | --- |
+| Material masih utuh dan marking dapat dicocokkan | Apakah nomor, produk, ukuran, dan dokumen asal saling sesuai? | Catat hubungan tersebut saat penerimaan dan simpan terpisah dari kelompok lain. |
+| Material akan dipotong | Bagaimana setiap potongan akan ditautkan ke material sumber? | Buat catatan potong atau traveler sebelum pemisahan, memakai metode proyek yang disetujui. |
+| Ada sisa material | Sisa ini berasal dari kelompok mana dan berada di lokasi mana? | Simpan bersama pengenal atau catatan yang tetap menghubungkannya ke sumber. |
+| Potongan bercampur tanpa hubungan yang dapat dibuktikan | Bukti apa yang masih mengikat potongan ini ke dokumen asal? | Tahan keputusan penggunaan dan minta penetapan teknis/proyek; jangan memilih dokumen yang “paling mirip”. |
+
+Contoh ini bukan prosedur universal dan tidak membuktikan material tertentu telah lulus. Ia membantu memisahkan dua keputusan: apakah barang tampak layak dipakai, dan apakah asal-usulnya masih dapat dibuktikan. Untuk penerimaan yang bergantung pada sertifikat atau hasil uji, keduanya perlu ditangani secara terpisah.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Heat Number, Batch, dan Marking: Rantai Identitas Material”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap satu nomor pada sertifikat otomatis berlaku untuk semua stok yang mirip. Periksalah apakah penerbit, pesanan, produk, heat atau batch, dimensi, hasil uji yang dilaporkan, dan marking fisik benar-benar dapat direkonsiliasikan. Kesalahan kedua adalah menunggu sampai akhir pekerjaan untuk membuat catatan potong; pada saat itu hubungan asli sering sudah hilang.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memperlakukan status “Berlaku” pada satu halaman katalog sebagai jawaban lengkap. Rekam BSN dapat menampilkan edisi atau status yang perlu dibaca dengan hati-hati, termasuk rekam terkait SNI 2052:2017 yang menunjukkan status berbeda, dan tidak cukup untuk menetapkan persyaratan proyek tanpa teks serta konteks yang berlaku. [Katalog Pesta Online BSN](https://pesta.bsn.go.id/), [rekam SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), dan [rekam terkait SNI 2052:2017](https://pesta.bsn.go.id/produk/detail/11700-20522017)
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Gunakan pemeriksaan singkat berikut sebelum potongan dilepas dari kelompok asalnya:
 
-## Required conclusion
+- Apakah sumber dokumen dan nomor pada barang sudah dicatat saat penerimaan?
+- Apakah barang dari kelompok berbeda dipisahkan secara jelas?
+- Apakah pemotongan akan meninggalkan cara untuk menautkan setiap bagian ke sumbernya?
+- Apakah sisa memiliki lokasi dan pengenal yang masih dapat direkonsiliasikan?
+- Bila ada ketidakcocokan, apakah material ditahan dari keputusan penerimaan sampai ditinjau pihak yang berwenang?
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu dihindari
 
+Shortcut yang sering terdengar adalah, “Nomor sertifikatnya sudah ada, jadi semua potongan dari tumpukan ini aman.” Shortcut itu gagal ketika tumpukan telah menerima material dari lebih dari satu penerimaan, ketika pemotongan tidak dicatat, atau ketika sisa dipindahkan tanpa pengenal. Nomor sertifikat lalu menjadi klaim administratif yang tidak lagi memiliki jalur jelas menuju barang fisik.
+
+Alternatifnya tidak harus rumit: tetapkan satu titik catat sebelum pemotongan, satu cara menyertai potongan, dan satu pemeriksaan rekonsiliasi sebelum serah-terima. Sobat Besi.co.id, jika proyek memerlukan persyaratan khusus atas marking, pengujian, atau penerimaan, gunakan rencana QA dan peninjauan teknis yang berlaku untuk memutuskan detailnya. [ISO 10474:2013](https://www.iso.org/standard/53736.html)
+
+## Langkah berikutnya
+
+Heat number, batch, dan marking berguna hanya bila hubungan di antara barang, dokumen, dan perpindahannya tetap dapat ditunjukkan. Langkah berikutnya adalah memeriksa penerimaan stok yang akan dipotong: cocokkan dokumen dengan barang, tentukan catatan transfer identitas, dan konfirmasi kepada penanggung jawab QA proyek apa yang dilakukan saat hubungan itu putus. Untuk langkah awal yang lebih umum, lihat [Besi.co.id](/).
+
+Aturan operasionalnya sederhana: jangan memisahkan material dari identitasnya lebih cepat daripada kemampuan Anda untuk membuktikan asalnya. Metode marking dan keputusan penerimaan akhir tetap mengikuti kontrak, standar yang benar-benar berlaku, serta peninjauan teknis proyek.
+
+<!--
 ## Draft completion checklist
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+- [x] Opening answers the main question within two or three paragraphs.
+- [x] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
+- [x] Every H2 above has been replaced with finished, non-repetitive prose.
+- [x] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [x] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [x] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [x] Internal links use exact listed routes and helpful natural anchors.
+- [x] Future sibling routes are not presented as live.
+- [x] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [x] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [x] Conclusion gives a concrete next action and an honest limit.
+-->

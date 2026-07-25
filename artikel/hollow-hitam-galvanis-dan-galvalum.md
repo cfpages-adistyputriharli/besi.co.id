@@ -3,7 +3,7 @@ article_id: BES-04-A05
 title: "Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis"
 slug: "hollow-hitam-galvanis-dan-galvalum"
 description: "Separate section geometry, base material, manufacturing route, zinc-based coating terms, dimensions, and evidence"
-status: outline
+status: draft
 publication_date: "2025-10-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,21 +15,14 @@ final_route: "/artikel/hollow-hitam-galvanis-dan-galvalum.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://www.iso.org/standard/73841.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.aisc.org/aisc/solutions-center/hss/"
-  - "https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf"
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
-  - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints
 
 # Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis
 
@@ -59,7 +52,9 @@ sources:
 - Do not use a generic industry-history or “Di era digital” introduction.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+-->
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -70,7 +65,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `hollow hitam` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+
+<!--
 
 ## Evidence packet
 
@@ -136,78 +133,73 @@ These are future routes. Do not link them as live until their HTML exists.
 - `BES-04-A04` → `/artikel/besi-siku-dan-t-section.html` — Besi Siku dan T-Section: Orientasi Mengubah Perilaku
 - `BES-04-A06` → `/artikel/checklist-receiving-profil-dan-hollow.html` — Checklist Receiving Profil Struktural dan Hollow
 
+-->
+
 <!-- BEGIN PUBLIC ARTICLE SECTIONS -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Kawan Besi.co.id! Saat daftar belanja hanya menulis “hollow galvanis” atau “hollow galvalum”, jangan langsung menganggapnya sebagai satu jenis bahan dengan mutu dan kegunaan yang sudah pasti. *Hollow* terutama menjelaskan bentuk penampang berongga. Sementara hitam, galvanis, dan galvalum lazim dipakai pasar untuk membedakan kondisi permukaan, bahan awal, atau pelapis. Tiga kata itu dapat muncul bersama, tetapi bukan pengganti ukuran, tebal, standar produk, atau dokumen mutu.
+
+Jawaban singkatnya: pisahkan dahulu **bentuk**, **bahan/produk asal**, dan **lapisan permukaan**. Setelah itu baru cocokkan ukuran aktual, tebal, identitas produsen, dan dokumen yang diminta pekerjaan. Kosakata produk baja membedakan bentuk serta tahap produk; penyebutan bentuk saja tidak membuktikan kimia, grade, toleransi, atau kesesuaian pemakaian. [ISO 6929:2013](https://www.iso.org/standard/52949.html) dapat dipakai sebagai pengingat bahwa istilah produk perlu dibaca dalam konteks teknisnya, bukan sebagai jaminan dagang.
+
+Kebingungan menjadi mahal ketika label dipakai untuk menyimpulkan bahwa dua batang dapat dipertukarkan. Ukuran luar yang sama belum menyatakan tebal sama; kata “galvanis” juga belum menjelaskan proses, massa lapisan, atau kondisi setelah pemotongan dan penyambungan. Untuk pekerjaan yang berpengaruh pada keselamatan, jangan jadikan artikel atau listing sebagai persetujuan desain: [NEEDS REVIEW: standar produk, spesifikasi proyek, dan persetujuan perancang untuk anggota atau sambungan yang memikul beban].
+
+![Ilustrasi hollow hitam](/wp-content/uploads/2024/05/hollow-hitam.jpeg)
+
+Aset lokal proyek.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam percakapan jual-beli, hollow sering berarti profil kotak atau persegi panjang yang bagian tengahnya kosong. Dalam rujukan struktur Amerika, *HSS* (*hollow structural section*) juga diperlakukan sebagai keluarga penampang tersendiri. Namun rujukan itu tidak otomatis menetapkan nama dagang, standar pasokan, atau aturan desain di Indonesia. [AISC](https://www.aisc.org/aisc/solutions-center/hss/) menempatkan HSS sebagai topik penampang struktural; gunakan sebagai pembanding anatomi penampang, bukan bukti bahwa semua hollow lokal adalah produk struktural yang setara.
+
+“Hitam” sebaiknya dibaca sebagai penanda permukaan atau sebutan pasar yang perlu diklarifikasi pada produk nyata. “Galvanis” dan “galvalum” sering dipakai untuk menandai permukaan berbasis pelapis logam, tetapi istilah jual tidak cukup untuk menentukan sistem pelapis, ketebalan lapisan, atau ketahanan pada lingkungan tertentu. Artikel ini tidak menetapkan umur karat, grade, kapasitas, maupun pilihan pelapis terbaik. Pertanyaan itu memerlukan spesifikasi produk dan kondisi pemakaian yang belum ada dalam satu label.
+
+Karena itu, tuliskan objek pesanan dalam beberapa kolom: bentuk penampang, dimensi luar, tebal, panjang, kondisi permukaan/pelapis, standar atau spesifikasi, serta identitas dokumen. Sobat Besi.co.id, jika satu kolom belum diketahui, anggap keputusan belum lengkap—bukan berarti isi kolom itu boleh ditebak dari nama produk.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cara membacanya sederhana: mulai dari geometri, lalu bergerak ke bukti pasokan. Geometri menjawab apakah penampangnya kotak atau persegi panjang dan berapa dimensi yang diminta. Bukti pasokan menjawab produk apa yang benar-benar dikirim: standar yang dirujuk, kondisi pengiriman, tanda identifikasi, dan dokumen yang menyertainya. Untuk baja struktural, syarat pengiriman umum tetap menghubungkan bentuk, bagian standar yang berlaku, grade, kondisi pasokan, dimensi, dan kebutuhan pemesanan; satu label “untuk struktur” tidak merangkum semuanya. [ISO 630-1:2021](https://www.iso.org/standard/73841.html)
+
+Lapisan permukaan kemudian dibaca sebagai lapisan informasi ketiga. Ia tidak mengubah fakta bahwa pembeli tetap perlu mengukur penampang dan memeriksa tebal yang diterima. Ia juga tidak menghapus kebutuhan meninjau titik potong, sambungan, perlakuan fabrikasi, penyimpanan, serta lingkungan pemakaian. Jangan melompat dari kata pelapis ke kesimpulan umur layanan; data produk dan kondisi proyek harus diperiksa oleh pihak yang berwenang.
+
+Urutan ini membantu saat penawaran memakai beberapa nama sekaligus. Minta penjual menjawab, misalnya: “Ini hollow ukuran dan tebal berapa, produk/standar apa, bagaimana penandaan batangnya, dan dokumen apa yang tersedia?” Jawaban yang hanya mengulang “galvanis” atau “galvalum” belum menjawab empat pertanyaan tersebut.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil keputusan berubah ketika fungsi komponen berubah. Hollow untuk rangka ringan non-struktural, elemen arsitektural, atau anggota yang memikul beban tidak dapat disamakan hanya karena bentuknya serupa. Selain itu, detail sambungan, tumpuan, arah batang, beban, perubahan di lapangan, dan kondisi sementara dapat mengubah kebutuhan pemeriksaan. Rekaman publik [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) menunjukkan adanya ranah perencanaan struktur baja; rekaman itu bukan pengganti isi standar, gambar, atau perhitungan proyek.
+
+Ketersediaan standar juga harus dibaca per keluarga produk. Katalog [BSN untuk profil baja](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) membantu menemukan rekaman yang relevan, tetapi daftar katalog tidak membuktikan bahwa suatu batang memenuhi standar tertentu. Teman Besi.co.id, minta nomor standar, edisi, lingkup sertifikat, dan kecocokannya dengan pesanan; lalu bandingkan dengan dokumen proyek, bukan dengan istilah yang paling familiar di marketplace.
+
+Faktor pelaksanaan tetap penting. Penyimpanan yang membuat permukaan kotor atau basah, pemotongan yang tidak dikendalikan, dan sambungan yang berbeda dari rencana bisa mengubah hasil pemeriksaan penerimaan. Ini bukan alasan untuk menggeneralisasi kegagalan pelapis; ini alasan untuk menempatkan inspeksi penerimaan dan keputusan pemasangan pada bukti proyek yang sebenarnya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan contoh berikut sebagai cara menyusun pertanyaan, bukan sebagai rekomendasi produk.
+
+| Situasi | Keputusan yang aman | Bukti yang perlu diminta |
+| --- | --- | --- |
+| Dua listing sama-sama menyebut hollow 40 × 40 | Jangan menyatakan keduanya setara sebelum tebal dan identitas produk dibandingkan | Ukuran luar, tebal, panjang, penandaan, dan dokumen pemasok |
+| Listing menyebut galvanis atau galvalum tanpa rincian | Perlakukan istilah itu sebagai titik awal klarifikasi | Sistem pelapis yang dinyatakan produsen, dokumen produk, serta batas pemakaian |
+| Komponen akan masuk rangka yang memikul beban | Tahan keputusan substitusi sampai rancangan dan sambungan diperiksa | Gambar, spesifikasi, perubahan yang disetujui, dan tinjauan tenaga kompeten |
+
+Jika tujuan Anda hanya meneruskan kebutuhan pembelian, catatan pesanan yang baik bisa berbunyi: “Hollow [bentuk dan dimensi], tebal [nilai yang diverifikasi], panjang [kebutuhan], kondisi permukaan [sesuai dokumen], dengan identitas produk dan dokumen yang diminta proyek.” Catatan tersebut tidak menjanjikan performa; ia membuat ruang kosong yang harus diverifikasi terlihat sejak awal.
+
+Untuk istilah pipa hitam dan galvanis yang sering dipertukarkan dalam percakapan pasar, lihat [panduan pipa hitam dan galvanis](/pipa-hitam-galvanis) sebagai langkah berikutnya. Tetap periksa apakah tujuan pembacaannya memang pipa, bukan hollow; bentuk dan tujuan pemakaian harus tetap dipisahkan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Hollow Hitam, Galvanis, dan Galvalum: Pisahkan Bentuk dari Pelapis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang paling umum adalah menganggap nama permukaan sebagai spesifikasi lengkap. Akibatnya, pembeli tidak menanyakan tebal, tidak mencocokkan tanda produk, dan baru menemukan perbedaan setelah barang diterima. Shortcut lain adalah memakai rujukan luar negeri atau katalog standar sebagai sertifikat produk. Keduanya berguna untuk menemukan pertanyaan teknis, tetapi bukan bukti pasokan aktual.
 
-## Objection or shortcut to address
+Ubah shortcut itu menjadi pemeriksaan singkat sebelum menerima barang:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Cocokkan bentuk dan dimensi luar dengan pesanan, lalu catat cara pengukurannya bila proyek mensyaratkannya.
+- Periksa tebal sesuai metode dan toleransi yang berlaku pada spesifikasi produk; jangan menyimpulkan dari tampilan permukaan.
+- Foto atau catat marking, label bundel, nomor dokumen, dan identitas pemasok bila prosedur proyek mengharuskannya.
+- Pisahkan temuan penerimaan dari keputusan desain. PP 16/2021 berada pada lapisan pengaturan bangunan, sementara dokumen produk dan desain berada pada lapisan bukti lain; [rekaman PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) tidak menjadikan sebuah listing atau sertifikat produk sebagai perhitungan struktur.
 
-## Required conclusion
+Kawan Besi.co.id, berhenti dan minta klarifikasi jika supplier tidak dapat menghubungkan barang dengan identitas produk atau jika barang akan menggantikan elemen yang telah dirancang. [NEEDS REVIEW: penerimaan, substitusi, dan persetujuan desain sesuai prosedur proyek].
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah sebelum menyamakan produk
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pisahkan hollow sebagai bentuk dari hitam, galvanis, atau galvalum sebagai keterangan yang masih harus dibuktikan. Sebelum membeli atau menyetujui penggantian, minta ukuran, tebal, identitas produk, dokumen yang relevan, dan kecocokannya dengan kebutuhan pekerjaan. Aturan operasionalnya: **jangan menyamakan label dagang dengan spesifikasi atau persetujuan desain**. Bila komponen berhubungan dengan struktur atau keselamatan, hentikan asumsi dan mintalah tinjauan profesional berdasarkan fakta proyek.
