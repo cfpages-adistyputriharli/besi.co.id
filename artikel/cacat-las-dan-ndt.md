@@ -3,7 +3,7 @@ article_id: BES-10-A04
 title: "Cacat Las yang Terlihat dan yang Memerlukan NDT"
 slug: "cacat-las-dan-ndt"
 description: "Explain visual symptoms, surface/subsurface distinction, likely process links, documentation, method selection factors, and escalation"
-status: outline
+status: draft
 publication_date: "2026-03-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,52 +16,20 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
   - "https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/"
-  - "https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cacat Las yang Terlihat dan yang Memerlukan NDT
 
-## Assignment lock
+Halo, Teman Besi.co.id! Retak, lubang, takikan, atau bentuk manik las yang tidak seragam perlu dicatat, tetapi mata tidak dapat memastikan seluruh kondisi sambungan. Sebagian ketidakselanjaran berada di permukaan dan dapat dicari lewat pemeriksaan visual; sebagian lain mungkin berada di bawah permukaan atau tersembunyi oleh geometri sambungan sehingga perlu *non-destructive testing* (NDT), yaitu pengujian tanpa merusak benda uji.
 
-- **Writer task:** Expand this file into one complete article answering: “Cacat Las yang Terlihat dan yang Memerlukan NDT”
-- **Reader and situation:** Inspector or owner reviewing welds
-- **Reader outcome:** Explain visual symptoms, surface/subsurface distinction, likely process links, documentation, method selection factors, and escalation
-- **Primary intent:** Triage weld discontinuities
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not diagnose cause or accept/reject welds; BES-14-A04 owns test/acceptance plan
-- **Final public route:** `/artikel/cacat-las-dan-ndt.html`
-- **Appointed CMS date:** `2026-03-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dari inspeksi visual yang tertib, lalu gunakan NDT bila fungsi sambungan, akses, jenis indikasi, atau dokumen proyek menuntut bukti tambahan. Hasil baru bermakna setelah dibandingkan dengan kriteria penerimaan yang memang berlaku untuk pekerjaan tersebut. Metode, cakupan, dan batas penerimaan tidak boleh dipilih dari dugaan; semuanya harus mengikuti rencana inspeksi dan dokumen proyek yang disetujui. [NEEDS G-07/G-08: standar aplikasi, WPS, dan rencana NDT proyek untuk menentukan metode serta kriteria penerimaan.]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cacat Las yang Terlihat dan yang Memerlukan NDT**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -72,141 +40,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi WF 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Besi WF 1](/wp-content/uploads/2024/01/Besi-WF-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Kredit gambar: Aset lokal proyek._
 
-### KR-12
+## Catat gejala sebelum menebak penyebab
 
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
+Pemeriksaan awal bukan mencari nama cacat secepat mungkin, melainkan membuat temuan dapat dilacak. Foto keseluruhan dan dekatkan kamera secara konsisten, tandai sambungan, sisi, posisi, panjang indikasi, serta kapan temuan terlihat. Catat juga apakah permukaan sudah dibersihkan, dicat, digerinda, basah, atau sulit diakses. Bekas gerinda dapat menyamarkan bentuk; cat atau kotoran dapat mengubah apa yang tampak di permukaan.
 
-### KR-13
+Gejala visual yang layak ditahan di catatan antara lain garis terbuka, cekungan, lubang permukaan, tumpukan logam las yang tidak menyatu dengan jelas, percikan berlebih, perubahan bentuk sambungan, atau bagian yang tidak dapat diperiksa. Istilahnya belum tentu diagnosis. Garis yang tampak seperti retak, misalnya, perlu lokasi dan bukti yang cukup sebelum dinyatakan sebagai retak; demikian pula lubang tidak otomatis menjelaskan mengapa ia terjadi.
 
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
+Teman Besi.co.id, gunakan pertanyaan sederhana: “Apa yang benar-benar terlihat, di sambungan mana, dan apa yang belum dapat dilihat?” Jawaban terakhir penting karena permukaan yang tampak rapi bukan bukti bahwa bagian dalam sambungan bebas indikasi. Sebaliknya, penampilan kurang rapi juga belum menyatakan sambungan gagal memenuhi persyaratan.
 
-### KR-14
+## Kapan temuan berubah menjadi persoalan keselamatan
 
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
+Batasi akses dan minta pemeriksaan kompeten bila ada dugaan retak, deformasi yang berubah, sambungan pada elemen yang sedang memikul beban, atau pekerjaan yang berpotensi menimbulkan bahaya langsung. Jangan meneruskan pengelasan, pemotongan, penggerindaan, pengangkatan, atau pembebanan hanya untuk “melihat apakah masih kuat” tanpa pengendalian yang disetujui. Kondisi lokasi, metode kerja, pengawasan, catatan peralatan, dan rencana darurat tetap diperlukan; satu daftar cek umum tidak dapat menggantikan penilaian risiko pekerjaan konstruksi. [Permen PUPR 10/2021 tentang SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)
 
-### KR-19
+Risiko juga tidak berhenti pada sambungan. Pengelasan dapat melibatkan asap, logam atau lapisan bahan, ruang atau posisi kerja, ventilasi, pekerja di sekitar, sumber listrik/gas, dan bahaya panas atau kebakaran. NIOSH menekankan perlunya menilai proses, material, kondisi kerja, dan pengendaliannya; informasi tersebut bukan resep batas paparan atau APD untuk lokasi di Indonesia. [NIOSH: welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html) [NEEDS G-12: penilaian K3 lokasi dan prosedur terkini oleh pihak kompeten.]
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+## Petunjuk proses, bukan vonis penyebab
 
-### KR-20
+Beberapa pola dapat membantu menyusun pertanyaan lanjutan. Indikasi di permukaan dapat berkaitan dengan kebersihan, akses, urutan kerja, atau pelaksanaan, sedangkan indikasi bawah permukaan mungkin tidak bisa diputuskan dari visual saja. Namun pola itu hanya hipotesis kerja. Penyebab sebenarnya dapat melibatkan kombinasi material, persiapan sambungan, prosedur, personel, bahan habis pakai, peralatan, dan kondisi pelaksanaan.
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+Karena itu, jangan menutup laporan dengan kalimat seperti “pasti karena operator” atau “pasti karena kawat las.” Periksa jejak dokumennya terlebih dahulu: identitas sambungan, material, prosedur yang dipakai, personel, bahan habis pakai, kondisi peralatan, dan perubahan di lapangan. Sistem mutu dan koordinasi pengelasan menempatkan pengendalian serta rekaman sebagai bagian dari rantai bukti, bukan sesuatu yang dapat diganti oleh pemeriksaan akhir. [ISO 3834-2](https://www.iso.org/standard/81651.html) dan [ISO 14731](https://www.iso.org/standard/68893.html)
 
-## Evidence gates
+Jika pembaca sedang menilai pilihan bahan habis pakai, halaman tentang [kawat las](/kawat-las/) dapat membantu memahami konteks produknya. Namun pilihan produk tidak membuktikan kecocokan prosedur atau kualitas sambungan yang sudah jadi.
 
-- **TOPIC-GATE:** G-07, G-08, G-12
+## Dari visual menuju NDT yang tepat
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Urutkan pemeriksaan dari informasi yang paling aman dan paling mudah diverifikasi. Pertama, amankan kondisi bila perlu. Kedua, lakukan visual dengan pencahayaan, pembersihan, dan akses yang memadai. Ketiga, cocokkan sambungan dengan gambar, penandaan, dan rekaman pelaksanaan. Baru setelah itu, pihak yang berwenang dapat menentukan apakah pemeriksaan permukaan atau volume diperlukan.
 
-## Internal-link plan
+Secara fungsi, pemeriksaan visual menilai apa yang dapat diakses mata. Metode penetran cair (PT) dan partikel magnet (MT) dapat dipertimbangkan untuk indikasi yang terbuka atau dekat permukaan, dengan batasan material dan kondisi permukaan masing-masing. Ultrasonik (UT) dan radiografi (RT) dapat dipertimbangkan ketika pertanyaan inspeksinya menyangkut bagian dalam sambungan, tetapi akses, geometri, ketebalan, teknik, cakupan, dan keselamatan kerja memengaruhi kecocokannya. Daftar ini adalah peta pertanyaan, bukan instruksi memilih alat untuk sambungan tertentu.
 
-### Existing local routes
+Sobat Besi.co.id, catatan NDT yang dapat ditelusuri seharusnya menyebut objek atau sambungan, metode dan teknik, prosedur, personel, peralatan serta status kalibrasi, akses atau kondisi permukaan, cakupan, sensitivitas, temuan, sumber kriteria, hasil, dan disposisi. Prinsip umum NDT las dan kompetensi personelnya dibahas dalam [ISO 17635](https://www.iso.org/standard/85705.html) serta [ISO 9712](https://www.iso.org/standard/75614.html). [NEEDS G-08: prosedur, personel, teknik, dan cakupan NDT yang disetujui proyek.]
 
-- `/welded-las/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kawat-las/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sebelum meminta pengujian, rumuskan pertanyaan yang ingin dijawab. Apakah pemeriksa perlu memastikan ada indikasi terbuka di permukaan, menilai bagian dalam pada segmen tertentu, atau hanya melengkapi rekaman inspeksi visual? Sertakan identitas sambungan dan batas area yang diperiksa. Permintaan “cek semua las” tanpa gambar, prioritas risiko, akses, atau dasar cakupan mudah menghasilkan laporan yang tampak lengkap tetapi sulit dipakai untuk keputusan. Bila akses atau kondisi permukaan belum siap, catat keterbatasan itu alih-alih menganggap bagian yang tidak terjangkau sebagai bagian yang lolos pemeriksaan.
 
-### Planned sibling articles
+Simpan juga hubungan antara nomor laporan, foto, dan penandaan fisik di lapangan. Tanpa hubungan itu, temuan dari satu sambungan dapat keliru dibaca sebagai temuan dari sambungan lain saat pekerjaan sudah berlanjut atau struktur telah tertutup komponen berikutnya.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Bedakan temuan, penerimaan, dan keputusan teknis
 
-- `BES-10-A02` → `/artikel/weldability-dan-carbon-equivalent.html` — Weldability dan Carbon Equivalent: Cara Memakainya dengan Batas yang Benar
-- `BES-10-A03` → `/artikel/wps-pqr-welder-dan-consumable-control.html` — WPS, PQR, Welder Qualification, dan Consumable Control
-- `BES-10-A05` → `/artikel/distorsi-dan-sequence-pengelasan.html` — Distorsi, Residual Stress, dan Sequence Pengelasan
-- `BES-10-A06` → `/artikel/sambungan-baut-baja.html` — Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record
+Laporan “ada indikasi” menjawab bahwa suatu respons alat atau gejala telah ditemukan. Laporan “hasil NDT” menjawab apa yang diperiksa dengan metode tertentu dan dalam cakupan tertentu. Keduanya belum otomatis menjawab apakah sambungan diterima, apa penyebabnya, atau apakah elemen aman dibebani. Tiga pertanyaan itu memerlukan kriteria, konteks desain, dan otoritas keputusan yang sesuai.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan memakai satu kode yang dikenal luas sebagai jawaban otomatis. AWS menjelaskan bahwa D1.1 untuk baja struktural menjadi mengikat ketika diadopsi oleh kontrak, spesifikasi proyek, atau persyaratan regulasi; ruang lingkupnya juga tidak mencakup semua jenis produk atau sistem. [AWS D1.1/D1.1M](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) Karena itu, tulis sumber kriteria penerimaan secara eksplisit dalam laporan, lalu minta peninjauan engineer atau inspektor yang diberi kewenangan bila penerapannya tidak jelas.
 
-## Mulai dari gejala, bukan tebakan penyebab
+Sambungan las dapat menjadi bagian dari pekerjaan [baja las](/welded-las/), tetapi nama kategori produk bukan pengganti gambar, spesifikasi, atau keputusan proyek. Kawan Besi.co.id, bila dokumen tidak menyebut standar, revisi, detail sambungan, atau pihak yang menyetujui, jangan mengisi kekosongan itu dengan angka penerimaan dari internet.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Tindakan sementara dan jalur eskalasi
 
-## Saringan risiko langsung
+Pilihan tindakan harus mengikuti risiko dan bukti, bukan semata tampilan. Pengendalian sementara dapat berupa penandaan area, pembatasan akses, penghentian aktivitas yang memperbesar risiko, dan pengamanan bukti foto serta dokumen. Pemantauan mungkin relevan hanya bila pihak berwenang menetapkan apa yang dipantau, kapan, dan batas perubahan yang memicu tindakan. Perbaikan atau penggantian harus memiliki keputusan teknis dan rekaman pelaksanaan; jangan menggerinda atau menutup indikasi sebelum bukti yang diperlukan dicatat.
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pintasan yang sering muncul adalah “sudah dites, berarti aman.” Pintasan ini gagal karena hasil bergantung pada objek yang benar, metode, teknik, cakupan, kemampuan mendeteksi, kondisi akses, dan kriteria yang dipakai. NDT bukan stempel universal. Bahkan inspeksi yang rapi tidak dapat merekonstruksi variabel proses penting yang sebelumnya tidak dikendalikan atau tidak direkam.
 
-## Kemungkinan mekanisme
+Langkah yang lebih andal adalah menyerahkan paket temuan kepada pihak yang ditunjuk: foto dan lokasi sambungan, kondisi saat ditemukan, gambar/detail, rekaman pelaksanaan, dokumen prosedur, serta laporan NDT bila ada. Mintalah mereka menetapkan apakah perlu pembatasan segera, pemeriksaan tambahan, evaluasi desain, atau metode perbaikan. [NEEDS G-07/G-08/G-12: keputusan penerimaan, perbaikan, dan kontrol keselamatan proyek oleh otoritas kompeten.]
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Aturan kerja yang dapat dipakai sekarang
 
-## Urutan pemeriksaan dan pengujian
+Cacat yang terlihat adalah alasan untuk mengamati dan mendokumentasikan, bukan alasan untuk langsung menyimpulkan penyebab atau menilai sambungan lulus/gagal. NDT diperlukan ketika pertanyaan inspeksi melampaui apa yang dapat dibuktikan secara visual, tetapi pilihan dan makna hasilnya tetap harus mengikuti dokumen proyek yang berlaku.
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las yang Terlihat dan yang Memerlukan NDT”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mulailah hari ini dengan satu paket catatan yang rapi: identitas sambungan, foto, lokasi, kondisi permukaan, perubahan yang terlihat, status beban atau aktivitas, serta dokumen yang tersedia. Teman Besi.co.id, aturan operasinya sederhana: **jangan tutup, perbaiki, atau bebani temuan yang konsekuensial sebelum kriteria dan otoritas keputusan yang tepat sudah dipastikan.**

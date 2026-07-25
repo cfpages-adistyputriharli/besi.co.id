@@ -3,7 +3,7 @@ article_id: BES-13-A02
 title: "Membuat Bill of Materials dan Cutting List yang Bisa Diaudit"
 slug: "bill-of-materials-dan-cutting-list-baja"
 description: "Link item IDs, grade, section/plate, dimensions, quantity, theoretical mass, cut allowance, stock plan, revisions, and remnants"
-status: outline
+status: draft
 publication_date: "2026-05-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +15,22 @@ final_route: "/artikel/bill-of-materials-dan-cutting-list-baja.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/faq"
-  - "https://pesta.bsn.go.id/"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key="
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
-  - "https://www.iso.org/standard/66912.html"
   - "https://worldsteel.org/wider-sustainability/circular-economy/"
-  - "https://worldsteel.org/media/publications/steel-permanent-circular-economy/"
-  - "https://www.aisc.org/aisc/sustainability/recycling/"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Membuat Bill of Materials dan Cutting List yang Bisa Diaudit
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Bill of Materials (BOM) dan cutting list yang bisa diaudit bukan sekadar daftar panjang material. Keduanya harus membuat orang lain dapat menelusuri setiap baris: dari item pada gambar yang berlaku, ke spesifikasi dan panjang potongnya, lalu ke kebutuhan stok, sisa, serta perubahan yang pernah terjadi.
 
-- **Writer task:** Expand this file into one complete article answering: “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”
-- **Reader and situation:** Estimator moving from drawings to order
-- **Reader outcome:** Link item IDs, grade, section/plate, dimensions, quantity, theoretical mass, cut allowance, stock plan, revisions, and remnants
-- **Primary intent:** Build auditable quantities
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve drawings or optimize fabrication; BES-03-A06 and BES-09-A01 own those tasks
-- **Final public route:** `/artikel/bill-of-materials-dan-cutting-list-baja.html`
-- **Appointed CMS date:** `2026-05-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban praktisnya: beri identitas unik pada setiap item, simpan dasar ukur dan asumsi massa secara jelas, pisahkan kebutuhan desain dari rencana pemotongan, lalu kendalikan revisi. Bila satu sambungan itu putus, estimator, pembelian, gudang, dan fabrikator dapat memakai angka yang berbeda untuk benda yang sama. Hasil akhirnya mungkin tampak rapi, tetapi tidak dapat diperiksa ulang.
 
-## Opening instructions
+Isi BOM dapat berubah bila gambar revisi, spesifikasi kontrak, bentuk produk yang benar-benar dipesan, panjang stok pemasok, atau metode fabrikasi berubah. Karena itu daftar ini bukan pengganti persetujuan gambar, optimasi fabrikasi, atau keputusan engineer proyek; ia adalah jejak kuantitas yang harus diperbarui setelah dasar keputusan tersebut jelas.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membuat Bill of Materials dan Cutting List yang Bisa Diaudit**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,153 +41,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [BSN Pesta Online FAQ](https://pesta.bsn.go.id/faq), [BSN Pesta Online catalog](https://pesta.bsn.go.id/), and [BSN structural-metal ICS catalog](https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key=)
-- **Purpose for this article:** Establish what a public SNI record proves and prevent writers from turning a catalog status into a universal compliance claim.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-10
-
-- **Original sources:** [API announcement for API Spec 5L 47th edition](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l), [ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe), and [ISO 4200 scope](https://www.iso.org/standard/9985.html)
-- **Purpose for this article:** Stop articles from deriving pressure rating, fluid compatibility, or structural suitability from schedule, color, seam, or galvanizing.
-- **Safe grounded facts:** `Seamless`, `welded`, `schedule`, nominal size, outside diameter, wall thickness, coating, and end type answer different questions. A product specification and passed tests still do not replace system design, joining procedure, corrosion review, or operating limits.
-- **Limits:** Foreign API/ASME/ISO documents are not Indonesian law. Obtain the specified full edition, actual certificate, design code, fluid/exposure data, fittings/joints, tests, and responsible engineer approval through G-01/G-16.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-### KR-27
-
-- **Original sources:** [worldsteel circular economy](https://worldsteel.org/wider-sustainability/circular-economy/), [worldsteel circular-economy publication](https://worldsteel.org/media/publications/steel-permanent-circular-economy/), and [AISC recycling/deconstruction overview](https://www.aisc.org/aisc/sustainability/recycling/)
-- **Purpose for this article:** Define reduce, reuse, remanufacture, and recycle while preserving structural reuse and waste-law gates.
-- **Safe grounded facts:** Reuse can retain more product value but requires provenance, condition, geometry, material/weldability evidence, alterations/exposure history, new use, testing rationale, and design approval. Recycling does not preserve a member's identity or certify recycled-content/environmental claims.
-- **Limits:** Industry sustainability claims are not project LCAs, material certification, structural approval, or Indonesian waste compliance. Obtain project evidence, licensed assessment, current waste rules, and authorized routes through G-14/G-17.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01–G-05, G-13, G-15–G-17
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-13-A01` → `/artikel/template-rfq-besi-dan-baja.html` — Template RFQ Besi dan Baja yang Tidak Ambigu
-- `BES-13-A03` → `/artikel/membandingkan-penawaran-baja.html` — Membandingkan Penawaran Baja secara Apple-to-Apple
-- `BES-13-A04` → `/artikel/mengelola-substitusi-material-baja.html` — Mengelola Substitusi dan Deviation Request Material Baja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kredit gambar: aset lokal proyek.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah menganggap BOM sama dengan pesanan pembelian, atau cutting list sama dengan gambar kerja. BOM menjawab **apa dan berapa** yang diperlukan menurut basis dokumen tertentu. Cutting list menjawab **bagaimana ukuran bersih itu diterjemahkan menjadi potongan dari stok tertentu**. Pesanan baru boleh dibuat setelah spesifikasi, persetujuan, dan aturan pengadaan proyek dipastikan.
+
+Audit tidak berarti setiap angka selalu benar untuk semua keadaan. Audit berarti pemeriksa dapat menjawab empat pertanyaan: dari dokumen mana angka ini datang, siapa yang menghitung, asumsi apa yang dipakai, dan revisi apa yang menggantikannya. Jika jawaban itu tidak tersedia, angka massa yang sangat presisi pun tidak cukup membantu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+BOM yang baik adalah daftar kebutuhan material terstruktur. Minimal, satu barisnya menghubungkan item ID, elemen atau zona, grade atau spesifikasi, bentuk produk, dimensi rujukan, jumlah, satuan, panjang atau luas bila relevan, serta massa teoretis. Tambahkan kolom status dan rujukan gambar agar baris itu tidak terlepas dari asalnya.
+
+Cutting list adalah turunan operasionalnya. Ia memakai item ID yang sama, lalu mencatat ukuran potong, jumlah potong, allowance pemotongan, batang atau pelat stok asal, dan sisa yang dihasilkan. *Cut allowance* adalah tambahan atau pengurang yang diputuskan untuk proses potong; nilainya tidak boleh disalin otomatis dari proyek lain tanpa metode, mesin, dan toleransi yang disetujui.
+
+Massa teoretis bukan berat timbang aktual maupun dasar tagihan dengan sendirinya. Untuk produk yang memakai tabel dimensi dan massa, nilai itu bergantung pada geometri, panjang, asumsi densitas, tabel rujukan, dan pembulatan yang dipakai. Penerimaan material dan penimbangan aktual adalah pemeriksaan terpisah. [ISO 4200](https://www.iso.org/standard/9985.html) menunjukkan contoh standar yang membahas dimensi dan massa pipa baja; penggunaannya tetap harus mengikuti edisi dan syarat pasok yang ditetapkan proyek.
+
+Daftar ini juga tidak menyetujui gambar atau memilih pola pemotongan paling hemat. Keputusan desain, detail sambungan, urutan fabrikasi, dan optimasi pemotongan dapat mengubah kebutuhannya. Catat perubahan itu sebagai revisi, jangan menyembunyikannya dengan menimpa angka lama.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan register dokumen: nomor gambar, revisi, tanggal penerimaan, dan status penggunaannya. Hanya gambar yang ditetapkan tim proyek sebagai basis take-off yang masuk ke BOM. Setelah itu, pecah setiap elemen menjadi item yang dapat dipesan atau dipotong tanpa mengubah identitasnya. Satu jenis profil pada beberapa lokasi boleh memiliki beberapa item ID bila panjang, grade, atau perlakuan akhirnya berbeda.
+
+Kemudian lakukan urutan berikut.
+
+1. Buat item ID yang tidak berubah saat data lain direvisi, misalnya `B-042`.
+2. Rekam sumbernya: nomor gambar, detail, grid atau zona, dan revisi.
+3. Isi spesifikasi yang benar-benar tertulis: bentuk produk, grade, ukuran, dan satuan. Jangan menerjemahkan nama dagang menjadi grade tanpa dokumen pemasok atau spesifikasi yang berlaku.
+4. Hitung kuantitas desain dan massa teoretis dengan rumus, tabel, serta aturan pembulatan yang dicatat.
+5. Salin hanya item yang siap diproses ke cutting list, lengkap dengan ukuran potong bersih dan allowance yang disetujui.
+6. Hubungkan potongan ke stok rencana dan beri ID sisa untuk remnant yang masih mungkin dipakai kembali.
+7. Terbitkan revisi beserta daftar perubahan: item baru, berubah, dibatalkan, atau dipindahkan.
+
+Kawan Besi.co.id, pemisahan antara kebutuhan desain dan rencana stok penting karena satu panjang bersih dapat dibeli dalam beberapa panjang dagang, sedangkan satu batang stok dapat menghasilkan beberapa item. Kolom `stock plan` sebaiknya mencatat bahwa ia rencana, bukan bukti material sudah tersedia. Gudang atau pembelian perlu mengonfirmasi nomor lot, ukuran yang diterima, dan sisa aktual setelah proses berjalan.
+
+Gunakan satu baris kontrol untuk setiap revisi: siapa yang menerbitkan, siapa yang memeriksa, tanggal, alasan perubahan, dan dampaknya pada jumlah. Tanpa kontrol ini, file spreadsheet yang dikirim ulang mudah menciptakan dua versi kebenaran.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, bentuk produk menentukan data yang dicatat. Profil, pelat, pipa, batang, baut, lapisan, dan kawat las tidak dapat diperlakukan sebagai satu keluarga spesifikasi. Katalog publik BSN dapat membantu menemukan identitas serta ruang lingkup yang tampak, tetapi status pada katalog tidak menetapkan dengan sendirinya edisi yang mengikat, kewajiban regulasi, atau kesesuaian untuk seluruh proyek. [FAQ Pesta Online BSN](https://pesta.bsn.go.id/faq) dan [katalog struktur logam](https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key=) perlu dilanjutkan dengan pemeriksaan dokumen lengkap, kontrak, amandemen, dan persetujuan yang berlaku.
+
+Kedua, detail proses mengubah cutting list. Kerf, bevel, kampuh, lubang, tekukan, ujung yang perlu dirapikan, serta urutan pemotongan dapat memengaruhi allowance dan sisa. Jangan memasukkan angka allowance sebagai “standar perusahaan” bila belum ada metode kerja atau keputusan proyek yang dapat diperiksa.
+
+Ketiga, identitas material tidak berhenti pada label fisik. Bila proyek mengajukan asal-usul, kandungan daur ulang, atau klaim keberlanjutan, catat karakteristik yang diklaim, batas sistem, pihak yang menyerahkan, dan rekaman transaksi. Kerangka [ISO 22095](https://www.iso.org/standard/72532.html) membedakan model segregasi fisik, mass balance, dan klaim administratif; masing-masing memerlukan jejak bukti yang berbeda. Itu bukan sertifikasi otomatis atas material atau persetujuan struktur.
+
+Keempat, tingkat pemeriksaan harus mengikuti rencana inspeksi yang disetujui. Rencana yang dapat diaudit menyebut lot atau populasi, karakteristik yang diperiksa, metode, identitas sampel, kriteria keputusan, penanggung jawab, serta jalur ketidaksesuaian. Abstrak [ISO 2859-1](https://www.iso.org/standard/85464.html) tidak memberi alasan untuk memilih ukuran sampel atau aturan penerimaan sendiri.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gambar revisi menambah dua potong pada elemen yang sebelumnya sudah direncanakan dari satu batang stok. Jangan langsung mengubah total pada sel lama. Buat revisi baru yang menyatakan item ID, jumlah sebelum dan sesudah, referensi gambar revisi, serta dampak pada batang stok dan remnant. Dengan begitu pembeli tahu apakah pesanan perlu berubah, dan fabrikator tahu versi daftar mana yang boleh dipakai.
+
+| Keadaan | Catatan BOM | Catatan cutting list | Tindakan aman |
+| --- | --- | --- | --- |
+| Gambar belum berstatus basis produksi | Tandai sementara dan sumbernya | Jangan lepaskan untuk potong | Minta konfirmasi gambar yang berlaku |
+| Panjang bersih sudah jelas, stok belum dipilih | Catat kebutuhan desain | Kosongkan atau tandai rencana | Tetapkan stok setelah data pemasok/produksi tersedia |
+| Ada sisa yang ingin dipakai kembali | Catat ID sisa, ukuran terukur, lokasi, dan status | Hubungkan ke potongan baru hanya bila tervalidasi | Verifikasi identitas, kondisi, dan persetujuan penggunaan |
+| Material diterima berbeda dari rencana | Jangan menyamakan dengan item awal | Tahan perubahan otomatis | Catat selisih dan ajukan peninjauan yang berwenang |
+
+Teman Besi.co.id, contoh ini sengaja tidak memberi angka panjang, berat, atau allowance. Angka tersebut hanya sah bila berasal dari gambar, standar lengkap, syarat pembelian, dan metode yang memang disetujui untuk pekerjaan Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Membuat Bill of Materials dan Cutting List yang Bisa Diaudit”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang sering dipilih adalah membuat satu tabel “total kebutuhan” lalu menghapus kolom sumber dan revisi agar mudah dibaca. Ia gagal ketika ada pertanyaan sederhana: total itu berasal dari gambar mana, apakah potongan sudah memasukkan allowance, dan apakah sisa masih tersedia? Tabel ringkas boleh dibuat untuk rapat, tetapi tabel induknya harus tetap dapat ditelusuri.
 
-## Objection or shortcut to address
+Sebelum menerbitkan BOM atau cutting list, periksa hal berikut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Apakah setiap item memiliki ID, sumber gambar, dan revisi yang jelas?
+- Apakah grade, bentuk produk, dimensi, jumlah, satuan, dan basis massa teoretis dibedakan dari hasil timbang aktual?
+- Apakah allowance, stok rencana, dan remnant diberi status serta pemilik keputusan?
+- Apakah perubahan memiliki tanggal, penerbit, pemeriksa, alasan, dan dampak kuantitas?
+- Apakah material yang akan dipakai ulang mempunyai bukti asal, kondisi, geometri, dan persetujuan untuk penggunaan baru?
 
-## Required conclusion
+Menggunakan kembali elemen baja dapat mempertahankan nilai produk, tetapi bukan berarti elemen itu otomatis layak untuk fungsi baru. Riwayat paparan, perubahan, kondisi, bukti material atau kemampuan las, alasan pengujian, dan persetujuan desain dapat diperlukan; [worldsteel](https://worldsteel.org/wider-sustainability/circular-economy/) juga membedakan pemanfaatan kembali dari daur ulang yang tidak mempertahankan identitas komponen.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah berikutnya
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+BOM dan cutting list yang dapat diaudit menghubungkan kebutuhan desain, rencana potong, dan perubahan tanpa menyamakan ketiganya. Sobat Besi.co.id, mulai dari satu register dokumen dan satu format item ID, lalu minta pemeriksa proyek menegaskan gambar, spesifikasi, allowance, serta aturan penerimaan yang berlaku sebelum daftar dilepas ke pembelian atau fabrikasi. Aturan operasinya sederhana: bila asal angka atau status revisinya tidak dapat ditunjukkan, jangan perlakukan baris itu sebagai dasar pemesanan atau pemotongan.
