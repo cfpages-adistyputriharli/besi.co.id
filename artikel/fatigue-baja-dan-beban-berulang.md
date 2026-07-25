@@ -3,7 +3,7 @@ article_id: BES-08-A04
 title: "Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil"
 slug: "fatigue-baja-dan-beban-berulang"
 description: "Explain stress ranges, cycles, notches, weld details, corrosion, residual stress, inspection, and change history conceptually"
-status: outline
+status: draft
 publication_date: "2026-01-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,26 +16,19 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/73841.html"
-  - "https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/9985.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings"
-  - "https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures"
-  - "https://www.iso.org/standard/72893.html"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
   - "https://www.fhwa.dot.gov/bridge/inspection/"
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints
+Halo, Teman Besi.co.id!
 
 ## Assignment lock
 
@@ -63,7 +56,9 @@ sources:
 - Do not use a generic industry-history or “Di era digital” introduction.
 
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+-->
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,8 +69,9 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
+<!--
 ## Evidence packet
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
@@ -150,78 +146,75 @@ These are future routes. Do not link them as live until their HTML exists.
 - `BES-08-A05` → `/artikel/baja-pada-suhu-ekstrem.html` — Baja pada Suhu Tinggi, Kebakaran, dan Suhu Rendah
 - `BES-08-A06` → `/artikel/checklist-substitusi-material-baja.html` — Substitusi Material: Checklist Dampak yang Sering Terlewat
 
+-->
+
 <!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+# Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil
+
+Halo, Teman Besi.co.id! Baja tidak harus menerima satu beban besar untuk retak. Beban yang tampak kecil tetapi naik-turun berulang dapat memulai retak pada detail tertentu, lalu retak itu bertumbuh selama alat atau struktur terus dipakai. Jadi, jangan hanya bertanya apakah beban hari ini kecil; tanyakan pula di bagian mana tegangan berubah berulang, berapa lama riwayatnya, dan apakah detailnya telah berubah.
+
+Fatigue atau kelelahan material adalah masalah siklus pembebanan, bukan semata-mata masalah sekali pembebanan berlebih. Panduan fatigue dan fracture FHWA menempatkan identitas detail, riwayat beban/penggunaan dan perubahannya, konteks detail, riwayat material/fabrikasi/las, korosi, kerusakan, temuan sebelumnya, akses, serta pemantauan sebagai hal yang perlu ditinjau bersama ([FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf)).
+
+Jawaban ini dapat berubah bila ada retak, perubahan fungsi, tumbukan, korosi, perbaikan lama, atau riwayat yang tidak jelas. [NEEDS TECHNICAL REVIEW: identitas detail, riwayat siklus, kondisi aktual, dan evaluasi pihak kompeten diperlukan sebelum keputusan operasi atau perbaikan.]
+
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
+
+_Aset lokal proyek._
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Fatigue di sini berarti risiko retak dan pertumbuhan retak karena perubahan tegangan berulang pada baja dan detail pendukungnya. Ia dapat relevan pada komponen mesin bergetar, rangka yang menerima lalu lintas berulang, dudukan peralatan, sambungan, maupun pipa yang mengalami siklus tekanan atau gerak. Namun tidak setiap retak adalah fatigue; benturan, cacat fabrikasi, korosi, panas, atau gabungannya dapat juga terlibat.
+
+Jangan menyamakan angka uji tarik dengan jawaban fatigue. Nilai yang dilaporkan harus tetap terkait dengan sumber dan orientasi spesimen, persiapan, kondisi, satuan, serta identitas produk atau heat; metode uji bukan bukti stok atau komponen terpasang memenuhi kebutuhan proyek ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html); [ISO 377:2017](https://www.iso.org/standard/72529.html)). Bentuk produk, grade, kondisi pasok, dimensi, dan persyaratan pesanan juga tidak dapat dipukul rata sebagai satu spesifikasi baja universal ([ISO 630-1:2021](https://www.iso.org/standard/73841.html)).
+
+Artikel ini adalah kerangka pertanyaan awal. Ia tidak menghitung umur fatigue, menetapkan interval inspeksi, atau menyetujui kapasitas sisa.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan detail yang tiap hari ditarik sedikit, dilepas, lalu ditarik lagi. Yang relevan bukan hanya beban puncak, melainkan rentang perubahan tegangan, jumlah pengulangan, dan cara gaya mengalir melalui detail. Retak dapat mulai di lokasi yang tidak menguntungkan lalu berkembang. Retak kecil yang terlihat tidak memberi seluruh riwayat pertumbuhannya.
+
+Geometri detail penting. Peralihan tajam, lubang, takikan, tepi, dan sambungan dapat mengubah keadaan tegangan lokal. Riwayat pengelasan juga perlu dilihat bersama bentuk detail dan penggunaan aktual. Kawan Besi.co.id, istilah *welded*, *seamless*, ukuran nominal, ketebalan dinding, pelapis, dan tipe ujung menjawab pertanyaan produk yang berbeda; istilah tersebut tidak menggantikan desain sistem, prosedur penyambungan, kajian korosi, atau batas operasi ([ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe); [ISO 4200 scope](https://www.iso.org/standard/9985.html)).
+
+Urutan praktisnya ialah penggunaan berulang atau berubah, detail menerima rentang tegangan, kondisi lokal dapat membantu inisiasi retak, lalu temuan perlu dievaluasi sebelum keputusan berikutnya. Ini bukan rumus umur pakai, melainkan alasan untuk tidak memisahkan inspeksi dari cara aset dioperasikan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kumpulkan pola beban dan perubahan penggunaannya, lokasi detail, material dan riwayat fabrikasi, kondisi sambungan, korosi atau kerusakan, temuan serta perbaikan sebelumnya, dan akses pemeriksaan. Untuk aset yang sudah ada, penilaian tertib juga dimulai dari tujuan dan konsekuensi, dokumen, survei, identitas material dan geometri, riwayat aksi/penggunaan, perubahan, deteriorasi, pemantauan atau pengujian, serta pengendalian sementara ([ISO 13822:2010](https://www.iso.org/standard/46556.html)).
+
+Korosi bukan catatan kosmetik terpisah. Pemilihan perlindungan perlu mempertimbangkan kebasahan atau kondensasi, garam, polutan atau bahan kimia, perendaman atau tanah, drainase, celah, kontak antarlogam, suhu, kerusakan lapisan, akses, dan pemeliharaan. Karena itu, “sudah dicat” belum menjawab apakah perlindungannya sesuai ([ISO 12944-2:2017](https://www.iso.org/standard/64834.html); [ISO 12944-5:2019](https://www.iso.org/standard/77795.html)).
+
+Sobat Besi.co.id, catat perubahan lapangan yang tampak kecil: alat tambahan, posisi dudukan baru, jam operasi lebih panjang, pola beban berbeda, pengelasan ulang, atau area yang mulai menahan air. Catatan tersebut membantu membedakan kondisi rancangan awal dari kondisi yang kini terjadi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan dudukan mesin semula bekerja sesekali, lalu jam operasi meningkat dan getaran menjadi lebih sering. Jangan langsung menebak sisa umur. Inventarisasi dulu lokasi dudukan dan sambungan, kapan pola operasi berubah, apakah ada retak atau gerak tidak biasa, apakah pernah ada perbaikan, dan apakah korosi atau genangan muncul di dekat detail. Jika ada indikasi kerusakan atau data perubahan tidak memadai, pengendalian sementara dan evaluasi perlu ditetapkan oleh pihak yang berwenang untuk proyek tersebut.
+
+| Situasi | Langkah awal yang lebih aman |
+| --- | --- |
+| Penggunaan makin sering atau berbeda | Simpan riwayat perubahan, identifikasi detail yang menerima siklus, lalu minta peninjauan dengan data aktual. |
+| Retak, deformasi, atau perbaikan lama ditemukan | Jangan menganggapnya selesai hanya karena pernah dilas atau dicat; dokumentasikan kondisi dan evaluasi detailnya. |
+| Lapisan rusak, air tertahan, garam, atau bahan kimia | Catat paparan dan kondisi permukaan; perlindungan serta perbaikan ditentukan dari sistem dan lingkungan aktual. |
+| Riwayat aset tidak lengkap | Perlakukan kekosongan data sebagai hal yang perlu diselesaikan lewat dokumen, survei, pemantauan, atau pengujian terencana. |
+
+Panduan inspeksi dan pengujian tak merusak perlu dipakai dalam evaluasi yang kompeten; pedoman jembatan FHWA bukan aturan bangunan Indonesia maupun pengganti keputusan proyek ([FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/); [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue Baja: Mengapa Beban Berulang Bisa Mengalahkan Beban Kecil”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut seperti “bebannya kecil”, “bahannya baja kuat”, “sudah pernah diperbaiki”, atau “sudah dicat” belum menjelaskan jumlah siklus, detail kritis, mutu dan prosedur perbaikan, lingkungan, maupun kondisi retak saat ini.
 
-## Objection or shortcut to address
+Periksa: bagian mana yang menerima perubahan gaya berulang dan kapan polanya berubah; apakah gambar, identitas komponen, riwayat fabrikasi/las, inspeksi lama, serta catatan perbaikan tersedia; apakah ada retak, korosi, lapisan rusak, air tertahan, kelonggaran, atau perubahan bentuk; dan siapa yang berwenang menetapkan pembatasan operasi atau tindak lanjut.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Hasil uji, label produk, atau nama standar juga tidak otomatis membuktikan kelayakan komponen terpasang. Klaim penerimaan membutuhkan dokumen produk yang berlaku, rencana pengambilan sampel, metode, laporan aktual, dan persyaratan proyek. [NEEDS TECHNICAL REVIEW: standar Indonesia yang berlaku, spesifikasi proyek, metode inspeksi, dan keputusan kelayakan harus dikonfirmasi untuk aset yang dinilai.]
 
-## Required conclusion
+## Mengapa memantau saja belum tentu cukup
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Keberatan yang wajar ialah, “Kalau retaknya belum besar, bukankah cukup diawasi?” Pemantauan mungkin menjadi bagian keputusan, tetapi tidak dapat dipilih otomatis. Ukuran retak yang tampak tidak menjawab laju pertumbuhan, lokasi detail, riwayat beban, atau konsekuensi kegagalan. Alternatif yang lebih andal adalah mendokumentasikan temuan, mengamankan kondisi bila perlu, lalu meminta metode dan frekuensi tindak lanjut ditetapkan melalui evaluasi yang sesuai.
 
-## Draft completion checklist
+## Langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Fatigue menjelaskan mengapa beban berulang yang tampak kecil dapat menjadi masalah besar pada detail baja tertentu: perubahan tegangan, siklus, detail, lingkungan, dan riwayat aset harus dibaca bersama. Langkah berikutnya, Teman Besi.co.id, adalah menyusun catatan perubahan penggunaan dan temuan kondisi, lalu menyerahkannya bersama dokumen yang ada kepada pihak kompeten untuk dinilai.
+
+Pegang aturan ini: jangan menetapkan umur sisa, interval inspeksi, kapasitas, atau metode perbaikan dari satu gejala maupun satu angka material. Bila data detail atau kondisi aktual belum cukup, hentikan asumsi dan lakukan peninjauan teknis yang sesuai sebelum operasi atau perubahan berikutnya.

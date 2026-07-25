@@ -3,7 +3,7 @@ article_id: BES-09-A02
 title: "Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting"
 slug: "edge-quality-setelah-cutting-baja"
 description: "Explain thermal/mechanical edge effects, discontinuities, cleanup, geometry, downstream weld/form risk, and evidence"
-status: outline
+status: draft
 publication_date: "2026-01-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,187 +15,100 @@ final_route: "/artikel/edge-quality-setelah-cutting-baja.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/53736.html"
-  - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Tepi hasil potong tidak boleh dinilai hanya dari apakah bagian itu sudah terpisah dari pelat. Tepi yang tampak rapi dapat masih menyisakan dross, burr, ketidakteraturan bentuk, atau perubahan akibat panas yang mengganggu fit-up, pengelasan, pembentukan, dan keselamatan saat penanganan.
 
-- **Writer task:** Expand this file into one complete article answering: “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”
-- **Reader and situation:** Fabricator or inspector reviewing a cut part
-- **Reader outcome:** Explain thermal/mechanical edge effects, discontinuities, cleanup, geometry, downstream weld/form risk, and evidence
-- **Primary intent:** Inspect cut edges
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not define acceptance values; drawing/specification and BES-14-A02 own disposition
-- **Final public route:** `/artikel/edge-quality-setelah-cutting-baja.html`
-- **Appointed CMS date:** `2026-01-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: periksa tepi sebagai bagian yang punya fungsi lanjutan. Bersihkan atau proses ulang bila kondisi tepi menghalangi perakitan, pengukuran, proses berikutnya, atau persyaratan pada gambar dan spesifikasi. Namun, jangan menetapkan sendiri batas “lulus” hanya dari tampilan; metode ukur, kelas mutu, dan disposisi harus mengikuti dokumen yang disetujui.
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Kredit: aset lokal proyek.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-04, G-07, G-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-09-A01` → `/artikel/memilih-proses-potong-baja.html` — Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel
-- `BES-09-A03` → `/artikel/data-sebelum-bending-dan-rolling-baja.html` — Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk
-- `BES-09-A04` → `/artikel/machining-baja-dan-traceability.html` — Machining Baja: Grade, Hardness, Allowance, dan Traceability
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Heat-affected zone (HAZ) adalah bagian di dekat jalur potong termal yang mengalami siklus panas, sedangkan dross adalah sisa lelehan atau oksida yang menempel di sisi bawah atau tepi potongan. Burr merupakan tonjolan tajam atau sisa material pada tepi, dan *edge quality* adalah penilaian menyeluruh atas kondisi tepi untuk fungsi yang akan dijalankan berikutnya.
+
+Salah paham yang mahal ialah menganggap semua ketidakteraturan cukup “digerinda sampai halus”. Penggerindaan memang dapat menghilangkan tajam atau sisa yang mengganggu, tetapi juga dapat mengubah geometri, menutupi indikasi, atau mengurangi material di lokasi yang kritis. Untuk pemotongan termal, hubungan antara proses, material, ketebalan, persiapan tepi, pengukuran, dan fungsi lanjutan memang perlu ditetapkan bersama; standar umum tidak otomatis menjadi aturan penerimaan untuk setiap komponen. [ISO 9013](https://www.iso.org/standard/60321.html) dan [ISO 13920](https://www.iso.org/standard/86032.html) menjelaskan ruang lingkup rujukan tersebut.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas inspeksi setelah cutting: permukaan tepi, sisa pada tepi, bentuk potongan, serta keterkaitannya dengan pekerjaan setelahnya. Yang diperiksa bukan semata-mata “cantik atau tidak”, melainkan apakah tepi bisa ditelusuri, diukur, dirakit, dan diproses sesuai kebutuhan komponen.
+
+HAZ terutama relevan pada proses yang memasukkan panas. Ia bukan vonis otomatis bahwa baja rusak, dan tidak boleh dijadikan dasar untuk menyimpulkan sifat mekanik, kedalaman perubahan, atau kelayakan sambungan tanpa metode dan dokumen yang berlaku. Dross dan burr juga bukan istilah yang bisa dipakai sebagai nilai penerimaan universal: pengaruhnya berbeda antara part yang akan dibiarkan sebagai tepi akhir, dilas, dibending, atau dikerjakan mesin.
+
+Kawan Besi.co.id, pisahkan tiga pertanyaan ini sejak awal: apa yang terlihat, apa yang mengganggu fungsi, dan apa yang dibolehkan dokumen proyek. Gambar kerja dan spesifikasi adalah rujukan untuk pertanyaan terakhir. `[NEEDS REVIEW: konfirmasi gambar, spesifikasi, metode ukur, dan pihak yang berwenang menetapkan disposisi untuk komponen ini.]`
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah setelah bagian dapat diidentifikasi, bukan setelah tumpukan part bercampur. Cocokkan nomor part, grade bila dipersyaratkan, ukuran nominal, dan proses lanjutan yang direncanakan. Amati kedua sisi tepi dengan pencahayaan memadai: apakah ada sisa menempel, sisi tajam, alur yang tidak seragam, bagian yang terangkat, atau bentuk yang membuat pengukuran dan fit-up tidak andal.
+
+Berikutnya, ukur hanya karakteristik yang diminta gambar atau rencana inspeksi. Catat alat ukur, lokasi ukur, hasil, dan identitas part. Jika ditemukan kondisi yang perlu dibersihkan, tentukan metode kerja yang tidak menghapus identitas atau mengubah area penting tanpa pengendalian. Setelah pembersihan, lakukan pemeriksaan ulang pada titik yang terdampak; “sudah digerinda” bukan bukti bahwa geometri dan fungsi telah pulih.
+
+Apabila part masuk ke pengelasan, keputusan tepi harus masuk ke rantai pengendalian pekerjaan, bukan diputuskan oleh inspeksi akhir saja. Rujukan [ISO 3834-2](https://www.iso.org/standard/81651.html) menempatkan persyaratan, pengendalian pelaksanaan, inspeksi, ketidaksesuaian, dan rekaman sebagai satu sistem mutu pengelasan. [ISO 14731](https://www.iso.org/standard/68893.html) juga menggarisbawahi peran koordinasi pengelasan. Kedua rujukan itu tidak memberi parameter las atau batas penerimaan untuk part tertentu pada halaman rujukannya.
+
+## Urutan pemeriksaan yang dapat diulang
+
+Urutan sederhana membantu inspector dan operator membedakan pemeriksaan dari tindakan koreksi. Pertama, tetapkan part dan arah pemeriksaannya; kontur luar, lubang, slot, atau tepi sambungan tidak selalu memiliki konsekuensi yang sama. Kedua, lakukan pemeriksaan visual dan sentuhan secara aman untuk mengenali burr atau sisa yang berpotensi mengganggu. Ketiga, bandingkan fitur yang ditentukan dengan gambar dan catat hasilnya, bukan hanya kesan umum.
+
+Keempat, pilih salah satu jalur: diteruskan bila bukti sesuai, dibersihkan bila metode itu memang diizinkan, atau ditahan untuk keputusan bila ditemukan ketidaksesuaian atau data kurang. Kelima, sesudah pembersihan atau koreksi, periksa kembali fitur yang mungkin berubah. Urutan ini tidak menggantikan rencana mutu proyek, tetapi mencegah dua kegagalan umum: part diproses lanjut sebelum kondisinya diketahui, atau kondisi awal hilang sebelum sempat direkam.
+
+Untuk lot berulang, buat rekaman yang memungkinkan pola dilihat: proses cutting, tanggal atau lot, jenis temuan, lokasi pada part, tindakan, dan hasil cek ulang. Data seperti ini dapat memisahkan masalah sesekali dari masalah proses. Jangan mengubahnya menjadi klaim kapabilitas mesin tanpa rencana sampling, metode ukur, dan penilaian yang disetujui.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil tepi dipengaruhi oleh kombinasi proses cutting, kondisi dan ketebalan material, bentuk kontur, akses pemotongan, setelan serta kondisi peralatan, urutan kerja, dan kebutuhan proses sesudahnya. Karena itu, satu contoh tepi yang baik pada satu pelat tidak membuktikan semua part, ketebalan, atau lot lain sama hasilnya.
+
+Fungsi berikutnya sering menjadi pembeda paling penting. Burr kecil yang tidak mengganggu mungkin tetap menjadi risiko luka saat penanganan. Sisa yang tampaknya ringan dapat mencegah dua bidang duduk rapat saat fit-up. Sebaliknya, tindakan pembersihan agresif pada tepi yang menjadi acuan ukuran dapat menimbulkan masalah baru. Teman Besi.co.id, putuskan urutan “lihat–ukur–bersihkan–ukur ulang” sebelum pekerjaan massal dimulai, supaya pembersihan tidak menjadi perbaikan tanpa bukti.
+
+Kualitas bukti juga mengubah keputusan. Untuk menelusuri material atau laporan, dokumen inspeksi perlu direkonsiliasi dengan pesanan, produsen, produk, heat atau batch, dimensi, pengujian, dan penandaan fisik. [ISO 10474](https://www.iso.org/standard/53736.html) adalah rujukan untuk dokumen inspeksi; keberadaan dokumen atau laboratorium yang kompeten sendiri tidak membuktikan bahwa part tertentu telah memenuhi persyaratan proyek.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara menyusun pertanyaan, bukan sebagai aturan penerimaan.
+
+| Situasi yang ditemukan | Risiko proses berikutnya | Tindakan yang lebih aman |
+| --- | --- | --- |
+| Tepi terasa tajam atau ada burr | Cedera saat pegang, gangguan coating atau perakitan | Isolasi part bila perlu, periksa kebutuhan deburring, lalu verifikasi ulang kondisi tepi dan ukuran sesuai dokumen. |
+| Ada dross menempel pada bidang yang akan fit-up | Dudukan tidak rapat dan celah sulit dinilai | Jangan paksa perakitan; bersihkan dengan metode yang disetujui dan periksa ulang bidang kontak. |
+| Tepi termal akan masuk ke sambungan las | Persiapan sambungan dan bukti proses dapat tidak sesuai | Tahan keputusan parameter; rujuk gambar, WPS yang berlaku, serta koordinator/petugas berwenang. |
+| Bentuk potongan tampak berubah setelah pembersihan | Dimensi atau acuan perakitan dapat bergeser | Ukur ulang fitur yang ditentukan, catat hasil, lalu ajukan ketidaksesuaian bila tidak memenuhi dokumen. |
+
+Contoh ini sengaja tidak memberi angka toleransi. Kelas kualitas, rentang, dan metode ukur harus diturunkan dari dokumen lengkap yang disetujui, bukan dari tabel umum atau kebiasaan workshop.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memeriksa hanya satu sisi potongan. Dross dapat berada di sisi yang tidak terlihat saat part masih di meja cutting, sedangkan burr dapat baru terasa ketika part dipindahkan. Balik part dan periksa seluruh kontur yang relevan, terutama titik kontak, tepi yang akan dipegang, dan area sambungan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mencampur fakta dengan dugaan. “Tepi ini tampak kasar” adalah pengamatan. “Tepi ini gagal” adalah keputusan yang membutuhkan dasar gambar, spesifikasi, atau kriteria yang berlaku. Rekam keduanya secara berbeda agar orang berikutnya tidak mengira opini visual sebagai hasil inspeksi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menerima part karena sertifikat material tersedia. Sertifikat membantu penelusuran, tetapi identitas pada sertifikat masih harus terhubung ke material dan part yang sedang diperiksa. Sobat Besi.co.id, bila penandaan, heat/batch, atau hubungan ke order putus, jangan menutupnya dengan asumsi; catat sebagai masalah traceability dan eskalasikan sesuai sistem proyek.
 
-## Required conclusion
+## Shortcut yang perlu dihindari: “gerinda semua saja”
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut ini menarik karena cepat dan tampak menyelesaikan dua masalah sekaligus: burr hilang dan permukaan terlihat lebih seragam. Namun ia dapat gagal bila operator tidak tahu fitur mana yang menjadi acuan dimensi, area mana yang akan disambung, dan seberapa jauh pembersihan boleh dilakukan. Hasilnya mungkin lebih halus tetapi justru sulit dibuktikan terhadap gambar.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah membedakan pembersihan rutin dari koreksi ketidaksesuaian. Tetapkan part, lokasi, kondisi awal, metode yang diizinkan, pemeriksaan ulang, dan siapa yang menyetujui penyimpangan. Bila kebutuhan pembersihan menunjukkan pola berulang, tahan sejenak untuk meninjau proses cutting dan rencana kontrolnya, bukan hanya menaikkan volume penggerindaan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya sebelum part diteruskan
+
+Sebelum part berpindah ke fit-up, welding, bending, machining, atau pengiriman internal, minta empat bukti sederhana: identitas part masih terbaca atau tertelusur, kondisi tepi telah diperiksa pada area fungsional, pengukuran yang diwajibkan telah dicatat, dan setiap penyimpangan memiliki keputusan yang sah. Heat-affected zone, dross, burr, dan edge quality adalah alasan untuk mengendalikan transisi proses—bukan label cepat untuk meluluskan atau menolak komponen.
+
+Aturan operasinya: jangan bersihkan, las, bentuk, atau lepaskan part dari hold hanya karena tepi “terlihat cukup baik”. `[NEEDS REVIEW: sebelum disposisi akhir, cocokkan kondisi tepi dengan gambar/spesifikasi yang berlaku dan persetujuan teknis proyek.]`

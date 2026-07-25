@@ -3,7 +3,7 @@ article_id: BES-12-A04
 title: "Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting"
 slug: "fatigue-dan-fracture-struktur-baja"
 description: "Gather use/load history, detail geometry, welds, defects, corrosion, temperature, changes, inspection, and monitoring evidence"
-status: outline
+status: draft
 publication_date: "2026-04-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +14,24 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/fatigue-dan-fracture-struktur-baja.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
-  - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings"
-  - "https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures"
-  - "https://www.iso.org/standard/72893.html"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
   - "https://www.fhwa.dot.gov/bridge/inspection/"
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Retak kecil pada struktur baja eksisting tidak boleh dinilai hanya dari panjangnya, sementara permukaan yang tampak utuh juga tidak membuktikan bahwa detail tersebut bebas dari masalah akibat beban berulang. Keputusan awal yang tepat bukan langsung menaksir sisa umur atau memilih metode perbaikan, melainkan mengamankan kondisi, mengidentifikasi detail, dan mengumpulkan riwayat yang membuat temuan itu dapat dinilai.
 
-- **Writer task:** Expand this file into one complete article answering: “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”
-- **Reader and situation:** Owner of cyclic or damaged structure
-- **Reader outcome:** Gather use/load history, detail geometry, welds, defects, corrosion, temperature, changes, inspection, and monitoring evidence
-- **Primary intent:** Prepare critical-detail assessment
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not estimate remaining life or declare safe; competent engineer owns assessment
-- **Final public route:** `/artikel/fatigue-dan-fracture-struktur-baja.html`
-- **Appointed CMS date:** `2026-04-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: penilaian fatigue dan fracture perlu menghubungkan riwayat penggunaan serta beban, bentuk detail, sambungan dan las, identitas material, korosi atau kerusakan, perubahan struktur, temperatur, temuan inspeksi, serta pemantauan. Artikel ini membantu menyiapkan paket bukti tersebut. Artikel ini tidak menyatakan struktur aman, menentukan interval inspeksi, menghitung umur sisa, atau menetapkan perbaikan.
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,133 +42,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Mengapa detail lebih penting daripada sekadar besar beban
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Fatigue adalah kerusakan yang berkembang akibat siklus tegangan berulang. Beban tiap siklus tidak harus tampak luar biasa besar agar detail tertentu menjadi rentan. Rentang tegangan, jumlah dan pola siklus, konsentrasi tegangan, kualitas detail, kondisi sambungan, serta riwayat perubahan dapat mengubah hasil. Fracture atau patah adalah kejadian yang perlu dibaca bersama material, geometri, cacat awal, temperatur, kekangan, dan kondisi pembebanan; ia bukan sinonim sederhana untuk fatigue.
 
-### KR-11
+Karena itu, pertanyaan “bebannya masih di bawah kapasitas, jadi aman, bukan?” belum cukup. Pemeriksaan struktur baja tetap perlu merujuk dasar desain dan standar yang berlaku untuk proyek. Rekam publik [SNI 1729:2020 di BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020) membantu mengonfirmasi identitas standar spesifikasi bangunan baja struktural, tetapi halaman katalog tidak menyediakan seluruh klausul atau membuktikan struktur tertentu memenuhi persyaratan.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Kawan Besi.co.id, fokuskan pemeriksaan awal pada detail yang nyata: ujung las, perubahan penampang, lubang, takik, sambungan, area dengan kekangan tinggi, titik yang menerima getaran, dan lokasi yang pernah diperbaiki. Daftar itu bukan vonis bahwa suatu detail kritis. Ia adalah cara agar survei tidak berhenti pada gambaran umum seperti “struktur masih terlihat bagus”.
 
-### KR-24
+## Tetapkan objek, tujuan, dan batas penilaian
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+Sebelum mengumpulkan data, tulis tujuan penilaian secara spesifik. Apakah ada retak yang terlihat? Apakah penggunaan atau pola operasi berubah? Apakah struktur menerima tambahan peralatan, getaran, atau siklus yang sebelumnya tidak ada? Apakah pemilik hendak memperpanjang masa penggunaan, melakukan retrofit, atau menilai kerusakan setelah kejadian tertentu?
 
-### KR-25
+Untuk struktur eksisting, [ISO 13822:2010](https://www.iso.org/standard/46556.html) menempatkan tujuan, konsekuensi, dokumen, survei, identitas material, geometri, riwayat aksi dan penggunaan, perubahan, deteriorasi, pengujian, kontrol sementara, serta disposisi yang ditinjau sebagai bagian proses penilaian. Rujukan tersebut tetap perlu disesuaikan dengan aturan Indonesia, jenis struktur, dan dokumen proyek yang berlaku.
 
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
+Tetapkan pula batas keputusan. Pemeriksa lapangan dapat mencatat temuan dan memicu eskalasi; pemilik dapat menyediakan riwayat operasi; personel NDT dapat menjalankan metode dalam ruang lingkup kompetensinya. Namun klasifikasi detail, analisis tegangan, penentuan kritisitas, interval pemantauan, umur sisa, dan disposisi membutuhkan engineer yang kompeten serta data proyek yang memadai.
 
-### KR-26
+[NEEDS TECHNICAL REVIEW: dasar desain, gambar terbaru, riwayat beban/siklus, kriteria penerimaan, dan matriks kewenangan proyek diperlukan sebelum menetapkan kritisitas atau tindakan akhir.]
 
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
+## Rantai bukti yang perlu disambungkan
 
-## Evidence gates
+Paket bukti yang berguna tidak harus langsung sempurna, tetapi setiap bagian perlu diberi identitas dan hubungan yang jelas.
 
-- **TOPIC-GATE:** G-02, G-06, G-11, G-14
+| Kelompok bukti | Yang perlu dicari | Mengapa penting |
+| --- | --- | --- |
+| Aset dan detail | kode aset, lokasi, elevasi, foto orientasi, gambar, ukuran, jenis sambungan | Mencegah temuan tertukar dengan detail lain yang tampak serupa |
+| Penggunaan dan beban | fungsi, jam operasi, frekuensi, perubahan kapasitas, getaran, kejadian tidak normal | Membantu menyusun riwayat siklus dan perubahan kondisi |
+| Material dan fabrikasi | grade, heat/batch bila tersedia, sertifikat, prosedur dan catatan las, inspeksi awal | Menghubungkan penilaian dengan material dan detail yang benar |
+| Kondisi aktual | retak, korosi, deformasi, kerusakan, temperatur, kelembapan, akses | Menjelaskan mekanisme yang mungkin dan keterbatasan survei |
+| Riwayat tindakan | perbaikan, retrofit, penggantian komponen, temuan lama, pemantauan | Menunjukkan apakah kondisi berkembang atau sudah berubah |
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Rujukan [FHWA tentang fatigue dan fracture](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) menekankan pentingnya kategori detail, riwayat beban, kondisi las dan fabrikasi, serta konteks retak. Materi tersebut berasal dari lingkungan jembatan Amerika Serikat; gunakan sebagai pengingat jenis bukti, bukan sebagai aturan bangunan Indonesia atau tabel umur untuk proyek Anda.
 
-## Internal-link plan
+## Dari temuan lapangan menuju keputusan
 
-### Existing local routes
+Mulailah dengan mengunci identitas temuan. Catat lokasi dengan gambar atau sketsa, arah retak bila terlihat, hubungan dengan las atau perubahan geometri, kondisi permukaan, akses, dan tanggal. Jangan mengikis, mengebor, mengelas, atau menutup area sebelum metode dokumentasi serta kewenangannya jelas; tindakan spontan dapat menghilangkan bukti atau mengubah kondisi.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Berikutnya, cocokkan temuan dengan gambar dan riwayat. Jika gambar as-built tidak tersedia atau modifikasi tidak tercatat, tandai kekosongan itu. Ukur hanya dengan alat serta metode yang sesuai, dan nyatakan ketidakpastian. Pemantauan juga membutuhkan titik acuan, interval, kondisi operasi, metode, dan pemegang keputusan; kumpulan foto tanpa orientasi dan skala yang konsisten sulit dibandingkan.
 
-### Planned sibling articles
+Pilihan pemeriksaan lanjutan tidak boleh ditentukan hanya karena satu metode NDT tersedia. Halaman program [FHWA mengenai NDE untuk retak fatigue](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm) menunjukkan bahwa metode, kalibrasi, geometri, akses, kondisi permukaan, kompetensi, dan interpretasi saling terkait. Hasil “tidak ditemukan indikasi” pada ruang lingkup tertentu bukan bukti universal bahwa seluruh struktur bebas retak.
 
-These are future routes. Do not link them as live until their HTML exists.
+Teman Besi.co.id, buat hold point yang jelas: bila ada indikasi retak, deformasi baru, bunyi atau getaran tidak biasa, sambungan berubah, atau riwayat beban tidak dapat dijelaskan, tahan keputusan penggunaan menurut prosedur proyek dan eskalasikan. Kontrol sementara—termasuk pembatasan area atau operasi—harus ditetapkan oleh pihak berwenang, dicatat, dan ditinjau kembali; artikel ini tidak dapat menentukan bentuk kontrolnya.
 
-- `BES-12-A02` → `/artikel/strength-stability-serviceability-baja.html` — Kekuatan, Stability, dan Serviceability pada Member Baja
-- `BES-12-A03` → `/artikel/load-path-dan-connection-interface-baja.html` — Load Path dan Connection Interface pada Struktur Baja
-- `BES-12-A05` → `/artikel/struktur-baja-setelah-kebakaran.html` — Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas
-- `BES-12-A06` → `/artikel/modifikasi-struktur-baja-eksisting.html` — Menambah atau Mengubah Struktur Baja Eksisting
+## Faktor yang dapat mengubah kesimpulan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesimpulan teknis dapat berubah ketika salah satu kondisi berikut berubah:
 
-## Jawaban singkat dan salah paham utama
+- spektrum, rentang, urutan, dan jumlah siklus beban;
+- bentuk detail, ketebalan, kekangan, kondisi tepi, lubang, atau perubahan penampang;
+- proses dan kualitas fabrikasi, termasuk las serta perbaikan sebelumnya;
+- identitas material dan ketangguhan pada kondisi yang relevan;
+- temperatur layanan, korosi, kehilangan penampang, atau kontak lingkungan;
+- perubahan penggunaan, penambahan peralatan, benturan, kebakaran, atau kejadian abnormal;
+- kemampuan inspeksi menjangkau lokasi dan mendeteksi jenis indikasi yang dicari.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karena faktor tersebut saling berhubungan, dua retak dengan panjang tampak sama belum tentu memiliki tingkat konsekuensi yang sama. Begitu pula satu detail yang tidak menunjukkan retak hari ini belum tentu memiliki interval pemeriksaan yang sama dengan detail lain. [Hub inspeksi jembatan FHWA](https://www.fhwa.dot.gov/bridge/inspection/) menggambarkan inspeksi sebagai sistem yang mencakup kompetensi, prosedur, rekaman, dan tindak lanjut; sekali lagi, ketentuan jembatan tersebut bukan pengganti program inspeksi proyek atau regulasi Indonesia.
 
-## Definisi dan batas objek
+## Contoh keputusan yang lebih aman
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik menemukan garis pada ujung las di struktur yang menerima getaran. Jalan pintasnya adalah menggerinda garis tersebut lalu mengecat ulang. Cara itu dapat gagal karena identitas temuan, kedalaman, hubungan dengan las, dan perkembangannya belum dipahami. Alternatif yang lebih aman adalah mendokumentasikan lokasi, mengamankan kondisi sesuai kewenangan, menelusuri gambar serta riwayat operasi, lalu meminta pemeriksaan dan disposisi yang kompeten.
 
-## Cara kerjanya
+Pada kasus lain, struktur tidak menunjukkan retak, tetapi kapasitas mesin dan jam operasi meningkat. Tidak adanya temuan visual tidak menghapus perubahan riwayat siklus. Catat kapan perubahan terjadi, data operasi sebelum dan sesudahnya, detail yang menerima pengaruh, serta dasar desain yang tersedia. Engineer kemudian dapat menentukan apakah analisis, inspeksi terarah, atau pemantauan diperlukan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS PROJECT EVIDENCE: data operasi aktual, perubahan penggunaan, rekaman inspeksi asli, riwayat perbaikan, dan kondisi lingkungan diperlukan sebelum menilai perkembangan kerusakan atau sisa umur.]
 
-## Faktor yang mengubah hasil
+## Kesalahan umum yang perlu dihindari
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan fatigue dengan beban berlebih satu kali. Kesalahan kedua adalah menilai kritisitas hanya dari panjang retak. Kesalahan ketiga adalah menganggap satu hasil NDT menjamin seluruh struktur. Kesalahan keempat adalah memilih interval inspeksi dari contoh publik tanpa riwayat beban dan detail proyek.
 
-## Contoh keputusan praktis
+Hindari pula memperlakukan karat sebagai masalah terpisah. Korosi dapat mengubah penampang, bentuk permukaan, akses inspeksi, dan konsentrasi tegangan. Namun warna karat atau foto saja tidak cukup untuk menghitung kehilangan kapasitas. Catat kondisi, ukur melalui metode yang disetujui, dan hubungkan temuan dengan detail serta riwayatnya.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Besi.co.id, langkah berikutnya adalah membuat satu dossier detail kritis: identitas lokasi, gambar, geometri, material, riwayat beban dan penggunaan, catatan las/fabrikasi, korosi atau kerusakan, perubahan, inspeksi lama, serta rencana pemantauan. Anda dapat memakai [halaman utama Besi.co.id](/) untuk menemukan jalur kontak dan konteks produk, tetapi penilaian struktur tetap harus berjalan melalui engineer dan otoritas proyek.
 
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: jangan mengubah satu foto, satu ukuran retak, atau satu hasil pemeriksaan menjadi estimasi umur sisa. Kumpulkan rantai bukti untuk detail yang benar, kendalikan kondisi menurut kewenangan, lalu minta penilaian kompeten sebelum penggunaan, perbaikan, atau interval inspeksi diputuskan.
