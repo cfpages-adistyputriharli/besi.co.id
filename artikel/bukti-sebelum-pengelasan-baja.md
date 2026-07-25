@@ -22,6 +22,7 @@ sources:
   - "https://www.iso.org/standard/75614.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
+  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
 ---
 
 # Bukti yang Wajib Ada Sebelum Pengelasan Dimulai
