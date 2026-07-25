@@ -2,8 +2,9 @@
 article_id: BES-11-A01
 title: "Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan"
 slug: "mengapa-baja-berkarat"
-description: "Explain electrochemical basics and atmospheric, crevice, pitting, galvanic, under-deposit, and environment-driven mechanisms"
-status: outline
+description: "Penjelasan dasar elektrokimia dan mekanisme karat akibat atmosfer, celah, korosi sumuran, galvanik, endapan, serta kondisi lingkungan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,25 @@ final_route: "/artikel/mengapa-baja-berkarat.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/81435.html"
   - "https://www.iso.org/standard/71136.html"
-  - "https://www.iso.org/standard/79581.html"
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”
-- **Reader and situation:** Owner seeing corrosion
-- **Reader outcome:** Explain electrochemical basics and atmospheric, crevice, pitting, galvanic, under-deposit, and environment-driven mechanisms
-- **Primary intent:** Understand corrosion causes
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not diagnose one asset or prescribe coating; BES-11-A02 and BES-11-A04 own survey/system selection
-- **Final public route:** `/artikel/mengapa-baja-berkarat.html`
-- **Appointed CMS date:** `2026-03-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Baja berkarat bukan semata-mata karena materialnya “jelek” atau karena belum dicat. Karat muncul ketika permukaan baja mendapat kondisi yang memungkinkan reaksi elektrokimia: ada bagian yang menjadi tempat pelepasan elektron, ada bagian lain yang menerimanya, dan biasanya ada air atau kelembapan sebagai jalur penghantar. Oksigen, garam, kotoran, celah sambungan, serta pertemuan dengan logam lain dapat membuat reaksi itu lebih mudah atau lebih terkonsentrasi.
 
-## Opening instructions
+Itulah sebabnya dua batang baja yang tampak sama bisa menua sangat berbeda. Yang satu kering, berventilasi, dan mudah dibersihkan; yang lain terus lembap di bawah endapan atau berada di dekat udara asin. Sebelum menyimpulkan “cukup dicat lagi”, petakan dulu di mana air bertahan, apa yang menyentuh baja, dan seperti apa lingkungan kerjanya. Dasar mekanisme korosi dan pentingnya membaca kondisi paparan dijelaskan dalam [AMPP *Corrosion Basics*](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) serta lingkup klasifikasi lingkungan pada [ISO 12944-2](https://www.iso.org/standard/64834.html).
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
+*Ilustrasi: aset lokal proyek.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,131 +45,61 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-09, G-10, G-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-11-A02` → `/artikel/survei-lingkungan-korosi-baja.html` — Survei Lingkungan Korosi sebelum Memilih Proteksi Baja
-- `BES-11-A03` → `/artikel/galvanic-corrosion-pada-sambungan-logam.html` — Galvanic Corrosion saat Baja Bertemu Stainless, Aluminium, atau Tembaga
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Karat adalah hasil reaksi, bukan nama untuk semua perubahan warna pada baja. Pada baja karbon, produk korosinya sering berwarna cokelat kemerahan dan dapat terus berkembang bila kondisi pemicunya tetap ada. Lapisan cat atau lapisan seng memang dapat menunda serangan, tetapi keduanya bukan jaminan mutlak bila air masuk ke celah, lapisan rusak, atau detailnya menahan kotoran dan kelembapan.
+
+Salah paham yang mahal adalah menganggap karat selalu dimulai dari bidang yang paling terbuka. Justru bagian tersembunyi sering lebih berisiko: bawah tumpukan material, sambungan yang rapat, sisi yang tidak mendapat aliran udara, atau area di balik deposit lumpur. Jadi, Teman Besi.co.id, lokasi karat adalah petunjuk untuk bertanya, bukan bukti tunggal bahwa penyebabnya sudah pasti.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas peta penyebab korosi pada baja secara umum: korosi atmosfer, korosi dalam celah, serangan setempat yang sering disebut *pitting* atau korosi sumuran, korosi galvanik, dan korosi di bawah endapan. Baja karbon, baja berlapis seng, dan baja tahan karat tidak boleh diperlakukan sebagai benda yang sama hanya karena semuanya disebut “baja”. Kata *galvanis* sendiri bisa merujuk pada rute pelapisan dan produk yang berbeda; standar untuk barang fabrikasi celup panas juga tidak otomatis berlaku bagi pelat, kawat, mesh, pipa, atau pengikat.
+
+Yang tidak dibahas di sini adalah diagnosis satu aset tertentu atau pemilihan sistem pelindung untuk proyek Anda. Untuk itu perlu data kondisi aktual: jenis material, detail sambungan, riwayat kebocoran atau pencucian, catatan perbaikan, dan bukti spesifikasi. [ISO 1461](https://www.iso.org/standard/81435.html) membatasi ruang lingkupnya pada barang besi dan baja fabrikasi yang diberi pelapisan seng celup panas, sedangkan panduan desain [ISO 14713-2](https://www.iso.org/standard/71136.html) menegaskan bahwa desain dan proses galvanisasi perlu dipertimbangkan bersama.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan permukaan baja yang basah sebagai rangkaian kecil. Di satu titik, besi melepas elektron; titik itu disebut anoda. Elektron bergerak menuju titik lain, katoda, sementara air yang mengandung ion menjadi jalur perpindahan muatan. Oksigen yang terlarut dan air ikut membentuk produk korosi. Penjelasan ini bukan berarti setiap titik permukaan bekerja sama persis, melainkan cara sederhana untuk memahami mengapa perbedaan kecil pada kelembapan atau oksigen bisa memusatkan serangan.
+
+Pada korosi atmosfer, embun, hujan, kondensasi, atau kabut asin berulang kali membasahi permukaan. Waktu basah yang lebih lama biasanya memberi lebih banyak kesempatan bagi reaksi berlangsung. Pada korosi celah, air dan kontaminan terperangkap di ruang sempit—misalnya di bawah sambungan tumpang, gasket, atau tumpukan yang menempel. Perbedaan akses oksigen di dalam dan luar celah dapat membentuk kondisi lokal yang lebih agresif.
+
+Korosi sumuran adalah serangan yang terkonsentrasi pada titik atau lubang kecil, bukan penipisan merata. Ia penting karena permukaan dapat terlihat baik secara umum sementara satu lokasi berkembang lebih dalam. Korosi di bawah endapan bekerja dengan logika serupa: lumpur, debu yang basah, garam, atau sisa proses menciptakan area yang sulit kering dan sulit diperiksa. Kawan Besi.co.id, jangan hanya melihat sisi yang mudah dijangkau; periksa juga batas antara permukaan terbuka dan area yang tertutup.
+
+Korosi galvanik dapat terjadi ketika dua logam berbeda terhubung secara listrik dan sama-sama terkena elektrolit, yaitu cairan yang dapat menghantarkan ion. Salah satu logam bisa menjadi lebih cepat terkonsumsi daripada bila ia berdiri sendiri. Namun, menyebut setiap sambungan baja-stainless atau baja-aluminium sebagai penyebab pasti tetap keliru. Jenis logam, luas relatif, sambungan listrik, paparan air, dan isolasi di antaranya harus dibuktikan di lapangan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan adalah pengubah utama. Air hujan yang segera mengalir tidak sama dengan kondensasi yang tinggal berjam-jam; udara pesisir tidak sama dengan ruang dalam yang kering; dan percikan bahan kimia tidak sama dengan debu biasa. ISO mengelompokkan lingkungan korosif agar pemilihan perlindungan berangkat dari paparan, bukan dari asumsi bahwa semua lokasi “luar ruangan” sama. Lihat [halaman ISO 12944-2](https://www.iso.org/standard/64834.html) untuk identitas dan lingkup klasifikasi tersebut; kategori, sistem, serta ketebalan yang tepat tetap memerlukan dokumen standar terkini dan data proyek.
+
+Detail bentuk ikut menentukan. Air yang tidak punya jalur buang, ujung yang terbuka, sambungan tumpang, las yang menyisakan perangkap, dan permukaan yang tidak dapat dibersihkan membuat inspeksi serta pengeringan lebih sulit. Pada komponen yang akan dicelup galvanis, ventilasi, drainase, orientasi pengangkatan, las, dan geometri perlu dikoordinasikan dengan perancang yang bertanggung jawab dan galvanizer; jangan menetapkan ukuran atau lokasi lubang hanya dari artikel umum.
+
+Penyimpanan juga bisa memulai masalah sebelum material dipasang. Material yang diletakkan di tanah lembap, ditumpuk tanpa aliran udara, atau dibiarkan menahan air berisiko mengalami kerusakan atau noda sebelum masuk pekerjaan. Panduan [LYSAGHT tentang perawatan dan penyimpanan](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) mengarahkan pembaca untuk menjaga kondisi penyimpanan dan penanganan; penerapannya harus tetap disesuaikan dengan instruksi pemasok, kemasan, massa, bentuk, dan tata letak lokasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya Anda melihat karat di dekat sambungan baut pada rangka luar. Jangan langsung memilih satu produk pelapis. Catat dulu: apakah area itu sering terkena hujan atau kondensasi, adakah celah yang menahan air, apakah ada logam lain yang bersentuhan, apakah cat terkelupas akibat gesekan, dan apakah karat hanya di permukaan atau tampak di balik sambungan. Foto bertanggal dari jarak jauh dan dekat membantu membandingkan perubahan tanpa mengaku sebagai hasil pengujian.
+
+Gunakan urutan keputusan sederhana berikut.
+
+1. Hentikan penilaian visual bila ada penipisan, retak, sambungan longgar, atau keraguan terhadap fungsi struktural; minta penilaian orang yang kompeten.
+2. Pisahkan fakta yang terlihat dari dugaan. “Ada endapan basah di bawah sambungan” adalah observasi; “ini pasti korosi galvanik” masih hipotesis.
+3. Cari sumber air dan kontaminan terlebih dahulu, lalu periksa detail yang membuatnya menetap.
+4. Kumpulkan spesifikasi material dan pelapis yang benar-benar dipakai sebelum membandingkan opsi perbaikan.
+
+Jika aset berada di lingkungan asin, terkena proses kimia, terendam, atau berada di tanah, survei paparan dan rancangan perlindungan perlu ditinjau secara khusus. **[NEEDS G-05/G-09/G-10/G-12: data lingkungan aktual, spesifikasi yang disetujui, kondisi aset, serta penilaian pihak kompeten sebelum diagnosis atau pemilihan sistem perlindungan.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengapa Baja Berkarat: Peta Mekanisme dan Lingkungan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut pertama: “Karena galvanis, pasti aman.” Pelapisan seng dapat bekerja sebagai perlindungan, tetapi jenis produk, kondisi lapisan, detail fabrikasi, kerusakan pengangkutan, dan paparan tetap mengubah hasil. Jangan memindahkan nilai penerimaan atau metode uji dari satu standar ke produk lain tanpa memastikan standar pesanan dan bukti inspeksinya.
 
-## Objection or shortcut to address
+Shortcut kedua: “Karatnya sedikit, berarti hanya kosmetik.” Luas noda tidak selalu memberi tahu kedalaman atau lokasi asal serangan. Periksa apakah noda muncul dari tepi, celah, bawah pengikat, atau dari area yang sulit kering. Bila bagian itu memikul beban atau aksesnya terbatas, jangan mengikis atau membongkar tanpa rencana pemeriksaan yang aman.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut ketiga: “Tutup dengan cat supaya selesai.” Menutup permukaan yang masih basah, terkontaminasi, atau belum diketahui penyebabnya dapat menyembunyikan masalah dan menyulitkan evaluasi berikutnya. Pertanyaan yang lebih berguna adalah: dari mana air datang, bagaimana jalurnya keluar, apa yang perlu dibersihkan, dan bukti apa yang menunjukkan kondisi dasar siap ditangani?
 
-## Required conclusion
+## Langkah berikutnya sebelum memilih perlindungan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Singkatnya, baja berkarat ketika reaksi elektrokimia mendapat jalan melalui air, oksigen, dan kondisi lokal yang mendukung. Lingkungan, detail sambungan, endapan, kontak antarmetal, serta cara material disimpan dapat mengubah kecepatan dan pola serangannya.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Besi.co.id, langkah paling berguna sekarang bukan menebak nama pelapis, melainkan membuat catatan lokasi: sumber basah, waktu lembap, endapan, jenis sambungan, logam yang bertemu, kerusakan lapisan, dan dokumen material yang tersedia. Mulai dari [halaman utama Besi.co.id](/) bila Anda perlu menelusuri topik terkait, lalu bawa catatan itu kepada pihak yang bertanggung jawab untuk survei dan keputusan sistem. Aturan praktisnya: jangan memilih perlindungan sebelum penyebab paparan dan kondisi aset yang nyata dapat dibuktikan.

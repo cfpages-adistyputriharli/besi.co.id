@@ -2,8 +2,9 @@
 article_id: BES-09-A01
 title: "Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel"
 slug: "memilih-proses-potong-baja"
-description: "Compare geometry, thickness range concept, edge quality, heat, kerf, distortion, throughput, secondary work, and traceability"
-status: outline
+description: "Panduan membandingkan gergaji, shear, plasma, laser, dan oxyfuel menurut bentuk, ketebalan, mutu tepi, panas, lebar potong, distorsi, kecepatan kerja, pekerjaan lanjutan, dan ketertelusuran."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -29,37 +30,9 @@ sources:
   - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”
-- **Reader and situation:** Fabricator planning production
-- **Reader outcome:** Compare geometry, thickness range concept, edge quality, heat, kerf, distortion, throughput, secondary work, and traceability
-- **Primary intent:** Compare cutting processes
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not provide machine settings; approved process route owns parameters
-- **Final public route:** `/artikel/memilih-proses-potong-baja.html`
-- **Appointed CMS date:** `2026-01-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,131 +43,73 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-04, G-07, G-12
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-09-A02` → `/artikel/edge-quality-setelah-cutting-baja.html` — Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting
-- `BES-09-A03` → `/artikel/data-sebelum-bending-dan-rolling-baja.html` — Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
+END MANAGED IMAGE PLAN -->
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Besi.co.id! Memilih proses potong baja bukan soal mesin mana yang paling cepat atau paling rapi secara umum. Pilihannya harus mengikuti bentuk komponen, ketebalan yang direncanakan, mutu tepi yang dibutuhkan, jumlah potongan, serta pekerjaan berikutnya. Saw cocok ketika potongan lurus dan panas perlu dibatasi; shear masuk akal untuk pelat lurus tertentu; plasma, laser, dan oxyfuel dipilih untuk kebutuhan potong termal dengan kemampuan serta konsekuensi panas yang berbeda.
+
+Jawaban akhirnya dapat berubah setelah gambar, jenis material, ketebalan aktual, kebutuhan sambungan, dan kriteria penerimaan diperiksa. Kerf—lebar material yang hilang oleh jalur potong—serta panas dari proses termal dapat memengaruhi ukuran akhir dan pekerjaan lanjutan. Karena itu, jangan memilih proses dari nama mesin lebih dahulu; tetapkan hasil akhirnya, lalu cocokkan proses yang disetujui.
+
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
+
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
+
+Hasil yang dicari bukan sekadar pelat terpisah. Fabricator perlu menyerahkan komponen yang dapat ditelusuri, sesuai gambar dan siap masuk ke langkah berikutnya—misalnya perakitan, pembengkokan, atau pengelasan. Untuk pekerjaan termal, hubungan antara kemampuan proses, persyaratan gambar, material, ketebalan, pengaruh panas, persiapan tepi, pengukuran, dan fungsi lanjutannya perlu ditetapkan bersama; tidak ada satu toleransi bengkel yang otomatis cocok untuk semua pekerjaan. [ISO 9013:2017](https://www.iso.org/standard/60321.html), [amendemennya tahun 2024](https://www.iso.org/standard/87851.html), dan [ISO 13920:2023](https://www.iso.org/standard/86032.html) menunjukkan mengapa kebutuhan tersebut harus dibaca dalam konteks dokumen yang berlaku.
+
+Prasyarat minimumnya adalah gambar revisi terkendali, daftar material, jumlah potong, urutan produksi, serta jalur proses yang telah disetujui. Orang yang berwenang menetapkan parameter mesin, bukan artikel ini. Jika komponen akan dilas, koordinasi mutu perlu menghubungkan persyaratan, prosedur, personel, peralatan, material, inspeksi, ketidaksesuaian, dan rekaman; inspeksi akhir tidak dapat mengembalikan variabel proses penting yang sejak awal tidak dikendalikan. [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 14731:2019](https://www.iso.org/standard/68893.html), dan [ISO 17662:2025](https://www.iso.org/standard/83737.html) memberi kerangka mutu tersebut, bukan pengaturan mesin siap pakai.
 
 ## Langkah 1 — tetapkan scope
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan membagi kebutuhan menjadi lima pertanyaan: bentuk apa yang dipotong, berapa ketebalannya, seberapa penting mutu tepi dan ukuran akhir, berapa banyak unitnya, dan akan diproses menjadi apa setelah itu. Potongan lurus pada profil atau batang sering mengarahkan pembahasan ke saw. Pelat dengan garis lurus tertentu dapat dinilai untuk shear. Kontur pada pelat dapat membawa pilihan ke plasma, laser, atau oxyfuel. Ini peta keputusan, bukan aturan bahwa satu proses pasti unggul.
+
+Tentukan juga antarmukanya. Apakah tepi menjadi permukaan sambungan las, apakah komponen harus masuk jig, atau apakah sisa tepi akan dikerjakan lagi? Heat-affected zone (HAZ) adalah daerah di dekat potongan yang mengalami siklus panas; dross adalah sisa lelehan yang dapat menempel di bawah tepi; burr adalah gerigi atau sisa tipis pada tepi. Ketiganya bukan vonis mutu tanpa kriteria gambar, tetapi bisa menambah pekerjaan pembersihan dan memengaruhi kesiapan komponen.
+
+Contohnya, ada dua pelat dengan bentuk sama. Yang pertama hanya menjadi blank kasar sebelum proses lain; yang kedua akan langsung dipasang pada sambungan dengan batas ukuran tertentu. Memaksa keduanya lewat rute potong yang sama mungkin terlihat hemat di awal, tetapi pekerjaan sekunder atau koreksi dapat menghapus penghematan itu. Kawan Besi.co.id, tanyakan sejak rapat produksi: “Tepi ini harus selesai saat keluar dari mesin, atau memang direncanakan untuk diproses lagi?”
+
+Scope juga harus menyebut yang tidak diputuskan di lantai produksi: parameter pemotongan, toleransi angka, metode ukur, dan penerimaan akhir mengikuti gambar, spesifikasi, serta prosedur yang disetujui. [NEEDS REVIEW: G-04/G-07—konfirmasi persyaratan gambar, rute proses, dan kriteria penerimaan yang berlaku sebelum produksi.]
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menentukan rute, kumpulkan gambar dan revisinya, identitas material, dokumen pesanan, sertifikat yang menyertai material, rencana jumlah potong, serta catatan hasil pemeriksaan bila sudah ada. Cocokkan dokumen inspeksi dengan pesanan, produsen, produk, heat atau batch, dimensi, hasil pengujian, dan penandaan fisik. Rujukan [ISO 10474:2013](https://www.iso.org/standard/53736.html) relevan untuk disiplin membaca dokumen inspeksi tersebut.
+
+Jangan mengganti pencocokan dengan asumsi “bahannya terlihat sama”. Bila hasil laboratorium dipakai dalam keputusan, periksa juga ruang lingkup kompetensi atau akreditasinya, metode yang dipakai, otorisasi laporan, dan rantai identitas sampel. Kompetensi laboratorium meningkatkan keyakinan pada hasil, tetapi tidak sendirian membuktikan satu item telah sesuai; ini sejalan dengan ruang lingkup [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html).
+
+Kemudian buat matriks sederhana di kertas kerja: proses calon, bentuk yang memungkinkan, konsekuensi panas, kerf, mutu tepi yang ditargetkan, kebutuhan bersih-bersih, laju keluaran, dan bukti penerimaan. Angka kemampuan mesin jangan dipindahkan dari brosur atau pekerjaan lain tanpa persetujuan rute untuk material dan kondisi sekarang. Dengan cara ini, saw, shear, plasma, laser, dan oxyfuel dibandingkan berdasarkan pekerjaan Anda sendiri, bukan berdasarkan klaim serbaguna.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat urutannya konseptual dan mudah diaudit. Pertama, tahan material yang identitas atau revisi gambarnya belum cocok. Kedua, kelompokkan komponen menurut geometri dan kebutuhan hilirnya. Ketiga, ajukan proses calon kepada penanggung jawab rute: saw untuk pertimbangan potong mekanis lurus, shear untuk pemisahan pelat lurus yang sesuai, serta plasma, laser, atau oxyfuel bila bentuk dan pekerjaan termal memang relevan. Keempat, lakukan pembuktian awal sesuai prosedur yang disetujui, lalu ukur dan catat hasilnya sebelum produksi berulang dimulai.
+
+Throughput berarti laju keluaran yang benar-benar dapat dipakai, bukan hanya waktu nyala mesin. Hitung pula waktu penataan, pemindahan, pembersihan tepi, pemeriksaan, dan perbaikan. Misalnya, proses yang memotong kontur cepat tetapi meninggalkan tepi yang membutuhkan pekerjaan tambahan belum tentu menang terhadap proses lain pada total waktu produksi. Teman Besi.co.id, ukur aliran kerja sampai komponen siap untuk tahap berikutnya.
+
+Untuk potong termal, proses yang dipilih perlu dipertemukan dengan persyaratan tepi dan ukuran, bukan dibuktikan oleh tampilan potongan saja. Bila kemudian komponen dilas, rute kerja harus tetap menjaga keterlacakan material dan pengendalian mutu sambungan. Jangan menetapkan panas, bahan habis pakai, atau perbaikan dari artikel umum; dokumen aplikasi dan prosedur yang disetujui yang menentukan. [NEEDS REVIEW: G-07—verifikasi dokumen pengelasan dan rute proses yang mengikat komponen ini.]
+
+Keselamatan pun bukan lampiran terakhir. Pemotongan, pemindahan material, peralatan produksi, paparan lingkungan kerja, dan kemungkinan pekerjaan di lokasi dapat berada dalam lingkup yang berbeda. Kerangka SMKK pada [Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) serta peraturan tentang [lingkungan kerja](https://jdih.kemnaker.go.id/peraturan/detail/1546), [pesawat angkat dan angkut](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [kerja pada ketinggian](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), dan [pesawat tenaga dan produksi](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016) tidak menggantikan penilaian risiko, izin, kompetensi, pemeriksaan peralatan, rencana darurat, dan pengawasan di tempat kerja.
 
 ## Hold point dan kondisi berhenti
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berhentikan keputusan dan minta review bila salah satu hal ini muncul: material tidak bisa ditelusuri ke dokumennya; gambar tidak jelas atau revisinya bertentangan; proses yang direncanakan tidak tertulis dalam rute yang disetujui; mutu tepi atau ukuran belum memiliki kriteria penerimaan; atau hasil potongan awal tidak mendukung fungsi lanjutannya. Hold point berarti titik tahan: produksi tidak diteruskan sampai pihak yang berwenang menilai bukti dan memberi keputusan.
+
+Jangan pula meneruskan pemotongan karena “nanti dirapikan”. Jalan pintas ini gagal saat pekerjaan sekunder tidak direncanakan, identitas bahan hilang, atau penyimpangan baru terlihat setelah komponen masuk perakitan. Pilihan yang lebih andal adalah menguji aliran lengkap pada contoh yang dikendalikan, mencatat temuan, lalu menyetujui atau mengganti proses sebelum volume besar dikerjakan.
+
+[NEEDS REVIEW: G-12—pastikan penilaian risiko lokasi, kewajiban pemberi kerja, kompetensi personel, kondisi peralatan, dan izin kerja diperiksa terhadap teks peraturan terkini serta kondisi pekerjaan nyata.]
 
 ## Verifikasi hasil dan handover
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum handover ke proses berikutnya, periksa identitas komponen, jumlah, bentuk, ukuran yang diminta, kondisi tepi terhadap kriteria yang telah disetujui, serta kesiapan untuk operasi lanjut. Catat proses yang dipakai, revisi gambar, lot atau heat material bila dipersyaratkan, hasil pemeriksaan, ketidaksesuaian, dan tindakan koreksi. Rekaman itu membantu pihak berikutnya memahami apa yang telah dilakukan tanpa menebak.
 
-## Objection or shortcut to address
+Gunakan daftar singkat ini: apakah label komponen masih tersambung ke material asal; apakah gambar dan rute proses yang dipakai adalah revisi benar; apakah hasil ukur dicatat dengan metode yang disetujui; apakah tepi perlu dibersihkan sebelum operasi berikutnya; dan apakah penyimpangan sudah diputuskan, bukan hanya diberi tanda? Bila jawaban terakhir belum jelas, tahan handover.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sederhananya, pemeriksaan akhir bukan pengganti kendali proses. Bukti yang rapi membuat keputusan potong dapat ditelusuri kembali saat ada masalah pada perakitan atau pengelasan. Untuk kebutuhan sumber dan panduan awal lainnya, pembaca dapat kembali ke [Besi.co.id](/).
 
-## Required conclusion
+## Jangan memilih satu proses untuk semua pekerjaan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Pakai plasma saja untuk semua bentuk, nanti finishing menyusul” terdengar praktis ketika antrean produksi panjang. Namun pilihan itu mencampur dua keputusan: memisahkan material dan memenuhi fungsi tepi akhir. Jika gambar menuntut ukuran, kesiapan sambungan, atau keterlacakan tertentu, finishing yang tidak direncanakan dapat menjadi titik macet dan menambah risiko salah identitas.
 
-## Draft completion checklist
+Alternatifnya bukan mencari proses universal. Bandingkan lima keluarga proses tadi melalui contoh komponen nyata, nilai total pekerjaan sampai siap digunakan, dan dokumentasikan keputusan. Sobat Besi.co.id, proses terbaik adalah yang memenuhi hasil yang diperlukan dengan bukti yang bisa diperiksa, bukan yang sekadar paling familiar di workshop.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Pilih proses dari hasil kerja yang dibutuhkan
+
+Pilih saw, shear, plasma, laser, atau oxyfuel setelah hasil akhir didefinisikan: geometri, ketebalan, mutu tepi, panas, kerf, distorsi, laju produksi, pekerjaan sekunder, dan bukti keterlacakan. Langkah berikutnya, ambil gambar revisi, identitas material, dan rute proses untuk satu komponen nyata; lalu minta penanggung jawab teknis menilai proses calon beserta contoh hasilnya.
+
+Pegang aturan kerja ini: jangan melepaskan produksi hanya karena mesin tersedia. Lepaskan setelah proses, bukti material, kriteria penerimaan, dan keselamatan pekerjaan cocok dalam dokumen yang berlaku. Artikel ini membantu menyusun pertanyaannya, tetapi tidak menggantikan persetujuan teknis, prosedur proyek, atau penilaian K3 yang diperlukan.

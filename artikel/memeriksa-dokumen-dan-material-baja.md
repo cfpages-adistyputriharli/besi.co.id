@@ -2,8 +2,9 @@
 article_id: BES-02-A05
 title: "Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang"
 slug: "memeriksa-dokumen-dan-material-baja"
-description: "Reconcile purchase order, packing list, markings, dimensions, heat data, certificate issuer, and independent confirmation"
-status: outline
+description: "Panduan mencocokkan pesanan, dokumen, penandaan, ukuran, data heat, penerbit sertifikat, dan verifikasi independen sebelum menerima baja."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,197 +16,90 @@ final_route: "/artikel/memeriksa-dokumen-dan-material-baja.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/faq"
-  - "https://pesta.bsn.go.id/"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key="
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
-  - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”
-- **Reader and situation:** Receiver suspecting altered or mismatched paperwork
-- **Reader outcome:** Reconcile purchase order, packing list, markings, dimensions, heat data, certificate issuer, and independent confirmation
-- **Primary intent:** Screen authenticity and consistency
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not accuse a supplier or authenticate conclusively; BES-14-A03 owns testing
-- **Final public route:** `/artikel/memeriksa-dokumen-dan-material-baja.html`
-- **Appointed CMS date:** `2025-08-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Material yang tampak benar di atas truk belum otomatis cocok dengan yang dibeli. Keputusan aman adalah menahan penerimaan akhir sampai pesanan, dokumen pengiriman, penandaan fisik, ukuran, dan identitas heat atau batch saling cocok. Ketidakcocokan tidak selalu berarti pemalsuan, tetapi cukup untuk dihentikan, dicatat, dan diklarifikasi sebelum material dipakai atau dibayar penuh.
 
-### KR-01
+Mulailah dari pencocokan silang, bukan asumsi bahwa satu sertifikat membuktikan semuanya. Sertifikat yang benar pun bisa merujuk ke batch lain; sebaliknya, barang yang benar dapat datang dengan dokumen yang belum lengkap. Jadi, jawaban akhirnya baru kuat setelah penerbit dokumen, jejak identitas barang, cakupan pengujian, dan persetujuan proyek diperiksa oleh orang yang berwenang.
 
-- **Original sources:** [BSN Pesta Online FAQ](https://pesta.bsn.go.id/faq), [BSN Pesta Online catalog](https://pesta.bsn.go.id/), and [BSN structural-metal ICS catalog](https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key=)
-- **Purpose for this article:** Establish what a public SNI record proves and prevent writers from turning a catalog status into a universal compliance claim.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-06
-
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-02, G-03, G-13
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-02-A03` → `/artikel/heat-number-batch-dan-marking-baja.html` — Heat Number, Batch, dan Marking: Rantai Identitas Material
-- `BES-02-A04` → `/artikel/membandingkan-grade-lintas-standar.html` — Membandingkan Grade Lintas Standar Tanpa Menganggap Setara
-- `BES-02-A06` → `/artikel/material-baja-tanpa-sertifikat.html` — Material Tanpa Sertifikat: Pilihan Verifikasi dan Batas Penggunaannya
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan saat barang datang akan jauh lebih cepat bila kebutuhan sudah tertulis dari awal. Di purchase order (PO, atau pesanan pembelian), tulis bentuk produk, grade atau mutu yang diminta, ukuran nominal, jumlah, kondisi permukaan bila relevan, lokasi kirim, serta dokumen yang wajib ikut. Tambahkan siapa yang berwenang menerima, siapa yang boleh menyetujui perbedaan, dan apa tindakan sementara bila data tidak cocok.
+
+Jangan menulis “besi sesuai SNI” sebagai satu-satunya syarat. Katalog publik BSN dapat membantu mengenali judul dan status dokumen, tetapi satu subjek dapat memiliki lebih dari satu edisi; status katalog bukan pengganti penentuan edisi yang mengikat bagi kontrak Anda. [FAQ Pesta Online BSN](https://pesta.bsn.go.id/faq) dan [katalog baja struktur BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=91.080.10&key=) berguna untuk verifikasi awal identitas dokumen, bukan untuk menyimpulkan klausul atau kewajiban proyek.
+
+Contoh pertanyaan yang perlu dijawab sebelum order: “Apakah heat number wajib terbaca pada setiap batang atau cukup pada bundel?”, “Apakah sertifikat harus berasal dari produsen?”, dan “Siapa yang menyetujui substitusi?” Bila jawaban belum ada, tandai sebagai **[NEEDS TECHNICAL REVIEW: kriteria penerimaan proyek]**. Jangan memindahkan ketidakjelasan itu ke hari pengiriman.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Minta setiap penawaran menyebutkan produk yang sama, bukan hanya total berat atau harga per kilogram. Bandingkan bentuk material, grade yang dinyatakan, panjang atau dimensi, toleransi yang disepakati, jumlah, asal dokumen, ongkos kirim, pemotongan, pengujian, dan syarat serah terima. Penyedia yang menawarkan harga lebih rendah mungkin memasukkan lingkup pemeriksaan yang berbeda; itu belum berarti materialnya lebih buruk, tetapi perbandingannya belum setara.
+
+Untuk produk yang diklaim mengikuti standar tertentu, cocokkan dahulu apakah keluarga standar itu memang relevan dengan bentuk produknya. Catatan BSN untuk [SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), misalnya, adalah rekam identitas standar yang perlu dibaca bersama spesifikasi pesanan dan dokumen lengkapnya. Singkatnya, jangan menyamakan aturan profil, pelat, pipa, batang, dan rakitan.
+
+Sobat Besi.co.id, minta kolom “dokumen diserahkan saat pengiriman” dalam tabel pembanding. Isinya dapat berupa packing list, nomor order, identitas produsen, heat/batch, sertifikat yang dirujuk, dan laporan uji bila memang dipersyaratkan. Dengan begitu, dokumen tidak menjadi tambahan administratif yang baru dicari setelah material sudah dibongkar.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Packing list terutama menjawab apa yang dikirim dan berapa jumlahnya. PO menjawab apa yang dipesan. Marking, yaitu cap atau penandaan pada material atau label bundel, membantu menghubungkan barang fisik dengan identitas yang diklaim. Sertifikat atau inspection document dapat memuat data produk atau batch, sedangkan laporan laboratorium memuat hasil sampel dan metode uji. Nah, satu dokumen tidak otomatis menggantikan dokumen lain.
+
+Kerangka [ISO 10474](https://www.iso.org/standard/53736.html) relevan sebagai pengingat bahwa inspection document harus direkonsiliasi terhadap pesanan, produsen, produk, heat/batch, dimensi, pengujian, dan marking fisik. Namun jenis dokumen yang tepat, penandatangan, metode sampling, serta aturan penerimaannya harus mengikuti kontrak dan standar lengkap yang berlaku; jangan menebaknya dari judul standar.
+
+Lakukan pemeriksaan berurutan berikut sebelum memberi status “sesuai secara administratif”:
+
+- bandingkan nomor PO, nama produk, grade, bentuk, ukuran, dan kuantitas pada dokumen pengiriman;
+- catat marking, label, heat number, atau batch yang benar-benar terlihat tanpa menghapus label asli;
+- cocokkan setiap identitas fisik itu ke halaman sertifikat yang tepat, bukan hanya nama produsen;
+- periksa apakah penerbit, tanggal, nomor dokumen, dan ruang lingkup laporan masuk akal untuk pengiriman tersebut;
+- simpan foto, salinan dokumen, daftar selisih, dan keputusan penerimaan dalam satu paket serah terima.
+
+Jika heat number tidak ada, tidak terbaca, atau tidak dapat dipetakan dengan jelas, jangan menyatakan material lolos hanya karena dimensi tampak sesuai. Buat karantina administratif dan gunakan **[NEEDS TECHNICAL REVIEW: metode verifikasi identitas dan keputusan penggunaan]** sebelum material dicampur, dipotong, atau dipasang.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan yang baik meminta bukti yang dapat dicocokkan, bukan janji umum. Tanyakan: siapa produsen dan penerbit sertifikatnya; nomor mana yang menghubungkan sertifikat ke bundel ini; apakah seluruh kuantitas berasal dari satu heat atau beberapa batch; dokumen apa yang direvisi bila ada perubahan; dan siapa kontak yang dapat mengonfirmasi dokumen langsung.
+
+Tanyakan juga apakah ada pengujian pihak ketiga, laboratorium mana yang menerbitkan laporannya, metode apa yang tercantum, serta apakah ruang lingkup kompetensinya relevan. [ISO/IEC 17025](https://www.iso.org/standard/66912.html) menjelaskan kerangka kompetensi laboratorium; akreditasi atau kompetensi laboratorium meningkatkan keyakinan pada proses laporan, tetapi tidak dengan sendirinya membuktikan item di depan Anda sudah sesuai. Karena itu tetap cocokkan sampel, chain of identity, dan otorisasi laporan.
+
+Untuk klaim asal bahan, kandungan daur ulang, atau keberlanjutan, minta karakteristik yang diklaim, batas sistem, catatan input-output, pihak yang bertanggung jawab, aturan transfer, dan pencegahan hitung ganda. [ISO 22095](https://www.iso.org/standard/72532.html) membedakan pendekatan identitas fisik, segregasi, mass balance, dan klaim administratif; pembaruan ISO pada 2026 juga menegaskan pentingnya kejelasan rantai penguasaan. [Penjelasan pembaruan ISO](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html) bukan bukti bahwa baja tertentu memenuhi klaim tersebut.
 
 ## Red flag dan biaya yang sering tersembunyi
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Red flag praktis bukan tuduhan kepada penyedia. Ini hanya alasan untuk memperlambat keputusan, biar tidak salah langkah: nomor sertifikat tidak mengarah ke barang yang datang, label tampak diganti tanpa penjelasan, jumlah atau ukuran berbeda dari PO, halaman sertifikat terpotong, penerbit tidak dapat dikonfirmasi, atau beberapa batch digabung menjadi satu klaim tanpa pemetaan.
+
+Teman Besi.co.id, biaya terbesar sering muncul setelah material diterima terburu-buru: pekerjaan berhenti saat identitas dicari, material terlanjur dipotong sehingga sulit dipisahkan, pengiriman ulang, pengujian tambahan, rework, atau sengketa pembayaran. Karena itu, status “diterima bersyarat” lebih berguna daripada memaksa pilihan biner. Pisahkan lokasi material, beri penanda hold, dan tulis persis bukti yang kurang serta batas waktu jawabannya.
+
+Untuk baja tulangan atau produk yang mungkin berada dalam ruang lingkup pengaturan khusus, jangan menyimpulkan kewajiban hanya dari kata “besi beton”. [Status dan abstrak Permenperin 55 Tahun 2024](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024) perlu dibaca bersama naskah terkini, produk yang tepat, transisi, pengecualian, kontrak, dan SNI yang dirujuk. Gunakan **[NEEDS LEGAL AND TECHNICAL REVIEW: ruang lingkup regulasi dan bukti kesesuaian]** sebelum membuat keputusan kepatuhan atau penolakan berdasarkan regulasi.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Memeriksa Keaslian Dokumen dan Kesesuaian Material yang Datang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan tiga keputusan sederhana: terima, terima bersyarat/karantina, atau tolak/eskalasikan sesuai otoritas kontrak. Penerimaan tidak berarti semua sifat material sudah terbukti; artinya hanya tingkat pemeriksaan yang memang sudah dilakukan. Catat siapa yang memeriksa, kapan, kondisi barang, daftar dokumen, nomor identitas, hasil pencocokan, selisih, foto, dan siapa yang menyetujui keputusan.
 
-## Objection or shortcut to address
+Jangan jadikan pembayaran penuh sebagai pengganti proses penerimaan. Pembayaran atau penggunaan sebaiknya mengikuti kriteria yang disetujui proyek, termasuk penyelesaian selisih yang konsekuensial. Bila diperlukan konfirmasi independen, pastikan permintaan, pengambilan sampel, identitas sampel, metode, laporan, dan keputusan penggunaan ditinjau oleh personel teknis yang kompeten. Artikel ini tidak dapat mengautentikasi pemasok atau menyatakan suatu batch lulus pengujian.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Besi.co.id, langkah berikutnya adalah membuat satu lembar rekonsiliasi untuk setiap pengiriman: PO di kolom pertama, packing list di kolom kedua, marking/heat fisik di kolom ketiga, lalu sertifikat dan keputusan di kolom terakhir. Bila satu sambungan tidak bisa dibuktikan, tahan keputusan penggunaan dan minta peninjauan teknis yang kompeten. Aturan operasionalnya sederhana: dokumen, barang, dan persetujuan harus membentuk satu rantai yang dapat ditelusuri—bukan sekadar tampak meyakinkan.
