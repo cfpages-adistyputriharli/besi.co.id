@@ -3,7 +3,7 @@ article_id: BES-07-A06
 title: "Checklist Receiving Pipa dan Tube"
 slug: "checklist-receiving-pipa-dan-tube"
 description: "Check marking, certificate, dimensions, length, straightness, ends, seam, ovality indicators, coating, caps, damage, count, and quarantine"
-status: outline
+status: draft
 publication_date: "2025-12-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,37 +24,17 @@ sources:
   - "https://www.iso.org/standard/79581.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Checklist Receiving Pipa dan Tube
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Receiving pipa dan tube bukan sekadar menghitung batang yang tiba lalu menandatangani surat jalan. Keputusan yang aman adalah memisahkan material yang identitas dan kondisinya dapat dicocokkan dari material yang perlu ditahan. Periksa marking, dokumen, ukuran, bentuk, ujung, lapisan, kerusakan, dan jumlahnya sebelum material bercampur dengan stok atau berpindah ke pekerjaan berikutnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Receiving Pipa dan Tube”
-- **Reader and situation:** Warehouse receiving bundled pipe
-- **Reader outcome:** Check marking, certificate, dimensions, length, straightness, ends, seam, ovality indicators, coating, caps, damage, count, and quarantine
-- **Primary intent:** Inspect delivered pipe
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prove pressure integrity or release material; BES-14-A01 and BES-14-A04 own acceptance
-- **Final public route:** `/artikel/checklist-receiving-pipa-dan-tube.html`
-- **Appointed CMS date:** `2025-12-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Checklist ini membantu pemeriksaan awal di area penerimaan gudang. Hasilnya adalah catatan kondisi dan status material—diterima bersyarat, dikarantina, atau menunggu klarifikasi—bukan pembuktian bahwa pipa aman untuk tekanan atau siap dilepas ke instalasi. Keputusan akhir dapat berubah bila pesanan, sertifikat material, spesifikasi proyek, atau pemeriksaan pihak yang berwenang menunjukkan ketidaksesuaian.
 
-## Opening instructions
+![Ilustrasi Besi WF 4](/wp-content/uploads/2024/01/Besi-WF-4.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Receiving Pipa dan Tube**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Kredit gambar: aset lokal proyek.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-024`
@@ -65,136 +45,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi WF 4` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-024]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Target penerimaan dan bekal pemeriksaan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum truk dibongkar, tetapkan siapa yang menerima, siapa yang boleh memberi status tahan, dan dokumen apa yang menjadi acuan. Siapkan pesanan pembelian atau permintaan material, surat jalan, daftar kemasan bila ada, sertifikat yang disyaratkan pesanan, alat ukur yang sesuai, kamera, serta formulir temuan. Catat juga nomor kendaraan, waktu tiba, kondisi kemasan, dan lokasi penyimpanan sementara agar temuan tetap dapat ditelusuri.
 
-### KR-02
+Jangan menyamakan nama dagang dengan bukti grade atau kecocokan pemakaian. Kosakata produk baja membedakan bentuk dan tahap pembuatan, sedangkan klasifikasi produk besi dan baja tidak dengan sendirinya menetapkan kimia, toleransi, pelapisan, atau kelayakan layanan suatu kiriman ([ISO 6929](https://www.iso.org/standard/52949.html); [klasifikasi ICS ISO](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Karena itu, tulis objek pemeriksaan sebagaimana terbaca pada dokumen dan marking, bukan sebagaimana diduga dari tampilan luarnya.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+Status penerimaan perlu disepakati sejak awal: **cocok secara administrasi dan visual awal**, **diterima bersyarat sambil menunggu bukti**, atau **karantina**. Untuk [NEEDS G-01: spesifikasi produk, edisi standar, dan kriteria penerimaan yang berlaku pada pesanan/proyek], jangan menetapkan material sebagai sesuai hanya dari checklist gudang.
 
-### KR-08
+## Menentukan batas pemeriksaan di area receiving
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+Lingkup receiving adalah memastikan barang yang datang dapat dikenali, dihitung, diamati, dan dipisahkan bila ada anomali. Pemeriksa dapat mencocokkan jenis produk, ukuran yang dipesan, panjang yang tertera atau diukur, keadaan fisik, dan keterlacakan dokumennya. Pemeriksa tidak sedang mengesahkan desain sistem, metode sambungan, kemampuan menahan fluida, atau integritas tekanan.
 
-### KR-10
+Istilah seperti *seamless* (tanpa sambungan las memanjang), *welded* (dengan sambungan las), schedule, ukuran nominal, diameter luar, tebal dinding, pelapisan, dan bentuk ujung menjawab pertanyaan yang berbeda. Bahkan spesifikasi produk dan pengujian produk tidak menggantikan desain sistem, prosedur penyambungan, kajian korosi, serta batas operasi ([API Spec 5L](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l); [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
 
-- **Original sources:** [API announcement for API Spec 5L 47th edition](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l), [ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe), and [ISO 4200 scope](https://www.iso.org/standard/9985.html)
-- **Purpose for this article:** Stop articles from deriving pressure rating, fluid compatibility, or structural suitability from schedule, color, seam, or galvanizing.
-- **Safe grounded facts:** `Seamless`, `welded`, `schedule`, nominal size, outside diameter, wall thickness, coating, and end type answer different questions. A product specification and passed tests still do not replace system design, joining procedure, corrosion review, or operating limits.
-- **Limits:** Foreign API/ASME/ISO documents are not Indonesian law. Obtain the specified full edition, actual certificate, design code, fluid/exposure data, fittings/joints, tests, and responsible engineer approval through G-01/G-16.
+Sobat Besi.co.id, batas ini penting ketika ada dorongan untuk langsung menaruh pipa ke area kerja karena “ukurannya terlihat sama.” Pisahkan dulu pertanyaan receiving dari pertanyaan pelepasan material. [NEEDS G-16: persetujuan penanggung jawab desain/QA dan bukti sistem untuk pelepasan material] tetap diperlukan sebelum penggunaan yang konsekuensial.
 
-### KR-17
+## Mencocokkan identitas, dokumen, dan ukuran
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+Mulailah dari satu bundel atau satu kelompok penandaan, bukan dari tumpukan campuran. Cocokkan nama item, jumlah, ukuran yang dipesan, panjang, jenis ujung, kondisi pelapisan, dan identitas lot/heat atau penanda lain yang memang disyaratkan dalam pesanan. Foto marking sebelum bundel dipindah bila penandaan berisiko tertutup atau lepas.
 
-## Evidence gates
+Kemudian cocokkan dokumen dengan barang yang dapat diidentifikasi. Sertifikat tanpa hubungan yang jelas ke marking atau lot bukan konfirmasi otomatis untuk seluruh batang di area receiving. Sebaliknya, marking yang terbaca tetapi tidak didukung dokumen yang diwajibkan perlu diberi status tahan sampai hubungan itu dijelaskan.
 
-- **TOPIC-GATE:** G-01, G-04, G-05, G-16
+Untuk dimensi, pisahkan label nominal dari geometri yang benar-benar diukur. Tabel dimensi dan massa teoretis bergantung pada geometri rujukan, panjang, asumsi densitas, aturan pembulatan, serta tabel produk; pengukuran receiving dan penimbangan aktual adalah pemeriksaan yang berbeda ([ISO 4200](https://www.iso.org/standard/9985.html); [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)). Catat titik ukur dan alat yang dipakai, lalu gunakan toleransi hanya jika dokumen proyek menyediakannya. [NEEDS G-04: ukuran rujukan, toleransi, metode ukur, dan dasar kuantitas pada kontrak/pesanan].
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jika pembaca perlu memahami konteks penamaan schedule sebelum menyiapkan formulir pemeriksaan, lihat [panduan pipa schedule](/pipa-schedule). Halaman itu bukan pengganti spesifikasi item yang sedang diterima.
 
-## Internal-link plan
+## Urutan checklist saat barang tiba
 
-### Existing local routes
+Lakukan pemeriksaan secara berurutan supaya satu temuan tidak hilang ketika bundel sudah dibuka atau dipindahkan. Urutan berikut dapat dipakai sebagai kerangka pencatatan:
 
-- `/pipa-schedule` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam-galvanis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+1. **Amankan identitas kiriman.** Cocokkan surat jalan dengan pesanan dan catat jumlah bundel, label, serta penanda yang terlihat.
+2. **Amati kemasan dan penataan.** Catat ikatan putus, bundel bergeser, pelindung ujung hilang, kemasan basah, atau tanda benturan tanpa menyimpulkan penyebabnya.
+3. **Periksa marking.** Rekam penanda produk, ukuran, lot/heat bila ada, pelapisan, dan rujukan spesifikasi yang benar-benar terbaca. Jangan melengkapi teks yang pudar dengan tebakan.
+4. **Ukur sampel sesuai rencana inspeksi.** Periksa panjang, diameter atau lebar yang relevan, tebal bila metode dan kewenangannya tersedia, kelurusan, serta indikasi ovalitas. Catat hasil aktual dan posisi ukur; jangan mengubah hasil menjadi klaim lulus tanpa batas penerimaan yang disetujui.
+5. **Amati ujung dan sambungan.** Lihat apakah ujung terbuka, berulir, ber-bevel, atau memakai penutup sesuai pesanan. Untuk pipa welded, catat seam yang tampak dan kondisi visualnya, tetapi jangan menyatakan mutu las dari pengamatan receiving.
+6. **Periksa permukaan dan lapisan.** Catat goresan, penyok, korosi tampak, pengelupasan, kontaminasi, atau area pelapisan yang meragukan. Foto temuan dengan penanda item dan skala bila memungkinkan.
+7. **Hitung dan pisahkan.** Cocokkan jumlah batang/bundel dengan dokumen, tandai kelompok yang jelas, lalu karantina kelompok yang tidak dapat dicocokkan atau terlihat rusak.
 
-### Planned sibling articles
+Teman Besi.co.id, pemeriksaan coating perlu sangat hati-hati pada barang yang disebut “galvanis.” Kata itu dapat merujuk pada produk dasar dan rute pelapisan yang berbeda; standar untuk galvanisasi celup panas artikel fabrikasi dan dokumen desainnya tidak boleh otomatis dipindahkan ke semua pipa, wire, atau produk lain ([ISO 1461](https://www.iso.org/standard/81435.html); [ISO 14713-2](https://www.iso.org/standard/71136.html)). Metode pengujian massa lapisan juga tidak membuktikan bahwa lapisan pada kiriman ini telah lulus ([ISO 1460](https://www.iso.org/standard/79581.html)). [NEEDS G-05: jenis produk dasar, rute pelapisan, standar yang berlaku, dan kriteria kondisi coating]. Untuk membedakan konteks produk, pembaca dapat melihat [perbedaan pipa hitam dan galvanis](/pipa-hitam-galvanis).
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kapan material harus ditahan
 
-- `BES-07-A04` → `/artikel/memilih-pipa-berdasarkan-fungsi.html` — Memilih Pipa untuk Tekanan, Struktur, atau Conduit
-- `BES-07-A05` → `/artikel/ujung-fitting-dan-joinability-pipa.html` — Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ
+Tahan dan beri identifikasi yang jelas bila ada perbedaan antara barang, marking, dan dokumen; jumlah kurang atau lebih yang belum dijelaskan; ujung tanpa perlindungan ketika pelindung itu dipersyaratkan; kerusakan tampak; bundel campuran; atau hasil ukur yang belum dapat dibandingkan dengan basis penerimaan. Karantina bukan vonis bahwa barang gagal. Tujuannya mencegah pencampuran dan pemasangan sebelum pihak yang tepat menilai bukti.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan melakukan perbaikan, memotong sampel, menghapus marking, atau mencampurkan kelompok karantina ke stok bebas tanpa instruksi yang berwenang. Beri label yang memuat tanggal, nomor penerimaan, identitas kelompok, alasan tahan, dan pemilik tindak lanjut. Bila barang diduga akan dipakai untuk layanan bertekanan, struktur, atau kondisi paparan tertentu, berhenti pada status receiving dan minta peninjauan teknis; tampilan, seam, schedule, maupun galvanis tidak menetapkan kesesuaian layanan.
 
-## Hasil akhir dan prasyarat
+## Merekam hasil dan menyerahkan tindak lanjut
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat satu rekaman yang menyatukan dokumen dan observasi: nomor penerimaan, pemasok, pesanan, surat jalan, identitas marking, jumlah, titik ukur, foto, kondisi permukaan/ujung, status, serta nama pihak yang memeriksa. Untuk setiap temuan, tulis fakta yang dilihat dan dokumen yang belum cocok; pisahkan dari keputusan tindak lanjut. Format ini membuat pihak pembelian, gudang, dan QA berbicara tentang kelompok barang yang sama.
 
-## Langkah 1 — tetapkan scope
+Sebelum handover, gunakan daftar singkat berikut:
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- marking dan dokumen dapat ditautkan ke kelompok barang yang diperiksa;
+- jumlah dan satuan tercatat, termasuk selisihnya;
+- ukuran, panjang, kelurusan, indikasi ovalitas, ujung, seam tampak, cap, coating, serta kerusakan visual telah dicatat sesuai rencana;
+- foto dan lokasi karantina tersedia untuk setiap anomali;
+- status belum berubah menjadi pelepasan teknis tanpa bukti dan kewenangan yang diperlukan.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Kawan Besi.co.id, kirim rekaman itu bersama pertanyaan yang spesifik, misalnya: “Apakah sertifikat ini dapat ditautkan ke marking pada bundel ini?” atau “Batas penerimaan untuk hasil ukur ini mengacu ke dokumen mana?” Dengan begitu klarifikasi dapat ditutup berdasarkan bukti, bukan ingatan setelah material bercampur.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jangan mengganti pemeriksaan dengan asumsi cepat
 
-## Langkah 3 — jalankan urutan kerja
+Pintasan yang sering muncul adalah menerima seluruh kiriman karena diameter terlihat benar, jumlah batang tampak cukup, dan ada selembar sertifikat. Cara ini gagal ketika sertifikat tidak terhubung ke kelompok yang datang, ukuran nominal disalahartikan sebagai hasil ukur, atau kerusakan pada satu bundel ikut tersembunyi dalam stok campuran. Massa atau tabel produk pun tidak otomatis menjadi bukti kuantitas aktual maupun kesesuaian layanan ([ISO 4200](https://www.iso.org/standard/9985.html)).
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih andal tidak harus rumit: tahan alur material selama identitasnya dicatat, cocokkan bukti per kelompok, foto anomali, lalu eskalasi satu pertanyaan yang dapat dijawab oleh pemilik spesifikasi. Jika material yang dicari adalah pipa hitam untuk kebutuhan umum, [informasi pipa hitam](/pipa-hitam) dapat membantu memahami kategori produk, tetapi tetap jangan gunakan halaman kategori sebagai sertifikat untuk kiriman tertentu.
 
-## Hold point dan kondisi berhenti
+## Aturan kerja sebelum pipa meninggalkan area receiving
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Checklist receiving pipa dan tube yang baik menghasilkan tiga hal: identitas yang dapat ditelusuri, kondisi awal yang tercatat, dan kelompok yang tidak cocok tetap terpisah. Mulailah setiap penerimaan dengan pesanan, surat jalan, alat ukur, dan formulir temuan; periksa satu kelompok demi satu kelompok; lalu tahan apa pun yang belum dapat dihubungkan ke bukti yang diperlukan.
 
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Receiving Pipa dan Tube”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah meminta pemilik spesifikasi atau QA menutup setiap item karantina dengan dokumen dan keputusan yang tercatat. Aturan operasionalnya sederhana: **jangan lepaskan pipa atau tube dari status receiving hanya karena terlihat sesuai; lepaskan hanya setelah identitas, kondisi, dan dasar penerimaannya dapat ditunjukkan serta disetujui oleh pihak yang berwenang.**

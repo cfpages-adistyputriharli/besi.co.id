@@ -3,7 +3,7 @@ article_id: BES-09-A03
 title: "Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk"
 slug: "data-sebelum-bending-dan-rolling-baja"
 description: "Gather material identity/condition, direction, thickness, geometry, tooling, bend sequence, springback trials, surface protection, and inspection"
-status: outline
+status: draft
 publication_date: "2026-02-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,50 +16,14 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”
-- **Reader and situation:** Fabricator receiving a forming request
-- **Reader outcome:** Gather material identity/condition, direction, thickness, geometry, tooling, bend sequence, springback trials, surface protection, and inspection
-- **Primary intent:** Prepare forming inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No bend radius or force value; qualified process and project criteria own them
-- **Final public route:** `/artikel/data-sebelum-bending-dan-rolling-baja.html`
-- **Appointed CMS date:** `2026-02-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,133 +34,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Besi.co.id! Permintaan “plat ini dibending” atau “profil ini di-rolling” belum cukup untuk menyalakan mesin. Sebelum baja dibentuk, bengkel perlu menyatukan identitas material, kondisi aktual, arah pengerolan, tebal, geometri jadi, urutan kerja, perkakas, perlindungan permukaan, dan cara pemeriksaannya. Tanpa paket data itu, hasil yang tampak benar saat keluar dari mesin bisa tidak cocok dengan gambar, tidak dapat ditelusuri, atau bermasalah ketika masuk ke proses berikutnya.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: tetapkan dulu apa yang hendak dibentuk dan bukti apa yang menyertainya, lalu sepakati kriteria proses serta pemeriksaan sebelum produksi. Radius tekuk, gaya mesin, kompensasi, dan batas penerimaan bukan angka yang aman dipinjam dari pekerjaan lain; semuanya berubah menurut gambar yang disetujui, material, kondisi stok, alat, serta fungsi komponen. [NEEDS G-04/G-07: gambar terkendali, prosedur forming, dan kriteria penerimaan proyek yang disetujui sebelum parameter proses ditetapkan.]
 
-### KR-07
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-12
+## Data minimum yang harus dikunci
 
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
+Mulailah dari identitas, bukan dari bentuk. Cocokkan nomor pesanan, produsen, jenis produk, heat atau batch, dimensi, hasil uji yang tersedia, dan tanda fisik pada material dengan dokumen inspeksinya. [ISO 10474:2013](https://www.iso.org/standard/53736.html) membahas dokumen inspeksi untuk produk baja; kegunaannya di sini adalah menjaga rantai identitas dari material datang sampai komponen terbentuk. Sertifikat yang ada di meja tidak otomatis membuktikan bahwa lembar atau profil di mesin adalah material yang sama bila penandaan dan pemisahannya telah hilang.
 
-### KR-15
+Catat pula kondisi barang saat diterima: ada tidaknya karat, lapisan pelindung, goresan, bekas potong, deformasi awal, atau kontaminasi yang relevan. Data ini bukan alasan untuk langsung menolak material, tetapi dasar untuk menentukan apakah pemeriksaan tambahan, pembersihan, perlindungan, atau persetujuan teknis diperlukan. Bila hasil laboratorium digunakan untuk keputusan penting, cek kompetensi laboratorium, ruang lingkup akreditasi, metode, otorisasi laporan, dan hubungan sampelnya dengan material. [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html) berkaitan dengan kompetensi laboratorium; status itu meningkatkan kepercayaan pada proses pengujian, bukan bukti tunggal bahwa setiap barang memenuhi kebutuhan proyek.
 
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
+Untuk permintaan bending maupun rolling, lembar data kerja sebaiknya paling tidak memuat berikut ini.
 
-### KR-19
+- identitas material dan keterlacakan heat/batch;
+- bentuk awal, tebal aktual yang perlu diverifikasi, panjang, lebar, serta arah pengerolan bila relevan;
+- gambar revisi yang berlaku, bentuk akhir, titik acuan, dan toleransi yang diminta;
+- sisi tampak, area yang tidak boleh tergores, serta kondisi lapisan atau persyaratan perlindungan;
+- mesin, dies/roller, alat ukur, penyangga, dan penanganan material yang akan dipakai;
+- urutan pembentukan, titik pemeriksaan antara, penandaan status, dan penanganan bagian yang tidak sesuai.
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+## Bending dan rolling bukan pekerjaan yang sama
 
-## Evidence gates
+Bending adalah pembentukan lokal untuk menghasilkan sudut, lipatan, atau perubahan arah pada bagian tertentu. Rolling membentuk kelengkungan secara bertahap melalui rol sehingga panjang atau profil mengikuti kurva yang ditetapkan. Keduanya sama-sama dapat meninggalkan tegangan sisa dan menghasilkan *springback*, yaitu kecenderungan material kembali sebagian setelah beban dilepas. Karena itu, bentuk saat masih berada di perkakas bukan satu-satunya ukuran keberhasilan.
 
-- **TOPIC-GATE:** G-04, G-07, G-12
+Batas artikel ini penting: halaman ini tidak memberi radius tekuk, gaya, setelan rol, atau toleransi universal. Nilai tersebut harus berasal dari gambar terkendali, spesifikasi material, kapabilitas alat, prosedur yang disetujui, dan kebutuhan fungsi komponen. Standar umum pun tidak otomatis berlaku untuk semua komponen. [ISO 13920:2023](https://www.iso.org/standard/86032.html) membahas toleransi umum pada konstruksi las, tetapi penerapannya pada suatu potongan, hasil tekuk, atau rakitan tetap perlu dikonfirmasi terhadap dokumen proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sobat Besi.co.id, bedakan juga data desain dari data bengkel. Gambar mungkin menyebut bentuk akhir, tetapi bengkel masih perlu menentukan cara menyangga material, orientasi terhadap arah pengerolan, urutan tekuk, dan kapan ukuran diperiksa. Sebaliknya, pilihan cara kerja bengkel tidak boleh mengubah fungsi atau dimensi gambar tanpa persetujuan pihak yang berwenang.
 
-## Internal-link plan
+## Urutan menyiapkan proses
 
-### Existing local routes
+Pertama, lakukan telaah singkat antara pelaksana forming, pemeriksa mutu, dan pihak yang memegang persetujuan teknis. Pastikan revisi gambar, material, jumlah komponen, kondisi tepi, serta bentuk akhir dipahami sama. Jika komponen akan dilas, dimachining, dilapisi, atau dirakit sesudah forming, masukkan proses lanjutan itu ke dalam telaah; bentuk yang mudah dibuat belum tentu mudah disambung atau diukur kemudian.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kedua, periksa kesiapan bahan dan alat. Kondisi tepi hasil pemotongan perlu dipertimbangkan bersama ketebalan, efek panas bila ada, kebutuhan fungsi, dan metode pengukuran. [ISO 9013:2017](https://www.iso.org/standard/60321.html) menempatkan kualitas potongan termal dalam hubungan dengan proses, material, ketebalan, persiapan tepi, dan kebutuhan berikutnya. Artinya, jangan menyamakan semua tepi hasil potong sebagai kondisi awal yang setara hanya karena ukurannya serupa.
 
-### Planned sibling articles
+Ketiga, susun urutan pembentukan dan titik tahan. Urutan menentukan apakah bagian yang sudah dibentuk menghalangi perkakas, apakah penyangga masih dapat bekerja, dan kapan bentuk antara harus diperiksa. Untuk rolling, sepakati pula titik referensi kurva dan metode membandingkan hasil dengan template, alat ukur, atau cara yang tercantum pada dokumen proyek. Lakukan percobaan terkendali bila prosedur proyek memintanya, rekam hasilnya, lalu gunakan hasil tersebut sebagai dasar keputusan produksi—bukan sebagai lisensi untuk menyalin setelan pada material atau batch lain.
 
-These are future routes. Do not link them as live until their HTML exists.
+Keempat, lindungi identitas dan permukaan selama perpindahan. Pisahkan barang yang belum diperiksa, sudah diterima, perlu koreksi, dan tidak sesuai. Bila komponen berat atau penanganannya memakai alat angkat, metode kerja, kondisi peralatan, kompetensi personel, dan pengawasan harus mengikuti penilaian risiko di lokasi. K3 pembentukan baja tidak selesai dengan satu daftar centang: ketentuan sistem manajemen keselamatan konstruksi dan keselamatan peralatan produksi memiliki ruang lingkup yang harus ditelaah terhadap pekerjaan nyata. Lihat [Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) dan [Permenaker 38/2016](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016). [NEEDS G-12: penilaian risiko, metode kerja, catatan peralatan, dan penetapan personel kompeten untuk lokasi serta mesin yang digunakan.]
 
-- `BES-09-A01` → `/artikel/memilih-proses-potong-baja.html` — Memilih Proses Potong Baja: Saw, Shear, Plasma, Laser, atau Oxyfuel
-- `BES-09-A02` → `/artikel/edge-quality-setelah-cutting-baja.html` — Heat-Affected Zone, Dross, Burr, dan Edge Quality setelah Cutting
-- `BES-09-A04` → `/artikel/machining-baja-dan-traceability.html` — Machining Baja: Grade, Hardness, Allowance, dan Traceability
-- `BES-09-A05` → `/artikel/mencegah-distorsi-fabrikasi-baja.html` — Distorsi Fabrikasi: Mencegah Masalah sebelum Diluruskan
+## Kondisi yang paling sering mengubah hasil
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Hasil forming dipengaruhi oleh lebih dari ukuran nominal. Perubahan ketebalan aktual, grade atau kondisi material, arah pengerolan, panjang bebas, lebar, bentuk potongan, kondisi tepi, dan area yang sudah pernah diproses dapat mengubah respons bagian saat dibentuk. Geometri juga menentukan akses perkakas: flens, lubang, potongan, atau tekukan yang sudah ada dapat mengubah cara menopang dan urutan kerja.
 
-## Jawaban singkat dan salah paham utama
+Permukaan perlu diberi perhatian terpisah. Jika suatu sisi akan terlihat, dicat, digalvanis, diberi pelapis lain, atau menjadi bidang sambungan, tuliskan batas kerusakan yang dapat diterima dan cara menangani goresan atau pengupasan. Jangan menjanjikan hasil lapisan atau ketahanan korosi dari proses bending saja; itu bergantung pada sistem pelapis dan persyaratan proyek yang belum disediakan di sini.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perubahan bentuk setelah pelepasan beban juga harus diperlakukan sebagai variabel proses, bukan kesalahan operator semata. Kawan Besi.co.id, catat material, orientasi, perkakas, urutan, dan hasil inspeksi pada percobaan yang disetujui. Catatan itu membuat penyebab penyimpangan dapat ditelusuri; inspeksi akhir saja tidak dapat membangun kembali variabel penting yang tidak pernah dikendalikan.
 
-## Definisi dan batas objek
+## Tiga contoh keputusan yang lebih aman
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi | Data yang perlu diminta | Keputusan yang aman |
+| --- | --- | --- |
+| Plat datang dengan sertifikat, tetapi tanda heat pada potongan tidak jelas | Rekonsiliasi dokumen, penandaan fisik, status pemisahan stok | Tahan keterlacakan untuk ditinjau; jangan menganggap sertifikat otomatis melekat pada semua potongan. |
+| Gambar meminta kurva, tetapi tidak menjelaskan cara ukur atau toleransinya | Revisi gambar, titik acuan, kriteria penerimaan, metode ukur | Minta klarifikasi tertulis sebelum menetapkan setelan dan sebelum melepas produksi. |
+| Komponen sudah dipotong termal dan akan melalui proses lanjutan | Kondisi tepi, fungsi berikutnya, kebutuhan permukaan, titik ukur | Telaah tepi dan rute proses bersama; jangan menganggap hasil potong memenuhi semua kebutuhan forming atau perakitan. |
 
-## Cara kerjanya
+Contoh tersebut bukan aturan penerimaan. Jika gambar dan spesifikasi yang berlaku telah menentukan metode atau toleransi, dokumen itulah yang mengendalikan keputusan. [NEEDS G-04: konfirmasi dimensi, metode ukur, dan kriteria penerimaan pada gambar/spesifikasi proyek yang berlaku.]
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum sebelum mesin dinyalakan
 
-## Faktor yang mengubah hasil
+Kesalahan pertama adalah memulai dari angka radius atau kapasitas mesin tanpa mengunci identitas material dan geometri akhir. Jalan pintas ini dapat menghasilkan komponen yang serupa secara kasatmata, tetapi status material, posisi pengukuran, atau kesesuaian proses lanjutannya tidak jelas. Penggantinya sederhana: lakukan *pre-forming review* singkat dan lepaskan pekerjaan hanya setelah daftar data minimum terisi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah menganggap satu sertifikat atau satu hasil uji berlaku untuk semua stok. Sertifikat harus disambungkan ke pesanan, produsen, produk, heat/batch, dimensi, uji, dan penandaan fisik. Bila rantai itu putus, jangan menutupnya dengan asumsi. Teman Besi.co.id, beri status tahan untuk keputusan teknis dan siapkan bukti tambahan atau persetujuan yang sesuai.
 
-## Contoh keputusan praktis
+Kesalahan ketiga adalah memeriksa hanya pada akhir. Ukur bentuk antara pada titik yang telah ditentukan, jaga pemisahan status barang, dan simpan catatan hasil percobaan serta hasil akhir. Bila terjadi ketidaksesuaian, hentikan pelepasan komponen terkait, lindungi identitasnya, dan eskalasi sesuai prosedur proyek; koreksi atau pengerjaan ulang memerlukan dasar yang disetujui, bukan tebakan di lantai produksi.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jadikan data sebagai titik mulai kerja
 
-## Kesalahan umum dan cara memeriksanya
+Sebelum bending atau rolling, minta satu paket yang dapat dibaca bersama: gambar revisi, identitas dan kondisi material, geometri serta titik ukur, kebutuhan permukaan, urutan proses, kesiapan alat, dan rencana inspeksi. Setelah itu, tetapkan siapa yang boleh menyetujui percobaan dan siapa yang menahan pekerjaan bila data tidak cocok.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bending dan Rolling Baja: Data yang Dibutuhkan sebelum Membentuk”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya: jangan bentuk baja hanya karena material dan mesin sudah tersedia. Bentuk setelah identitasnya terlacak, kriteria bentuknya disetujui, dan risiko prosesnya telah ditinjau oleh pihak yang kompeten. Jika salah satu dasar itu belum ada, gunakan penanda **[NEEDS REVIEW: keputusan forming menunggu dokumen dan peninjauan yang berwenang]** daripada mengisi kekosongan dengan angka perkiraan.
