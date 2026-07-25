@@ -2,8 +2,9 @@
 article_id: BES-12-A06
 title: "Menambah atau Mengubah Struktur Baja Eksisting"
 slug: "modifikasi-struktur-baja-eksisting"
-description: "Require as-builts, survey, material identity, condition, load history, connections, foundations, temporary states, design, and staged verification"
-status: outline
+description: "Data dan pemeriksaan yang perlu disiapkan sebelum menambah beban, membuat bukaan, atau memperpanjang struktur baja yang sudah ada."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -27,172 +28,93 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Menambah atau Mengubah Struktur Baja Eksisting
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menambah atau Mengubah Struktur Baja Eksisting”
-- **Reader and situation:** Owner planning new loads/openings/extensions
-- **Reader outcome:** Require as-builts, survey, material identity, condition, load history, connections, foundations, temporary states, design, and staged verification
-- **Primary intent:** Prepare retrofit investigation
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design retrofit or assume old drawings are accurate; licensed engineer owns approval
-- **Final public route:** `/artikel/modifikasi-struktur-baja-eksisting.html`
-- **Appointed CMS date:** `2026-04-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menambah atau Mengubah Struktur Baja Eksisting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menambah atau Mengubah Struktur Baja Eksisting
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Menambah lantai mezanin, menggantung mesin baru, membuat bukaan untuk pintu, atau memperpanjang kanopi memang sering terlihat seperti pekerjaan sambung baja biasa. Padahal jawabannya bukan “bisa dilas atau tidak”, melainkan “apakah struktur yang ada, jalur bebannya, sambungannya, dan tumpuannya benar-benar diketahui serta mampu menerima perubahan itu?”
 
-### KR-11
+Jangan menyetujui pekerjaan hanya dari gambar lama atau karena profil bajanya tampak besar. Sebelum perubahan dimulai, kumpulkan gambar kondisi terbangun, ukur kondisi lapangan, kenali material dan kerusakan, telusuri riwayat penggunaan serta beban, lalu minta rancangan dan pemeriksaan bertahap oleh tenaga kompeten. Hasilnya bisa berubah bila ada korosi, perubahan fungsi ruang, sambungan yang berbeda dari gambar, pondasi yang tidak sesuai dugaan, atau pekerjaan sementara yang belum direncanakan.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-25
-
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-02, G-06, G-11, G-14
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-12-A04` → `/artikel/fatigue-dan-fracture-struktur-baja.html` — Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting
-- `BES-12-A05` → `/artikel/struktur-baja-setelah-kebakaran.html` — Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Struktur baja eksisting boleh saja dimodifikasi, tetapi tidak ada jawaban aman tanpa pemeriksaan kondisi dan rancangan khusus proyek. Baja lama yang tampak utuh belum otomatis mampu menerima beban tambahan. Beban baru dapat mengubah jalur beban—arah gaya dari lantai atau atap menuju kolom, balok, sambungan, lalu pondasi—dan satu titik yang lemah bisa menentukan hasil seluruh perubahan.
+
+Kesalahan yang paling mahal adalah menganggap gambar lama sebagai keadaan nyata. Bangunan dapat pernah diperluas, dipotong, diberi peralatan, atau diperbaiki tanpa catatan lengkap. ISO 13822 menempatkan tujuan penilaian, dokumen, survei, identitas material, geometri, riwayat aksi atau penggunaan, perubahan, serta kerusakan sebagai bagian dari penilaian struktur yang sudah ada, bukan tambahan administratif belaka. [ISO 13822:2010](https://www.iso.org/standard/46556.html)
+
+Jadi, Sobat Besi.co.id, tahan dulu keputusan fabrikasi ketika data dasarnya belum cocok. Ukuran profil yang terlihat, sertifikat bahan yang terpisah, atau halaman produk standar tidak menggantikan perhitungan struktur untuk kondisi bangunan Anda.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud perubahan di sini mencakup penambahan beban atau elemen, perpanjangan, penggantian bagian, penguatan, bukaan pada elemen, dan perubahan fungsi yang memengaruhi struktur baja yang ada. Contohnya: menambah unit pendingin di atap, memasang lantai kerja baru, membuka jalur pipa melalui rangka, atau mengubah gudang menjadi area dengan peralatan berbeda.
+
+Artikel ini bukan rancangan penguatan dan bukan persetujuan untuk memotong, mengebor, atau mengelas. Keputusan tentang kapasitas batang, kestabilan, sambungan, jalur beban, keadaan saat pekerjaan, dan pondasi harus ditangani melalui rancangan serta peninjauan profesional yang sesuai. Rekaman publik [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) dan katalog [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), serta [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) membantu mengenali lapisan regulasi dan standar yang terkait; rekaman tersebut tidak membuka klausul rancangan proyek atau membuktikan suatu bangunan aman.
+
+Ada pula batas penting bila struktur pernah terbakar atau memikul beban berulang. Warna baja, satu foto, atau perkiraan suhu tidak cukup untuk menyatakan aman setelah kebakaran. Penilaian pascakebakaran memerlukan riwayat kejadian, kondisi pelindung, perubahan bentuk, sambungan, survei, dan alasan pengujian yang ditentukan secara kompeten. [Panduan NIST tentang ketahanan api struktur](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [kajian NIST tentang perilaku baja saat kebakaran](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), dan [ISO 24679-1](https://www.iso.org/standard/72893.html) mendukung perlunya penilaian tersebut, bukan aturan pakai ulang yang seragam.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan menetapkan perubahan yang benar-benar diinginkan: benda apa yang ditambah atau dihilangkan, di mana posisinya, bagaimana dipakai, dan apakah penggunaannya berubah dari kebiasaan lama. Catat juga pekerjaan yang tampak sementara, seperti penumpuan sementara, pembongkaran pengaku, atau pemindahan beban selama pemasangan. Keadaan sementara sering justru berbeda dari keadaan akhir dan perlu direncanakan.
+
+Berikut urutan yang praktis untuk disiapkan sebelum pekerjaan fisik.
+
+1. Kumpulkan gambar, perhitungan, daftar material, sertifikat, catatan fabrikasi, inspeksi, perbaikan, dan perubahan sebelumnya. Tandai mana yang asli, mana yang belum terverifikasi.
+2. Survei kondisi terbangun: ukur geometri, posisi elemen, ukuran sambungan yang dapat diakses, ketidaklurusan, korosi, retak yang terlihat, serta hubungan ke pelat dasar dan pondasi. Jangan membuka lapisan atau mengambil contoh tanpa metode dan izin yang jelas.
+3. Telusuri riwayat beban dan penggunaan. Mesin mungkin pernah dipindah, lantai mungkin dipakai untuk penyimpanan lebih berat, atau getaran dan siklus kerja mungkin berubah.
+4. Susun rancangan perubahan berdasarkan data yang sudah diperiksa, termasuk urutan pelaksanaan, penopang sementara, sambungan, dan pemeriksaan pada tahapan penting.
+5. Catat hasil pemeriksaan selama pelaksanaan dan bandingkan dengan rancangan. Bila kondisi lapangan menyimpang, hentikan bagian yang terdampak dan kembalikan keputusan kepada peninjau yang berwenang.
+
+Urutan ini sejalan dengan unsur penilaian struktur eksisting yang dirangkum ISO 13822: dokumen dan survei tidak berdiri sendiri; keduanya dipakai untuk memahami geometri, material, aksi, perubahan, kerusakan, pemantauan atau pengujian, pengendalian sementara, serta keputusan tindak lanjut. [ISO 13822:2010](https://www.iso.org/standard/46556.html)
+
+Kawan Besi.co.id, pemeriksaan pada tahapan penting berarti ada titik berhenti sebelum pekerjaan yang sulit dibalikkan, misalnya sebelum elemen dipotong, sebelum beban dipindahkan, atau sebelum sambungan ditutup. Siapkan bukti foto berpenanda lokasi, ukuran aktual, dan catatan temuan agar keputusan berikutnya tidak hanya mengandalkan ingatan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, kondisi fisik dapat mengubah asumsi. Korosi, deformasi, kerusakan pelapis, sambungan yang sulit diakses, atau elemen yang tidak persis seperti gambar memerlukan penilaian lanjutan. Kedua, riwayat penggunaan dapat mengubah jenis persoalan. Beban berulang dan detail tertentu perlu ditelaah bersama identitas elemen, konteks tegangan, riwayat las atau fabrikasi, temuan sebelumnya, akses, serta pemantauan yang masuk akal. Rujukan FHWA tentang kelelahan dan retak berguna untuk menegaskan kebutuhan data itu, tetapi panduan jembatan tersebut bukan ketentuan bangunan Indonesia dan tidak boleh dipakai untuk menebak umur sisa atau selang inspeksi bangunan Anda. [Manual FHWA](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [pusat sumber inspeksi FHWA](https://www.fhwa.dot.gov/bridge/inspection/), dan [program pemeriksaan tak merusak FHWA](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm).
+
+Ketiga, tumpuan dan pondasi tidak boleh dianggap aman hanya karena baja di atasnya tampak baik. Penambahan kolom, perpindahan reaksi, atau perubahan arah beban dapat memengaruhi bagian yang tidak terlihat. Keempat, lingkungan dan operasi perlu dicatat: area lembap, paparan bahan kimia, getaran, panas, akses perawatan, serta kemungkinan perubahan pemakaian sesudah proyek selesai.
+
+[NEEDS REVIEW: aturan Indonesia yang berlaku, kondisi lokasi, fungsi bangunan, data gempa dan kebakaran, serta persetujuan proyek harus dipastikan oleh peninjau kompeten sebelum rancangan atau pekerjaan dimulai.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya pemilik ingin menggantung peralatan baru dari balok atap. Jangan langsung bertanya, “profil ini kuat berapa kilogram?” Pertanyaan yang lebih berguna adalah: apakah titik gantungnya sudah pasti; apakah beban diam atau bergerak; apakah ada getaran; balok mana yang menerima gaya; bagaimana sambungan dan kolom meneruskannya; serta apa yang terjadi di pondasi dan saat peralatan dipasang?
+
+| Kondisi yang ditemukan | Keputusan awal yang lebih aman |
+| --- | --- |
+| Gambar ada, tetapi ukuran atau posisi elemen lapangan berbeda | Cocokkan melalui survei; jangan gunakan gambar sebagai satu-satunya dasar rancangan. |
+| Beban baru belum memiliki data berat, posisi, atau pola operasi | Tahan rancangan akhir sampai data dari pemasok atau pengguna tersedia. |
+| Ada korosi, perubahan bentuk, atau retak yang terlihat | Dokumentasikan lokasi dan hentikan perubahan pada bagian terdampak sambil meminta penilaian. |
+| Perubahan membutuhkan pemotongan atau pelepasan pengaku | Susun metode dan penopang sementara yang ditinjau sebelum pekerjaan dimulai. |
+| Riwayat kebakaran atau beban berulang tidak jelas | Kumpulkan riwayat dan minta penetapan kebutuhan survei, pemantauan, atau pengujian. |
+
+Tabel itu bukan pengganti desain. Tujuannya membantu Teman Besi.co.id memisahkan keputusan yang bisa dilakukan sekarang—mengumpulkan bukti dan menahan pekerjaan—dari keputusan teknis yang harus menunggu penilaian proyek.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menambah atau Mengubah Struktur Baja Eksisting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah “tambah pelat penguat dan las saja.” Cara ini bisa gagal bila masalah sebenarnya berada pada jalur beban, sambungan, kestabilan, atau pondasi. Pelat tambahan juga tidak otomatis menyelesaikan keadaan ketika elemen dipanaskan, dipotong, dibor, atau ditumpu selama pekerjaan. Solusi yang lebih dapat diandalkan adalah memeriksa sebab perubahan beban lebih dulu, lalu menetapkan rancangan dan urutan kerja berdasarkan temuan lapangan.
 
-## Objection or shortcut to address
+Kesalahan lain adalah menganggap inspeksi visual sebagai putusan akhir. Inspeksi awal penting untuk menemukan anomali, tetapi identitas material, kondisi tersembunyi, dan riwayat pembebanan mungkin tetap belum terjawab. Bila ada ketidakpastian yang memengaruhi keselamatan, buat pertanyaan tertulis: data apa yang kurang, siapa yang dapat mengesahkannya, metode apa yang disetujui untuk memperolehnya, dan pekerjaan mana yang tidak boleh berjalan sebelum jawabannya ada.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Periksa juga serah-terima informasi di akhir. Simpan gambar kondisi akhir, perubahan yang disetujui, catatan pemeriksaan, foto titik yang nanti tertutup, serta batas operasi atau perawatan yang ditetapkan peninjau. Dokumen itu menjadi dasar yang lebih baik bila bangunan kembali diubah beberapa tahun kemudian.
 
-## Required conclusion
+## Langkah berikutnya sebelum struktur diubah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Menambah atau mengubah struktur baja eksisting bukan pekerjaan yang dapat disetujui dari ukuran profil atau gambar lama saja. Kumpulkan bukti kondisi terbangun, riwayat beban, material, sambungan, tumpuan, dan keadaan sementara; lalu minta rancangan serta pemeriksaan bertahap yang menyesuaikan temuan nyata.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah paling berguna hari ini adalah membuat daftar perubahan dan paket data yang sudah ada, kemudian menandai setiap kekosongan data sebelum meminta penilaian profesional. Pegang aturan kerja ini, Kawan Besi.co.id: bila fakta lapangan belum cocok dengan dasar rancangan, jangan lanjutkan bagian pekerjaan yang terdampak sampai peninjauan yang kompeten memberi arah.

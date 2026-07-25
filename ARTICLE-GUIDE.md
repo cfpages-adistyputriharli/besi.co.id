@@ -27,10 +27,10 @@ Do not load the portfolio ledger, OneDrive memory, another repository, the full 
 1. Confirm the assigned file's `article_id`, `title`, `slug`, primary intent, scope boundary, and final route.
 2. Preserve front matter exactly except:
    - change `status: outline` to `status: draft` after the article is fully expanded;
-   - add `writing_contract_version: "native-id-v2"` immediately after `status: draft`;
+   - keep `writing_contract_version: "native-id-v2"` to distinguish this native-Indonesian contract from the legacy revision backlog;
    - rewrite an inherited English `description` as a concise, natural Indonesian reader summary without changing the article's intent;
    - set `date_modified` only when the user supplies or authorizes a real modification date;
-   - add original source URLs only when actually used.
+   - prune `sources:` to the exact original URLs actually cited in rendered prose; do not keep unused candidate sources or add new research.
 3. Replace instructional bullets under the detailed outline with finished Indonesian prose.
 4. Answer the title's main question in the opening two or three paragraphs.
 5. Keep every H2 focused on the distinct reader question stated beneath it.
@@ -55,6 +55,7 @@ Replace `[slug]` with the assigned filename. If `$env:OneDrive` is unavailable, 
 - Write as if the thought began in Indonesian, not as an English technical sentence translated word by word.
 - Reader understanding takes precedence over displaying technical vocabulary. State the plain idea first, define every necessary trade/English term immediately, then explain what it changes for the reader.
 - Never leave an acronym or imported term unexplained on first use. Put the Indonesian meaning first and the accepted abbreviation in parentheses when it remains useful.
+- Treat English planning labels inherited from the outline as internal wording, not approved public prose. Translate bare `scope`, `hold point`, `handover`, `baseline`, `shortcut`, `cutout`, `red flag`, `brief`, `review`, and `finishing`; keep a trade term only after its Indonesian meaning is clear.
 - Sound like Syamsul as a friendly, candid operator-teacher throughout the article: direct answer first, mechanism next, evidence and decisions after that.
 - Prefer natural verbs such as `periksa`, `cocokkan`, `catat`, `tahan`, or `minta bukti` over noun-heavy translated constructions.
 - Use short, natural transitions and at least one concrete example or realistic reader question where it reduces abstraction.
