@@ -2,8 +2,8 @@
 article_id: BES-15-A05
 title: "K3 saat Cutting, Welding, Lifting, dan Erection Baja"
 slug: "k3-pekerjaan-baja"
-description: "Identify sharp/heavy/rolling loads, hot work, fumes, radiation, fire, electricity, gas cylinders, height, dropped objects, temporary stability, public interfaces, and rescue"
-status: outline
+description: "Peta bahaya dan pertanyaan kendali K3 untuk cutting, welding, lifting, serta erection baja sebelum pekerjaan dimulai."
+status: draft
 publication_date: "2026-06-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,40 +21,17 @@ sources:
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
   - "https://www.iso.org/standard/83054.html"
-  - "https://www.iso.org/standard/46556.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # K3 saat Cutting, Welding, Lifting, dan Erection Baja
 
-## Assignment lock
+Halo, Sobat Besi.co.id! K3 pekerjaan baja tidak dimulai ketika gerinda, mesin las, atau crane sudah bergerak. Keputusan utamanya dibuat lebih awal: apakah setiap benda sudah teridentifikasi, rute kerja dan area orang dipisahkan, kondisi sementara struktur dipahami, serta rencana kerja dan penyelamatan telah ditinjau oleh pihak yang kompeten.
 
-- **Writer task:** Expand this file into one complete article answering: “K3 saat Cutting, Welding, Lifting, dan Erection Baja”
-- **Reader and situation:** Project team planning site work
-- **Reader outcome:** Identify sharp/heavy/rolling loads, hot work, fumes, radiation, fire, electricity, gas cylinders, height, dropped objects, temporary stability, public interfaces, and rescue
-- **Primary intent:** Map steel-work hazards
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a method statement or PPE prescription; site risk assessment and competent K3 team own controls
-- **Final public route:** `/artikel/k3-pekerjaan-baja.html`
-- **Appointed CMS date:** `2026-06-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Cutting, welding, lifting, dan erection dapat saling menambah risiko. Baja yang baru dipotong bisa tajam; pekerjaan panas dapat memunculkan api, asap, radiasi, listrik, dan silinder gas; sebuah elemen yang tergantung dapat jatuh atau berputar; dan rangka yang belum lengkap belum tentu stabil. Karena itu, jangan menyamakan pekerjaan yang “rutin” dengan pekerjaan yang aman. Kendalinya berubah mengikuti bentuk, massa, titik berat, sambungan, akses, cuaca, kondisi lapangan, dan urutan pemasangan.
 
-## Opening instructions
+[NEEDS K3 REVIEW: sebelum pekerjaan dimulai, penilaian risiko, metode kerja, rencana lifting/traffic, izin kerja, personel serta peralatan kompeten, pengendalian kerja di ketinggian, dan rencana darurat harus ditetapkan sesuai kondisi lokasi dan ketentuan Indonesia yang berlaku.]
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **K3 saat Cutting, Welding, Lifting, dan Erection Baja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,129 +42,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-18
+## Batas pembahasan: peta bahaya, bukan metode kerja
 
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
+Artikel ini membantu tim proyek mengenali antarmuka bahaya sebelum mulai: benda tajam, beban berat atau menggelinding, pekerjaan panas, listrik, asap, benda jatuh, pekerjaan di ketinggian, kestabilan sementara, dan orang di sekitar area kerja. Ini bukan method statement, desain rigging, instruksi APD, atau persetujuan bahwa suatu struktur aman didirikan.
 
-### KR-21
+Rujukan Indonesia untuk keselamatan dan kesehatan kerja penggunaan pesawat angkat dan pesawat angkut perlu dibaca dalam konteks pekerjaan yang nyata, bukan sekadar dicantumkan di berkas proyek. [Permenaker Nomor 8 Tahun 2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) adalah salah satu sumber yang relevan untuk ditinjau oleh tim K3 dan pihak berwenang proyek. Ruang lingkup, penerapan, dan pengendalian yang tepat tetap harus dikonfirmasi untuk lokasi, alat, dan pekerjaan Anda.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+Kawan Besi.co.id, bila ada perubahan bentuk, grade, dimensi, sambungan, urutan erection, alat angkat, atau akses kerja, perlakukan perubahan itu sebagai pemicu peninjauan ulang—bukan sebagai penyesuaian kecil yang dapat langsung dijalankan di lapangan.
 
-### KR-28
+## Cara bahaya muncul dari satu tahap ke tahap berikutnya
 
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18. ## Parent-topic coverage matrix | Topic family | Main research records | Safe ground for the six-article set | Remaining evidence/professional gate | |---|---|---|---| | BES-01 | KR-02, KR-03, KR-04 | Form/stage vocabulary; property and processing concepts; why appearance/trade terms are not grade proof | G-01 for definitions/requirements beyond public scope; G-13 for test claims | | BES-02 | KR-01, KR-05, KR-06, KR-07, KR-22 | Standard/edition hierarchy, certificate-to-order linkage, heat/item traceability, and controlled claims | G-01, G-02, G-03, G-13 | | BES-03 | KR-03, KR-08, KR-15, KR-23 | Nominal/measured/theoretical/actual distinctions; assumption and measurement records | G-01, G-04, G-13 | | BES-04 | KR-02, KR-04, KR-05, KR-09, KR-11 | Profile taxonomy, geometry/axis questions, hot-rolled/cold-formed and HSS boundaries | G-01, G-04, G-06 | | BES-05 | KR-02, KR-05, KR-16, KR-17, KR-18 | Flat/open-product distinctions; coating/process and function evidence questions | G-01, G-05, G-06, G-09 | | BES-06 | KR-05, KR-06, KR-07, KR-19 | Bar/wire/rebar-family distinction; current mandatory-SNI discovery; receiving traceability | G-01, G-02, G-03, G-06 | | BES-07 | KR-02, KR-08, KR-10, KR-17 | Geometry, manufacturing, coating, and service-system separation | G-01, G-04, G-05, G-16 | | BES-08 | KR-03, KR-04, KR-10, KR-16, KR-24, KR-25, KR-26 | Requirements/failure-mode evidence map for environment, fatigue, temperature, fabrication, and service | G-05, G-06, G-09, G-11, G-14, G-16 | | BES-09 | KR-07, KR-12, KR-15, KR-19 | Route-card, tolerance-source, process-control, traceability, and dimensional hold points | G-04, G-07, G-12 | | BES-10 | KR-12, KR-13, KR-14, KR-19, KR-20 | Welding evidence chain, application-code boundary, NDT capability, and hazard map | G-07, G-08, G-12 | | BES-11 | KR-16, KR-17, KR-18, KR-21 | Exposure-before-system logic; product/process-specific galvanizing and damage records | G-05, G-09, G-10, G-12 | | BES-12 | KR-11, KR-24, KR-25, KR-26 | Material-to-system evidence chain; existing, fire, fatigue, and retrofit assessment inputs | G-02, G-06, G-11, G-14 | | BES-13 | KR-01, KR-05–KR-08, KR-10, KR-22, KR-23, KR-27 | Unambiguous RFQ, bid normalization, supplier/claim evidence, deviation and lifecycle inputs | G-01–G-05, G-13, G-15–G-17 | | BES-14 | KR-03, KR-07, KR-12, KR-14, KR-15, KR-18, KR-23 | ITP fields, document chain, laboratory/NDT/coating evidence and handover index | G-01, G-03, G-07–G-10, G-13 | | BES-15 | KR-18–KR-21, KR-28 | Indonesian K3 source map; bounded handling/storage/coating prompts; stage and damage records | G-05, G-10, G-12, G-18 | | BES-16 | KR-16, KR-18, KR-22, KR-24–KR-28 | Asset baseline; defect escalation; evidence-based repair/reuse/end-of-life distinctions | G-06, G-08–G-11, G-14, G-17, G-18 | ## Evidence gates | Gate | Unresolved need | Applies to | Resolution before a definitive claim | |---|---|---|---| | G-01 | Current full standard, correct edition, amendments/corrigenda, and licensed text | All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | G-02 | Indonesian mandatory/application and local building-rule boundary | SNI, rebar, structural/cold-formed work, conformity claims | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | G-03 | Material/document authenticity and physical traceability | Certificates, heat/batch, split stock, remnants, claims | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | G-04 | Product-specific dimensions, mass basis, tolerance, and calibrated measurement | Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | G-05 | Current manufacturer/system evidence | Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | G-06 | Licensed structural/professional design and approval | Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | G-07 | Approved welding engineering package | Welding, repair welding, distortion correction | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | G-08 | Approved NDT plan and competent personnel | Weld/asset inspection and defect disposition | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | G-09 | Site exposure and complete corrosion-protection specification | Paint, galvanizing, duplex, touch-up, maintenance | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | G-10 | Galvanizer/coater review | Vent/drain/lift details, fabrication, inspection, repair | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | G-11 | Fire/emergency and post-fire specialist disposition | Fire rating, reoccupation, repair, reuse | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | G-12 | Site-specific Indonesian K3 and logistics controls | Cutting, welding, lifting, transport, storage, work at height, erection, demolition | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | G-13 | Sampling, laboratory scope, test method, uncertainty, and decision rule | Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | G-14 | Existing-asset identity, survey, history, monitoring, and assessment | Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | G-15 | Dated supplier, inventory, quote, price, lead-time, warranty, and commercial facts | Procurement comparisons and lifecycle cost | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | G-16 | Pipe/tube service-system design | Pressure/fluid/temperature/corrosion/structural pipe suitability | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | G-17 | Indonesian waste, contamination, chain-of-custody, and authorized end route | Reuse, deconstruction, scrap, recycling, environmental claims | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | G-18 | Owner-approved asset and maintenance plan | Baseline, inspection interval, repair/replace/decommission decision | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | ## Downstream stop conditions Article outlines and drafts must stop and escalate when any of the following appears: - the grade, heat, product standard, certificate, or physical marking does not reconcile; - a proposed substitution changes form, grade, edition, supply condition, dimensions, coating, welding, inspection, service, or design assumptions; - a load-bearing, pressure-containing, fire-exposed, cyclic/fatigue-sensitive, corroded, cracked, deformed, modified, or unknown item needs a fitness/safety decision; - welding or repair lacks an approved application code, WPS/qualification, material identity, competent coordination, or inspection route; - lifting, storage, erection, hot work, work at height, or deconstruction lacks a site-specific competent plan and emergency controls; - exact requirements are available only in a paywalled/full standard not held by the writer; - a manufacturer or foreign source conflicts with Indonesian law, the project specification, drawings, or responsible professional; - the writer is asked to publish current price, stock, supplier endorsement, conformity, service life, capacity, acceptance, or legal compliance without dated primary evidence. ## Refresh policy Recheck before outlining and again before publication when: - BSN, Kemenperin, PUPR, or Kemnaker changes a record, regulation, status, amendment, or referenced standard; - ISO/AWS/API/ASME publishes a new edition, amendment, corrigendum, or withdrawal (several cited ISO pages already show review/revision activity); - the project changes product form, jurisdiction, structure/system type, service, exposure, fabrication route, supplier, or intended claim; - a direct link no longer resolves or a manufacturer revises its product/process guidance; - actual certificates, test reports, drawings, specifications, site surveys, calculations, ITPs, or operating/inspection histories become available.
+Pada cutting, risiko tidak berhenti pada serpihan atau tepi tajam. Potongan menjadi material baru yang perlu dikenali, dipindahkan, disimpan, dan dijaga agar tidak meluncur atau menimpa orang. Pada welding, pekerjaan panas perlu dikoordinasikan dengan bahan mudah terbakar, kabel, ventilasi, pekerjaan lain, serta kondisi area di bawah atau di balik bidang kerja. Pada lifting, identitas dan kondisi beban menentukan apakah rencana pengangkatan masuk akal: massa, geometri, titik berat, titik angkat, orientasi, jalur, dan area jatuh tidak boleh diasumsikan.
 
-## Evidence gates
+Sesudah elemen mencapai posisi, risiko berubah lagi. Sambungan sementara, penyangga, akses pekerja, perkakas, dan urutan pelepasan alat angkat memengaruhi keadaan struktur yang belum menjadi sistem akhir. Jadi, pertanyaan yang benar bukan hanya “apakah elemen sudah terpasang?”, melainkan “siapa yang menyatakan kondisi sementara ini siap untuk tahap berikutnya?”
 
-- **TOPIC-GATE:** G-05, G-10, G-12, G-18
+Penyimpanan juga bagian dari rangkaian tersebut. Panduan [OSHA tentang material storage](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250) menekankan pengaturan penyimpanan material; panduan perawatan dan penyimpanan [LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) juga menunjukkan pentingnya dukungan, akses, serta pengendalian kelembapan atau kontak yang dapat merusak produk. Keduanya bukan desain penyimpanan untuk proyek Indonesia, tetapi menguatkan pertanyaan dasar: apakah tanah/rak stabil, material dicegah bergulir atau menyebar, penandaan tetap terbaca, dan area akses tidak berubah menjadi jalur bahaya?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Faktor yang mengubah kendali yang diperlukan
 
-## Internal-link plan
+Tidak ada satu checklist singkat yang dapat menggantikan penilaian lokasi. Beberapa faktor berikut biasanya mengubah keputusan secara material:
 
-### Existing local routes
+| Kondisi yang perlu dicek | Mengapa mengubah risiko | Keputusan yang perlu ditahan sampai terverifikasi |
+| --- | --- | --- |
+| Massa, geometri, dan titik berat elemen | Beban dapat berputar, tidak seimbang, atau melebihi asumsi penanganan | Pemilihan metode, titik angkat, jalur, dan pembatasan area |
+| Kondisi tanah, rak, serta jalur kendaraan | Dukungan dapat bergeser dan stok dapat runtuh atau menghalangi akses | Tata letak penyimpanan, rute material, dan area kerja |
+| Ketinggian, akses, dan pekerjaan bertingkat | Orang dan benda dapat jatuh ke area kerja lain | Pemisahan zona, urutan kerja, dan kesiapan penyelamatan |
+| Material berlapis atau akan digalvanisasi | Detail fabrikasi, kontaminasi, pengangkatan, dan kerusakan lapisan saling terkait | Perbaikan, perubahan detail, atau pelepasan untuk proses berikutnya |
+| Cuaca, ventilasi, dan kedekatan publik | Paparan, visibilitas, api, serta antarmuka pihak lain berubah | Waktu kerja, isolasi area, monitoring, dan penghentian kerja |
 
-- `/serrated-steel-grating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/plain-steel-grating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/serrated-steel-grating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/plain-steel-grating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-stainless-steel/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk komponen yang akan hot-dip galvanizing, detail tertutup atau bertumpuk, jalur ventilasi dan drainase, orientasi pengangkatan, las, kebersihan permukaan, serta inspeksi dan perbaikan lapisan saling berkaitan. [Panduan venting dan draining AGA](https://galvanizeit.org/knowledgebase/article/venting-and-draining) dan [panduan detail fabrikasi AGA](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg) dapat dipakai sebagai daftar pertanyaan koordinasi. Namun, lokasi atau ukuran lubang, pengaruhnya terhadap struktur, dan penerimaan hasil wajib ditetapkan oleh perancang bertanggung jawab serta galvanizer berdasarkan gambar dan spesifikasi yang disetujui.
 
-### Planned sibling articles
+## Contoh keputusan praktis sebelum kerja dimulai
 
-These are future routes. Do not link them as live until their HTML exists.
+Teman Besi.co.id, bayangkan sebuah profil baja datang dalam beberapa bundel untuk dipotong, dilas, lalu diangkat ke elevasi. Tidak cukup memeriksa apakah crane tersedia. Tim perlu menahan pekerjaan bila satu jawaban pokok belum ada.
 
-- `BES-15-A03` → `/artikel/penyimpanan-produk-baja.html` — Menyimpan Plat, Profil, Pipa, dan Rebar Tanpa Merusak Material
-- `BES-15-A04` → `/artikel/moisture-dan-kontaminasi-penyimpanan-baja.html` — Moisture, Salt, dan Consumable Exposure selama Penyimpanan
-- `BES-15-A06` → `/artikel/hold-point-erection-baja.html` — Hold Point Erection Baja dari Delivery sampai Handover
+| Pertanyaan lapangan | Jika jawabannya belum jelas | Tindakan aman yang lebih tepat |
+| --- | --- | --- |
+| Apakah identitas, massa, dan titik berat elemen sudah diverifikasi? | Beban dapat diangkat berdasarkan perkiraan atau label yang tidak cocok | Jangan tetapkan lifting; cocokkan dokumen, penandaan, geometri, dan rencana oleh pihak kompeten |
+| Apakah potongan sisa memiliki tempat penyimpanan yang stabil dan diberi identitas? | Sisa dapat tajam, menggelinding, tercampur, atau menghalangi jalur | Pisahkan, amankan, dan perbarui penandaan sebelum pekerjaan berikutnya |
+| Apakah pekerjaan panas berinteraksi dengan material, orang, atau area lain? | Api, asap, percikan, atau kabel dapat menimbulkan paparan di luar titik las | Tahan pekerjaan sampai izin, isolasi, pengawasan, dan tanggap darurat ditetapkan |
+| Apakah struktur sementara dan urutan pelepasan alat angkat telah ditinjau? | Elemen dapat kehilangan kestabilan ketika kondisi berubah | Jangan lanjut erection tanpa persetujuan rekayasa dan metode kerja proyek |
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ini adalah skenario bersyarat, bukan instruksi operasi alat. [NEEDS COMPETENT REVIEW: rencana lifting dan erection harus menggunakan data beban, gambar, kondisi lokasi, peralatan, dan urutan aktual yang ditinjau pihak berwenang proyek.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “K3 saat Cutting, Welding, Lifting, dan Erection Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering terjadi ialah menganggap dokumen vendor atau kebiasaan kru cukup untuk semua tahap. Dokumen itu mungkin penting, tetapi belum membuktikan kecocokan untuk kondisi proyek: tanah bisa berbeda, beban dapat dimodifikasi, jalur bisa beririsan dengan publik, dan kondisi sementara struktur belum tentu tercakup.
 
-## Objection or shortcut to address
+Gunakan pemeriksaan yang dapat dijawab dengan bukti, bukan jawaban lisan semata:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Apakah setiap elemen dan potongan dapat ditelusuri ke gambar atau dokumen yang relevan?
+- Apakah area penyimpanan memiliki dukungan, pemisahan, akses, dan inspeksi yang sudah ditetapkan?
+- Apakah perubahan akibat cutting atau welding sudah dikonfirmasi terhadap gambar, material, dan urutan kerja?
+- Apakah ada zona larangan untuk orang yang tidak berkepentingan, termasuk di bawah pekerjaan dan sepanjang rute beban?
+- Apakah kondisi penghentian kerja, komunikasi, serta penyelamatan telah dipahami untuk kondisi aktual hari itu?
 
-## Required conclusion
+Pemeriksaan setelah galvanizing juga tidak boleh disederhanakan menjadi “warnanya terlihat baik.” [Halaman panduan inspeksi AGA](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products) menjelaskan bahwa inspeksi produk galvanis adalah bagian dari prosesnya; keputusan perbaikan dan penerimaan di proyek Indonesia tetap perlu merujuk spesifikasi pelapisan, dokumen pemasok, dan persetujuan yang berlaku. Jangan mengelas, menggerinda, atau memperbaiki lapisan tanpa jalur persetujuan dan sistem perlindungan korosi yang ditetapkan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas “mulai dulu, nanti dirapikan”
 
-## Draft completion checklist
+Jalan pintas ini tampak mempercepat pekerjaan, terutama ketika material sudah tiba dan alat angkat menunggu. Namun ia memindahkan ketidakpastian ke saat energi sudah terlibat: beban telah tergantung, pekerjaan panas telah aktif, atau elemen sudah berada di posisi sementara. Pada titik itu, pilihan aman biasanya lebih sedikit dan dampak kesalahan lebih besar.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatifnya ialah membuat hold point yang jelas sebelum setiap perpindahan tahap: penerimaan ke penyimpanan, penyimpanan ke cutting, cutting ke welding, welding ke lifting, dan lifting ke erection. Catat identitas, kondisi, perubahan, foto bila diperlukan, keputusan, serta tindak lanjutnya. Pendekatan pencatatan yang menghubungkan identitas aset, lokasi, fungsi, dokumen, kondisi, tindakan, dan tinjauan berikutnya sejalan dengan kerangka manajemen aset [ISO 55001](https://www.iso.org/standard/83054.html); standar tersebut tidak menetapkan interval inspeksi atau menerima struktur tertentu secara otomatis.
+
+## Langkah berikutnya sebelum tim bekerja
+
+K3 untuk cutting, welding, lifting, dan erection baja berarti memastikan bahaya berubah menjadi keputusan yang terdokumentasi sebelum pekerjaan dimulai—bukan mengejar dokumen setelah kejadian. Siapkan daftar elemen dan perubahan pekerjaan, lalu minta tim K3, penanggung jawab teknik, dan pihak kompeten proyek meninjau risiko, metode, alat, area publik, kestabilan sementara, serta rencana darurat berdasarkan kondisi aktual.
+
+Sobat Besi.co.id, pegang aturan kerja ini: hentikan dan eskalasi bila identitas material tidak cocok, rencana lifting/erection belum disetujui, pekerjaan panas tidak memiliki pengendalian lokasi, atau struktur sementara belum dinyatakan siap. Kecepatan tidak dapat menggantikan bukti dan peninjauan kompeten.
