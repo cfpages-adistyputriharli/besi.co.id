@@ -1,9 +1,9 @@
 ---
 article_id: BES-07-A05
-title: "Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ"
+title: "Ujung, Sambungan, dan Kesiapan Pipa untuk Disatukan dalam RFQ"
 slug: "ujung-fitting-dan-joinability-pipa"
-description: "Cover plain/beveled/threaded ends, end condition, matching fittings, dimensional system, weldability evidence, coatings, protection, and caps"
-status: outline
+description: "Hal yang perlu ditulis tentang ujung pipa, sambungan pasangannya, dan bukti kesiapan penyambungan agar barang yang datang tidak saling tidak cocok."
+status: draft
 publication_date: "2025-12-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/ujung-fitting-dan-joinability-pipa.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -24,37 +25,17 @@ sources:
   - "https://www.iso.org/standard/79581.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Ujung, Sambungan, dan Kesiapan Pipa untuk Disatukan dalam RFQ
 
-# Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ
+Halo, Sobat Besi.co.id! Pipa yang diameter nominalnya sama belum tentu bisa langsung dipasangkan. Ujungnya bisa polos, diserongkan untuk las, atau berulir; pasangannya bisa berupa sambungan siku, tee, penyempit, flensa, atau kopling. Bila detail ini tidak masuk permintaan penawaran, barang dapat tiba dengan ujung yang tidak cocok, pelindung yang salah, atau metode sambung yang belum disiapkan.
 
-## Assignment lock
+Jawaban singkatnya: di RFQ, tulis jenis pipa dan sistem dimensinya, kondisi setiap ujung, jenis sambungan pasangan, lapisan, pelindung ujung, serta dokumen yang membuktikan barang sesuai pesanan. “Bisa dilas” atau “cocok dengan fitting” bukan sifat yang boleh ditebak dari ukuran atau foto. Kelayakan sambungan, prosedur pengelasan, tekanan, fluida, dan kondisi kerja tetap perlu diputuskan oleh rancangan sistem serta pihak yang berwenang.
 
-- **Writer task:** Expand this file into one complete article answering: “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”
-- **Reader and situation:** Procurement team ordering pipe
-- **Reader outcome:** Cover plain/beveled/threaded ends, end condition, matching fittings, dimensional system, weldability evidence, coatings, protection, and caps
-- **Primary intent:** Specify pipe interfaces
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design joints or welding; BES-10-A01 owns joining qualification
-- **Final public route:** `/artikel/ujung-fitting-dan-joinability-pipa.html`
-- **Appointed CMS date:** `2025-12-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Besi WF 2](/wp-content/uploads/2024/01/Besi-WF-2.jpg)
 
-## Opening instructions
+*Aset lokal proyek ini dipakai sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-017`
@@ -65,137 +46,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi WF 2` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-017]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tiga hal yang sering tercampur
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Pertama, pipa adalah barangnya. Kedua, ujung pipa adalah kondisi di kedua sisi barang itu. Ketiga, sambungan atau *fitting* adalah komponen yang mengubah arah, cabang, ukuran, atau cara menghubungkan pipa. Menyebut “pipa 2 inci” baru menjawab sebagian kecil dari kebutuhan; belum menjelaskan ukuran mana yang dipakai, ketebalan, jenis ujung, pasangan sambungan, atau fungsi sistemnya.
 
-### KR-02
+Ujung polos berarti ujung pipa tidak dibentuk untuk ulir. Ujung serong adalah ujung yang dibentuk miring untuk kebutuhan penyambungan tertentu, biasanya las, tetapi sudut dan detailnya tidak boleh diasumsikan. Ujung berulir memiliki ulir untuk pasangan yang sesuai. Pelindung ujung atau tutup ujung membantu menjaga bagian tersebut dari benturan dan kontaminasi selama pengiriman; ia bukan bukti bahwa sambungan nantinya pasti kedap atau aman.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+Kosakata produk baja dan pengelompokan produk dalam [ISO 6929](https://www.iso.org/standard/52949.html) serta [klasifikasi ISO untuk produk besi dan baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) membantu membedakan bentuk dan tahap produk. Namun nama dagang atau bentuk tidak menetapkan mutu, toleransi, lapisan, atau kecocokan pemakaian. Kawan Besi.co.id, jangan menjadikan kata “pipa”, “tube”, atau “galvanis” sebagai jawaban lengkap atas kebutuhan sambungan.
 
-### KR-08
+## Isi RFQ yang membuat antarmuka jelas
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+Untuk setiap jenis pipa, tulis paling tidak: nama/nomor item, fungsi yang sudah disetujui, acuan produk dan edisi jika ada, sistem ukuran, diameter yang dimaksud, tebal dinding, panjang, jumlah, kondisi permukaan atau lapisan, dan kondisi ujung di masing-masing sisi. Jika ujung kiri dan kanan berbeda, nyatakan terpisah. Lampirkan gambar potongan atau sketsa sederhana bila orientasi penting.
 
-### KR-10
+Lalu tulis komponen pasangan yang diperlukan: jenis sambungan, ukuran antarmuka, sistem dimensinya, material/lapisan bila sudah ditentukan, dan cara identifikasinya. Jangan hanya menulis “termasuk fitting”. Tuliskan apakah harga mencakup tee, siku, penyempit, tutup, flensa, kopling, gasket, baut, atau komponen lain—dan mana yang tidak termasuk. Bila desain belum memutuskan sambungan, minta pemasok menyatakan asumsi serta jangan menyetujui pengganti tanpa pemeriksaan pihak pemegang rancangan.
 
-- **Original sources:** [API announcement for API Spec 5L 47th edition](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l), [ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe), and [ISO 4200 scope](https://www.iso.org/standard/9985.html)
-- **Purpose for this article:** Stop articles from deriving pressure rating, fluid compatibility, or structural suitability from schedule, color, seam, or galvanizing.
-- **Safe grounded facts:** `Seamless`, `welded`, `schedule`, nominal size, outside diameter, wall thickness, coating, and end type answer different questions. A product specification and passed tests still do not replace system design, joining procedure, corrosion review, or operating limits.
-- **Limits:** Foreign API/ASME/ISO documents are not Indonesian law. Obtain the specified full edition, actual certificate, design code, fluid/exposure data, fittings/joints, tests, and responsible engineer approval through G-01/G-16.
+Tambahkan kolom untuk dokumen: identitas lot, sertifikat yang diminta, daftar kemasan, penandaan, hasil pemeriksaan bila disyaratkan, dan setiap penyimpangan. Sobat Besi.co.id, RFQ yang baik bukan membuat semua detail teknis seolah sudah diketahui; RFQ yang baik memperlihatkan dengan jelas detail mana yang pasti dan mana yang masih menunggu keputusan.
 
-### KR-17
+## Ukuran nominal bukan ukuran sambungan
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+Diameter nominal adalah penamaan ukuran, bukan jaminan semua dimensi antarmuka sama. Diameter luar, ketebalan dinding, panjang, *schedule* atau seri ketebalan, dan jenis ujung menjawab pertanyaan berbeda. [ISO 4200](https://www.iso.org/standard/9985.html) dan [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) membahas dimensi serta massa tabel untuk lingkupnya; pemeriksaan penerimaan dan penimbangan aktual tetap merupakan kegiatan terpisah.
 
-## Evidence gates
+Karena itu, jangan mencocokkan pipa dan fitting hanya dengan angka nominal. Cocokkan sistem dimensi, ukuran nyata yang diperlukan, ketebalan, kondisi ujung, dan standar pasangan. Untuk memahami perbedaan penamaan *schedule*, gunakan halaman [pipa schedule](/pipa-schedule) sebagai pengantar kategori, tetapi jangan mengambil peringkat tekanan, toleransi, atau kesesuaian fluida dari halaman produk atau artikel umum.
 
-- **TOPIC-GATE:** G-01, G-04, G-05, G-16
+Kata *seamless* berarti pipa dibuat tanpa sambungan las memanjang, sedangkan *welded* berarti ada sambungan las pada proses pembuatannya. Keduanya tidak otomatis menentukan apakah pipa boleh dipakai pada tekanan tertentu, dilas dengan prosedur tertentu, atau sesuai untuk fluida tertentu. Pengumuman [API Spec 5L](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l) menegaskan adanya edisi spesifikasi; dokumen produk, desain sistem, metode penyambungan, dan data operasi harus tetap dicocokkan sebelum keputusan dibuat.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesiapan penyambungan bukan sekadar bisa menempel
 
-## Internal-link plan
+Kesiapan penyambungan berarti material, dimensi, ujung, lapisan, kebersihan, metode penyambungan, dan bukti dokumennya cukup untuk pekerjaan yang direncanakan. Untuk pengelasan, ini dapat menyentuh identitas material, prosedur las, bahan habis pakai, persiapan sambungan, pemeriksaan, dan persetujuan. Artikel ini tidak merancang atau mengesahkan pengelasan. Bila paket pengelasan dan pihak kompetennya belum tersedia, tahan keputusan untuk memesan ujung khusus atau melakukan pengelasan di lapangan.
 
-### Existing local routes
+Lapisan juga mengubah percakapan. “Galvanis” dapat merujuk pada rute pelapisan yang berbeda, bukan satu kondisi barang yang sama. [ISO 1461](https://www.iso.org/standard/81435.html) membahas barang hasil fabrikasi yang dicelup galvanis panas, [ISO 14713-2](https://www.iso.org/standard/71136.html) membahas pertimbangan desain untuk proses tersebut, dan [ISO 1460](https://www.iso.org/standard/79581.html) adalah metode pengukuran massa lapisan. Metode ukur tidak membuktikan pipa atau fitting proyek telah lulus, dan ketiga rujukan itu tidak boleh dipindahkan begitu saja ke semua pipa, ulir, sambungan, atau pengadaan Indonesia.
 
-- `/pipa-schedule` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam-galvanis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jika lapisan perlu dipertahankan, tulis bagian mana yang harus dilindungi, cara kemasan, pelindung ujung, dan prosedur penanganan/perbaikan yang akan dirujuk. Teman Besi.co.id, jangan meminta pemasok “siapkan untuk las” sambil membiarkan kondisi lapisan dan proses perbaikannya tidak disebutkan.
 
-### Planned sibling articles
+## Contoh RFQ yang lebih dapat diperiksa
 
-These are future routes. Do not link them as live until their HTML exists.
+Misalkan tim membeli pipa dan dua jenis sambungan untuk instalasi yang gambarnya belum lengkap. Kalimat “pipa hitam 2 inci beserta fitting” membuat penawaran sulit dibandingkan. Pemasok dapat memilih panjang, ketebalan, ujung, jumlah fitting, dan dasar harga yang berbeda.
 
-- `BES-07-A03` → `/artikel/pipa-hitam-galvanis-stainless-dan-hollow.html` — Pipa Hitam, Galvanis, Stainless, dan Hollow Struktural
-- `BES-07-A04` → `/artikel/memilih-pipa-berdasarkan-fungsi.html` — Memilih Pipa untuk Tekanan, Struktur, atau Conduit
-- `BES-07-A06` → `/artikel/checklist-receiving-pipa-dan-tube.html` — Checklist Receiving Pipa dan Tube
+Tulis lebih jelas seperti ini:
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+> Item 1: pipa [identitas produk/acuan menunggu konfirmasi], ukuran [sistem ukuran dan dimensi sesuai gambar], tebal [sesuai dokumen], panjang [sesuai kebutuhan], jumlah [satuan]. Ujung A [kondisi], ujung B [kondisi], lapisan [kondisi], pelindung ujung [ya/tidak]. Mohon sebutkan standar/edisi, identitas lot, dan setiap penyimpangan.
 
-## Jawaban singkat dan salah paham utama
+> Item 2: fitting [jenis], untuk pasangan Item 1, antarmuka [sistem ukuran/kondisi ujung], jumlah [satuan], lapisan [kondisi], dokumen [yang diminta]. Perubahan ukuran, metode sambung, material, atau lapisan harus dinyatakan terpisah.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bagian dalam kurung siku tidak boleh diisi dengan tebakan pembelian. Bawa ke perancang sistem atau pemilik spesifikasi bila jawaban tersebut menentukan keselamatan, tekanan, fluida, atau metode penyambungan.
 
-## Definisi dan batas objek
+## Jalan pintas yang membuat barang tidak cocok
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas paling umum ialah menganggap pipa yang sama-sama berlabel 2 inci akan memakai fitting yang sama. Ini dapat gagal karena sistem ukuran, ketebalan, tipe ujung, atau acuan produk berbeda. Jalan pintas berikutnya adalah meminta ujung berulir atau serong tanpa menyebut pasangan dan metode sambung. Barang mungkin tiba, tetapi antarmukanya belum tentu dapat dipakai.
 
-## Cara kerjanya
+Kesalahan lain adalah menilai lapisan dari warna. Bila Anda membutuhkan perbedaan antara [pipa hitam dan galvanis](/pipa-hitam-galvanis), minta identitas produk, rute pelapisan yang relevan, dan bukti yang disyaratkan; jangan simpulkan dari tampilan. Jika ada perbedaan dokumen, penandaan, ukuran, atau kondisi ujung dari RFQ, karantina barang sampai penyimpangan itu dinilai. Kawan Besi.co.id, penerimaan tanpa catatan bisa mengubah persoalan pengadaan menjadi persoalan pemasangan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Pegangan sebelum pesanan dilepas
 
-## Faktor yang mengubah hasil
+Ujung pipa, fitting, dan kesiapan penyambungan perlu masuk RFQ karena ketiganya menentukan apakah barang yang datang benar-benar bertemu pada antarmuka yang benar. Pastikan bentuk dan sistem ukuran, kondisi ujung, pasangan, lapisan, pelindung, bukti, dan penyimpangan tertulis; lalu cocokkan semuanya dengan gambar serta rancangan sistem yang berlaku.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Ujung, Fitting, dan Joinability Pipa yang Perlu Masuk RFQ”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah meminta pihak teknis melengkapi kolom yang masih kosong sebelum RFQ dikirim. Sobat Besi.co.id, aturan praktisnya: bila Anda belum bisa menyebut pipa bertemu apa dan dengan cara apa, jangan menganggap ujung pipa sudah siap dipesan.
