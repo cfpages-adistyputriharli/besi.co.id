@@ -1,9 +1,10 @@
 ---
 article_id: BES-07-A01
-title: "Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda"
+title: "Pipa Tanpa Kampuh dan Pipa Las: Apa yang Benar-Benar Berbeda"
 slug: "pipa-seamless-dan-welded"
-description: "Explain billet/piercing versus formed/welded routes, seam evidence, dimensional ranges, inspection, intended service, and false quality shortcuts"
-status: outline
+description: "Memahami beda pipa tanpa kampuh dan pipa las, serta bukti yang perlu diperiksa sebelum memilihnya"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -24,177 +25,86 @@ sources:
   - "https://www.iso.org/standard/79581.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”
-- **Reader and situation:** Buyer choosing pipe supply
-- **Reader outcome:** Explain billet/piercing versus formed/welded routes, seam evidence, dimensional ranges, inspection, intended service, and false quality shortcuts
-- **Primary intent:** Compare manufacturing routes
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not assign pressure rating or superiority; system design and BES-07-A04 own service requirements
-- **Final public route:** `/artikel/pipa-seamless-dan-welded.html`
-- **Appointed CMS date:** `2025-12-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-021`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi Pipa Seamless](/wp-content/uploads/2024/05/Pipa-Seamless.webp)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Pipa Seamless` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-021]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Placement:** after the opening has answered the main question, before the first detailed H2.
+- **Caption:** Gambar pipa seamless dari aset lokal proyek.
+- **Boundary:** Do not infer unseen details, project ownership, location, people, brands, condition, performance, or outcome from this image.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Pipa Tanpa Kampuh dan Pipa Las: Apa yang Benar-Benar Berbeda
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id!
 
-### KR-02
+Saat melihat dua penawaran pipa, sering muncul jalan pintas: yang *seamless* pasti lebih kuat, sedangkan yang *welded* pasti pilihan kelas dua. Kesimpulan itu terlalu cepat. Perbedaan utamanya memang ada pada cara pipa dibuat—pipa tanpa kampuh dibuat dari bahan awal padat yang dibentuk menjadi berongga, sedangkan pipa las dibentuk dari bahan lembaran atau strip lalu sambungannya dilas. Tetapi label proses itu saja belum menjawab apakah pipa cocok untuk sistem Anda.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+Jawaban singkatnya: pilihannya harus mengikuti spesifikasi produk, ukuran dan ketebalan yang dibutuhkan, bukti pemeriksaan, cara penyambungan, fluida atau beban sistem, lingkungan korosi, serta persetujuan pihak yang bertanggung jawab atas desain. Kata *seamless* atau *welded* hanya salah satu informasi di antara banyak informasi itu. [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) bahkan memakai cakupan pipa baja tempa yang mencakup pipa las dan tanpa kampuh untuk pembahasan dimensi; artinya, bentuk pipa dan jalur pembuatannya memang perlu dibaca bersama, bukan saling menggantikan.
 
-### KR-08
+![Ilustrasi Pipa Seamless](/wp-content/uploads/2024/05/Pipa-Seamless.webp)
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+*Ilustrasi umum pipa tanpa kampuh dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
-### KR-10
+## Bedanya ada di jalur pembuatannya, bukan pada vonis mutu
 
-- **Original sources:** [API announcement for API Spec 5L 47th edition](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l), [ASME B36.10-2022 scope](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe), and [ISO 4200 scope](https://www.iso.org/standard/9985.html)
-- **Purpose for this article:** Stop articles from deriving pressure rating, fluid compatibility, or structural suitability from schedule, color, seam, or galvanizing.
-- **Safe grounded facts:** `Seamless`, `welded`, `schedule`, nominal size, outside diameter, wall thickness, coating, and end type answer different questions. A product specification and passed tests still do not replace system design, joining procedure, corrosion review, or operating limits.
-- **Limits:** Foreign API/ASME/ISO documents are not Indonesian law. Obtain the specified full edition, actual certificate, design code, fluid/exposure data, fittings/joints, tests, and responsible engineer approval through G-01/G-16.
+Pipa tanpa kampuh, atau *seamless pipe*, dibuat tanpa sambungan las memanjang pada badan pipa. Secara sederhana, bahan baja padat dibentuk dan dilubangi, lalu diproses lagi sampai menjadi tabung dengan ukuran yang dituju. Sementara itu, pipa las, atau *welded pipe*, berawal dari bahan yang dibentuk menjadi silinder dan kedua tepinya disatukan melalui proses pengelasan.
 
-### KR-17
+Itu menjelaskan mengapa orang sering mencari “bekas kampuh” ketika membandingkan keduanya. Namun, tidak melihat kampuh bukanlah sertifikat mutu; begitu pula melihat garis sambungan bukan bukti otomatis bahwa pipa bermasalah. Istilah bentuk produk dan tahap pembuatannya perlu dibedakan dari bukti grade, komposisi, toleransi, pelapisan, atau kelayakan pemakaian. [ISO 6929](https://www.iso.org/standard/52949.html) menempatkan kosakata produk baja sebagai cara menyamakan istilah, sedangkan [klasifikasi ISO untuk produk besi dan baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) menunjukkan bahwa bentuk produk tetap mempunyai kelompoknya sendiri. Keduanya bukan pengganti dokumen spesifikasi suatu barang.
 
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
+Jadi, Kawan Besi.co.id, pertanyaan yang lebih berguna bukan “yang mana paling bagus?” melainkan “pipa ini harus memenuhi syarat apa di sistem saya, dan bukti apa yang tersedia untuk membuktikannya?”
 
-## Evidence gates
+## Ukuran nominal dan proses produksi menjawab pertanyaan yang berbeda
 
-- **TOPIC-GATE:** G-01, G-04, G-05, G-16
+Nama ukuran pipa juga sering membuat keputusan meleset. Diameter nominal, diameter luar, tebal dinding, panjang, dan massa teoretis adalah informasi geometri. Semuanya tetap perlu dicocokkan dengan tabel serta standar yang dirujuk dalam pesanan. [ISO 4200](https://www.iso.org/standard/9985.html) membahas dimensi dan massa pipa baja, sedangkan [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) menjelaskan cakupan dimensi pipa baja tempa las dan tanpa kampuh. Keduanya bukan izin untuk menebak nilai dari tabel yang tidak sedang Anda pegang.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Misalnya, dua pipa dapat sama-sama disebut “sekian inci”, tetapi ketebalan dinding, ujung pipa, toleransi, atau dokumen pesanan bisa berbeda. Karena itu, jangan memakai kata *schedule* sebagai jawaban tunggal tentang kemampuan sistem. Bila Anda perlu memahami hubungan diameter luar, ukuran nominal, dan ketebalan, halaman [pipa schedule](/pipa-schedule) dapat menjadi titik awal, lalu cocokkan kembali dengan spesifikasi pembelian yang benar-benar dipakai.
 
-## Internal-link plan
+[NEEDS: Konfirmasi standar produk, ukuran yang dipesan, ketebalan yang disyaratkan, dan tabel edisi yang menjadi acuan sebelum menerima atau memasang pipa.]
 
-### Existing local routes
+## Apa saja yang benar-benar mengubah keputusan
 
-- `/pipa-seamless/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-schedule` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam-galvanis` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/pipa-hitam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-pipa-schedule-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Proses pembuatan dapat relevan, tetapi ia bukan satu-satunya penentu. Berikut urutan pemeriksaan yang lebih masuk akal sebelum menyetujui pasokan:
 
-### Planned sibling articles
+1. **Tentukan tugas pipanya.** Apakah ia bagian dari sistem aliran, rangka, pelindung kabel, atau kebutuhan lain? Tugas yang berbeda membutuhkan dasar penilaian berbeda.
+2. **Cocokkan spesifikasi produk.** Minta identitas produk, grade bila dipersyaratkan, ukuran, ketebalan, panjang, jenis ujung, serta dokumen yang diminta dalam pesanan.
+3. **Periksa kondisi sistem.** Fluida, suhu, tekanan, cara sambung, fitting, kemungkinan korosi, dan kondisi operasi tidak bisa disimpulkan dari label proses pembuatan.
+4. **Tentukan pemeriksaan penerimaan.** Sepakati sejak awal apa yang akan dicek: penandaan, ukuran, kondisi permukaan, dokumen sertifikat, atau pengujian yang memang tertulis dalam kontrak.
+5. **Libatkan penanggung jawab desain untuk keputusan konsekuensial.** Ia perlu menilai keseluruhan sistem, bukan hanya satu batang pipa.
 
-These are future routes. Do not link them as live until their HTML exists.
+Teman Besi.co.id, bagian ketiga sering terlupakan karena terlihat lebih rumit. Padahal justru di situlah risiko salah pilih berada. [API Spec 5L](https://www.api.org/products-and-services/standards/important-standards-announcements/api-announces-47th-edition-of-foundational-line-pipe-standard-5l) adalah contoh standar produk yang memiliki ruang lingkup tertentu. Keberadaan standar atau sertifikat produk tetap tidak menggantikan rancangan sistem, metode penyambungan, peninjauan korosi, batas operasi, dan persetujuan insinyur yang relevan.
 
-- `BES-07-A02` → `/artikel/od-nps-dn-tebal-dan-schedule-pipa.html` — OD, NPS, DN, Tebal, dan Schedule Pipa
-- `BES-07-A03` → `/artikel/pipa-hitam-galvanis-stainless-dan-hollow.html` — Pipa Hitam, Galvanis, Stainless, dan Hollow Struktural
+## Jangan samakan pelapisan dengan jenis pipa
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kebingungan lain muncul saat pipa disebut galvanis. Kata itu bisa menunjuk pada dasar produk, cara pelapisan, atau sekadar bahasa dagang. Pelapisan seng setelah fabrikasi tidak otomatis sama dengan produk yang diberi lapisan melalui proses lain. [ISO 1461](https://www.iso.org/standard/81435.html) membahas artikel baja dan besi yang diberi pelapisan celup panas, sementara [ISO 14713-2](https://www.iso.org/standard/71136.html) membahas pertimbangan desain untuk proses tersebut.
 
-## Jawaban singkat dan salah paham utama
+Artinya, pipa las bisa saja berlapis, dan pipa tanpa kampuh juga bisa memiliki perlakuan permukaan tertentu; jenis pelapisan perlu diperiksa sebagai informasi terpisah. Untuk membedakan istilah dagang yang sering bercampur, baca juga [pipa hitam dan galvanis](/pipa-hitam-galvanis), tetapi jangan menganggap halaman pengantar itu sebagai pengganti spesifikasi proyek.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[NEEDS: Verifikasi jenis pelapisan, standar yang dipersyaratkan, kondisi lingkungan, dan bukti hasil penerimaan sebelum menyimpulkan ketahanan korosi suatu pipa.]
 
-## Definisi dan batas objek
+## Contoh cara mengambil keputusan tanpa menebak
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tim pembelian menerima dua penawaran. Penawaran pertama menonjolkan kata *seamless*. Penawaran kedua menuliskan *welded*, lengkap dengan ukuran, ketebalan, identitas produk, dan dokumen yang diminta. Tidak tepat langsung memenangkan salah satunya hanya dari satu kata di judul penawaran.
 
-## Cara kerjanya
+Langkah yang lebih aman adalah membuat tabel pembanding sederhana berikut.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Pertanyaan | Bukti yang dicari | Mengapa penting |
+| --- | --- | --- |
+| Apakah ukurannya benar? | ukuran nominal, diameter luar, tebal, panjang, dan rujukan tabel | Nama dagang saja bisa terlalu umum. |
+| Apakah jenis produknya sesuai? | spesifikasi, penandaan, dan dokumen pesanan | Jalur produksi tidak menjelaskan seluruh syarat produk. |
+| Apakah cocok dengan sistem? | data fluida, suhu, tekanan, sambungan, fitting, dan desain | Kesesuaian sistem tidak lahir dari label pipa. |
+| Apa yang dicek saat barang datang? | kriteria penerimaan tertulis dan dokumen pendukung | Pemeriksaan jadi terarah, bukan debat setelah barang datang. |
 
-## Faktor yang mengubah hasil
+Kalau kebutuhan Anda sebenarnya masih berupa “pipa untuk kerjaan umum”, berhenti sebentar sebelum membandingkan harga. Pertajam dulu kebutuhan itu. Pilihan pipa hitam, galvanis, atau bentuk lain punya konteks masing-masing; halaman [pipa hitam](/pipa-hitam) dapat membantu mengenali salah satu keluarga produk, tetapi keputusan akhir tetap harus kembali ke kebutuhan dan bukti pesanan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang tampak aman, tetapi sering membuat repot
 
-## Contoh keputusan praktis
+“Kalau tidak ada kampuh, berarti pasti aman untuk semua kebutuhan.” Kalimat ini terdengar meyakinkan, tetapi gagal karena menyederhanakan sistem menjadi satu ciri visual atau satu proses produksi. Begitu pula kalimat kebalikannya: “yang dilas pasti tidak layak.” Keduanya mengabaikan spesifikasi, mutu proses yang dibuktikan, geometri, sambungan, dan kondisi penggunaan.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas kedua adalah memakai angka atau istilah dari internet tanpa memastikan edisi standar dan ruang lingkupnya. Sebuah metode uji, misalnya, menjelaskan bagaimana sesuatu diuji; itu tidak membuktikan setiap barang di gudang telah lulus. [ISO 1460](https://www.iso.org/standard/79581.html) adalah contoh metode gravimetri untuk massa lapisan. Metodenya tidak serta-merta menjadi bukti bahwa pelapisan pada pipa tertentu memenuhi syarat pesanan.
 
-## Kesalahan umum dan cara memeriksanya
+Nah, Sobat Besi.co.id, cara melindungi keputusan bukan dengan menghafal semua standar. Mulailah dari dokumen yang seharusnya ada: spesifikasi, pesanan, penandaan barang, sertifikat yang relevan, dan kriteria pemeriksaan. Bila ada perbedaan antara penawaran, sampel, dan dokumen, jangan “diakali” lewat asumsi; minta penjelasan tertulis sebelum barang dipakai.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pipa Seamless dan Welded: Apa yang Benar-Benar Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Ringkasnya: proses adalah petunjuk, bukan keputusan akhir
 
-## Objection or shortcut to address
+Pipa tanpa kampuh dan pipa las benar-benar berbeda pada cara terbentuknya. Perbedaan itu layak dicatat karena dapat berhubungan dengan pilihan produk, ketersediaan ukuran, dan pemeriksaan yang akan Anda lakukan. Namun, ia tidak otomatis menetapkan kekuatan, tekanan yang boleh digunakan, cacat, atau kecocokan untuk pekerjaan tertentu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum membeli atau menerima barang, tulis kebutuhan sistemnya, cocokkan ukuran dan spesifikasi, lalu minta bukti yang memang dipersyaratkan. Untuk keputusan yang menyangkut keselamatan, tekanan, fluida, atau pekerjaan penting, minta penilaian penanggung jawab desain. Aturan praktisnya sederhana: jangan membeli janji dari label proses; beli dan terima pipa berdasarkan spesifikasi serta bukti yang bisa diperiksa.

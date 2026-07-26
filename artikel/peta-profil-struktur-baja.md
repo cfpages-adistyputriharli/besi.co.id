@@ -2,8 +2,9 @@
 article_id: BES-04-A01
 title: "Peta Profil WF, H, I, T, UNP, CNP, dan Siku"
 slug: "peta-profil-struktur-baja"
-description: "Compare geometry, axes, typical connection surfaces, production routes, and naming ambiguity across common profiles"
-status: outline
+description: "Mengenali bentuk, bidang sambungan, arah sumbu, dan nama dagang profil baja tanpa menyamakan nama dengan spesifikasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-01"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -29,184 +30,107 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+## Image instructions
+
+- **Image ID:** `LOCAL-005`
+- **Placement:** after the opening, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi UNP 3](/wp-content/uploads/2024/01/UNP-3.jpg)`
+- **Caption/credit:** Ilustrasi dari aset lokal proyek.
+- **Hard boundary:** do not substitute or describe unseen visual details. If unavailable, use `[NEEDS IMAGE REVIEW: LOCAL-005]`.
+END MANAGED IMAGE PLAN -->
 
 # Peta Profil WF, H, I, T, UNP, CNP, dan Siku
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”
-- **Reader and situation:** Buyer confused by profile names
-- **Reader outcome:** Compare geometry, axes, typical connection surfaces, production routes, and naming ambiguity across common profiles
-- **Primary intent:** Distinguish open-section families
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose or size a member; BES-12-A02 owns structural selection
-- **Final public route:** `/artikel/peta-profil-struktur-baja.html`
-- **Appointed CMS date:** `2025-10-01` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat daftar kebutuhan hanya menulis “pakai H”, “cari CNP”, atau “ambil siku”, kita belum benar-benar tahu barang apa yang harus dibandingkan. Nama itu membantu percakapan awal, tetapi belum menjelaskan ukuran penampang, ketebalan, mutu material, kondisi pasok, maupun kecocokannya untuk sebuah pekerjaan. Jalan amannya sederhana: kenali dulu bentuk penampangnya, lalu cocokkan data lengkap pada gambar, daftar material, penandaan barang, dan sertifikat yang menyertainya.
 
-## Opening instructions
+Peta singkatnya begini: WF, H, dan I biasanya mengarahkan pembaca ke keluarga penampang dengan dua sayap dan satu badan di tengah; T menyerupai huruf T; UNP dan CNP adalah sebutan yang lazim dipakai untuk keluarga kanal; sedangkan siku memiliki dua kaki yang bertemu pada satu sudut. Namun bentuk yang tampak serupa tidak otomatis berarti bisa saling menggantikan. Standar produk dan informasi pesanan tetap harus dibaca bersama, bukan ditebak dari nama jualannya saja. [ISO 630-1](https://www.iso.org/standard/73841.html) juga menempatkan bentuk produk, persyaratan pesanan, dan kondisi pasok sebagai bagian yang perlu tetap terhubung.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Profil WF, H, I, T, UNP, CNP, dan Siku**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi UNP 3](/wp-content/uploads/2024/01/UNP-3.jpg)
 
+_Ilustrasi dari aset lokal proyek._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Mulai dari bentuk penampang, bukan dari panggilan dagang
 
-- **Image ID:** `LOCAL-005`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi UNP 3](/wp-content/uploads/2024/01/UNP-3.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `UNP 3` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Penampang adalah bentuk potongan sebuah batang bila dilihat dari ujungnya. Dalam percakapan proyek, orang sering menyebutnya profil. Istilah ini berguna untuk membedakan keluarga bentuk, tetapi bukan pengganti identitas produk yang lengkap. ISO membedakan kosakata bentuk dan tahap produk baja dari bukti tentang grade, toleransi, atau penggunaan akhirnya. Lihat [ISO 6929](https://www.iso.org/standard/52949.html) dan [klasifikasi produk besi-baja ISO](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) untuk konteks pengelompokan tersebut.
 
-## Evidence packet
+Bayangkan kita sedang membaca daftar belanja. “Kanal” menjawab kira-kira bentuknya seperti apa. Ia belum menjawab apakah barang itu dibuat melalui proses tertentu, berapa ukuran sebenarnya, apakah satuannya sesuai gambar, atau dokumen apa yang menyertainya. Karena itu, Sobat Besi.co.id sebaiknya memisahkan dua pertanyaan berikut sejak awal:
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+- **Bentuk apa yang sedang dibicarakan?** Ini membantu mencari bidang yang mungkin dipakai untuk sambungan dan memahami orientasi penampang pada gambar.
+- **Produk persis apa yang akan diterima?** Ini perlu ditelusuri melalui penamaan lengkap, ukuran, ketebalan, standar produk, kondisi pasok, dan sertifikat bila dipersyaratkan.
 
-### KR-02
+Pemisahan ini terasa remeh, tetapi menghindarkan kebiasaan berbahaya: menyamakan kata yang sering diucapkan dengan spesifikasi yang bisa dipakai untuk mengambil keputusan.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Membaca keluarga WF, H, I, T, kanal, dan siku
 
-### KR-04
+Keluarga WF, H, dan I umumnya dikenali dari dua bagian mendatar yang biasa disebut sayap, dengan bagian penghubung di tengah yang kerap disebut badan. Dari jauh, garis luarnya memang mirip huruf I atau H. Akan tetapi, “mirip” bukan alasan untuk menyimpulkan bahwa seluruh dimensinya sama. Nama WF, H, atau I di pasar dapat dipakai dengan kebiasaan penamaan yang berbeda-beda; tabel produk dan dokumen pemasoklah yang harus menjelaskan geometri aktualnya.
 
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
+Profil T memiliki satu bagian mendatar dan satu bagian tegak sehingga siluetnya menyerupai huruf T. Sementara itu, UNP dan CNP sering dipakai saat orang membicarakan kanal: ada badan di tengah dan bagian di kedua tepi yang membentuk ruang terbuka. Arah bukaan kanal perlu terlihat jelas pada gambar karena bidang yang tersedia untuk sambungan bisa berbeda ketika orientasinya dibalik atau diputar.
 
-### KR-05
+Siku terdiri dari dua kaki yang bertemu pada satu sudut. Ada siku dengan dua kaki yang tampak setara, ada pula yang tidak; jangan menyebutnya setara hanya karena sama-sama “siku”. Kawan Besi.co.id, kebiasaan yang lebih rapi adalah meminta ukuran kedua kaki, ketebalan, panjang, dan identitas produk tertulis sebelum menyamakan barang dari dua daftar berbeda.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Berikut cara membaca peta ini tanpa menjadikannya resep pemilihan anggota struktur:
 
-### KR-09
+| Keluarga sebutan | Ciri bentuk yang perlu dikenali | Pertanyaan sebelum dibandingkan |
+| --- | --- | --- |
+| WF, H, I | Dua sayap dengan badan di tengah | Apa dimensi lengkap, arah pemasangan, standar produk, dan data materialnya? |
+| T | Satu sayap dan satu badan tegak | Apakah bentuk serta dimensinya sesuai gambar, bukan sekadar huruf T? |
+| UNP, CNP | Kanal dengan sisi terbuka | Ke mana arah bukaan, bagaimana ukuran badan dan sisi, serta bagaimana produk itu ditandai? |
+| Siku | Dua kaki bertemu membentuk sudut | Apakah kedua kaki dan ketebalannya sama dengan yang diminta? |
 
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
+Tabel ini hanya alat komunikasi. Ia tidak menentukan ukuran, bentang, beban, atau kapasitas. Penentuan tersebut membutuhkan data proyek dan perancangan yang berwenang.
 
-### KR-11
+## Sumbu dan bidang sambungan: bahasa kecil yang sering menentukan salah paham
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+Pada gambar teknik, sumbu adalah garis acuan untuk menyatakan arah penampang. Banyak orang mengenal sumbu kuat dan sumbu lemah, tetapi sebutan itu tidak boleh dipakai sebagai tebakan cepat. Arah sumbu, orientasi barang, kondisi tumpuan, sambungan, dan pembebanan perlu dibaca sebagai satu kesatuan oleh pihak yang menangani perancangan.
 
-## Evidence gates
+Untuk pembeli atau pelaksana, manfaat praktisnya lebih sederhana: jangan hanya memotret muka profil. Perhatikan juga sisi mana yang akan menghadap pelat sambungan, baut, las, penutup, atau elemen lain. Kanal yang diputar dapat menyediakan bidang kerja yang berbeda. Siku yang dibalik bisa menempatkan kakinya pada sisi lain. Bahkan pada keluarga yang sama, perubahan ukuran dapat mengubah ruang untuk detail sambungan.
 
-- **TOPIC-GATE:** G-01, G-04, G-06
+Saat menerima permintaan, ubah kalimat “butuh profil ini” menjadi daftar cek:
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+1. Minta gambar atau potongan detail yang menunjukkan orientasi.
+2. Catat nama profil seperti tertulis, lalu salin seluruh ukuran dan satuannya tanpa membulatkan.
+3. Tanyakan standar produk, mutu yang diminta, kondisi pasok, serta dokumen penerimaan yang diperlukan.
+4. Jika ada perubahan dari gambar, tahan keputusan penggantian sampai perancang atau peninjau yang berwenang memberi arahan tertulis.
 
-## Internal-link plan
+Pendekatan ini sejalan dengan prinsip penamaan produk struktural: label penampang perlu diurai menjadi geometri, dimensi, material, dan informasi lain yang dapat diperiksa, bukan diperlakukan sebagai nama panggilan tunggal. Contoh tata nama produk pada [dokumen AISC](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf) berguna sebagai ilustrasi cara mengurai data, tetapi bukan aturan pasok atau desain Indonesia.
 
-### Existing local routes
+## Mengapa nama yang sama belum tentu barang yang sama
 
-- `/unp` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/siku` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-unp-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-unp-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-unp-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-unp-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ada tiga lapis yang kerap tercampur: bentuk, spesifikasi produk, dan keputusan struktur. Bentuk menjelaskan rupa penampang. Spesifikasi produk menjelaskan identitas barang yang dibeli. Keputusan struktur menjawab apakah sebuah anggota dan sambungannya aman serta sesuai untuk kondisi proyek tertentu. Ketiganya berkaitan, tetapi tidak bisa disingkat menjadi satu kata seperti “WF” atau “UNP”.
 
-### Planned sibling articles
+Katalog standar BSN memperlihatkan bahwa produk profil dan produk baja lain berada pada kelompok yang berbeda dan perlu ditelusuri menurut bentuk serta penerapannya. Lihat [katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) dan [katalog produk baja rata](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) sebagai titik awal pencarian, bukan sebagai bukti bahwa setiap barang di pasar sudah memenuhi suatu standar tertentu. Rekam publik [SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018) dan [SNI 9172:2023](https://pesta.bsn.go.id/produk/detail/14592-91722023) juga berguna untuk mengecek bahwa pencarian standar harus mengikuti bentuk dan produk yang sedang dibahas, bukan memakai satu judul untuk seluruh barang baja.
 
-These are future routes. Do not link them as live until their HTML exists.
+Teman Besi.co.id juga perlu waspada pada kata “setara”. Setara mungkin hanya berarti tinggi luarnya tampak sama. Padahal belum tentu ketebalan, massa, toleransi, mutu, kondisi permukaan, atau dokumen penerimaannya sama. Dua barang yang cocok secara visual dapat berbeda dalam data yang justru penting bagi gambar dan pengadaan.
 
-- `BES-04-A02` → `/artikel/wf-dan-h-beam-cara-membandingkan.html` — WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan
-- `BES-04-A03` → `/artikel/inp-unp-dan-cnp.html` — INP, UNP, dan CNP: Kanal yang Tidak Boleh Dipertukarkan dari Nama
+Karena itu, bila perbandingan akan memengaruhi pekerjaan nyata, pertahankan penanda ini sampai data tersedia: **[NEEDS REVIEW: konfirmasi tabel profil, standar produk, dokumen material, dan persetujuan perubahan untuk barang yang benar-benar akan dipakai.]**
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Contoh membaca permintaan tanpa langsung memilih pengganti
 
-## Jawaban singkat dan salah paham utama
+Misalnya sebuah permintaan berbunyi, “Cari UNP seperti contoh.” Respons yang membantu bukan langsung menunjuk barang pengganti, melainkan mengembalikan pertanyaan ke data yang bisa diperiksa: contoh itu UNP dengan ukuran berapa, sisi terbukanya menghadap ke mana, apa satuannya, adakah gambar sambungan, dan dokumen apa yang diminta?
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika penjual menawarkan CNP karena bentuknya sama-sama kanal, jangan buru-buru menyetujui. Bandingkan dahulu identitas produk yang tertulis dan minta pihak yang bertanggung jawab pada gambar menilai perubahan itu. Kata “kanal” hanya memberi petunjuk keluarga bentuk; ia tidak memberi izin untuk mengganti produk. Hal yang sama berlaku saat seseorang menyebut H-beam sebagai pengganti WF, atau siku sebagai pengganti profil lain karena “sama-sama baja”.
 
-## Definisi dan batas objek
+Untuk orientasi produk yang memang tersedia di situs ini, pembaca dapat melihat halaman [UNP](/unp) dan [siku](/siku). Gunakan keduanya untuk mengenali istilah dan membuka percakapan pengadaan, bukan sebagai dasar tunggal untuk menetapkan anggota struktur.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang paling sering terjadi di lapangan pengadaan
 
-## Cara kerjanya
+Kesalahan pertama adalah mengirim foto tanpa ukuran. Foto dapat membantu mengenali keluarga bentuk, tetapi tidak cukup untuk memeriksa identitas produk. Kesalahan kedua adalah memakai nama dagang sebagai alasan penggantian. Ini sering terjadi ketika stok yang diminta tidak ada dan percakapan bergerak terlalu cepat menuju “yang penting mirip”.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah mencampur dokumen produk dengan perhitungan struktur. Catatan material, tabel penampang, atau sertifikat tidak menggantikan peninjauan terhadap beban, kestabilan, jalur gaya, sambungan, keadaan sementara saat pemasangan, dan kondisi bangunan. Rekaman [SNI 1729:2020 di BSN](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013), bersama konteks regulasi [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), menunjukkan bahwa lapisan desain dan aturan bangunan tidak sama dengan halaman produk. Sumber [AISC tentang HSS](https://www.aisc.org/aisc/solutions-center/hss/) dapat membantu melihat bahwa keluarga bentuk pun perlu dibedakan; itu tetap bukan dasar untuk memindahkan aturan produk atau desain dari Amerika Serikat ke proyek Indonesia.
 
-## Faktor yang mengubah hasil
+Cara memperbaikinya tidak rumit, walau memang perlu disiplin. Buat satu lembar penerimaan barang yang memuat nama lengkap, ukuran, jumlah, dokumen yang diminta, foto penandaan bila ada, dan pihak yang menyetujui perubahan. Jika salah satu informasi pokok kosong, catat sebagai pertanyaan terbuka, bukan diisi dengan asumsi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang terdengar praktis, tetapi bisa menimbulkan masalah
 
-## Contoh keputusan praktis
+“Bentuknya kan hampir sama, pakai saja dulu” adalah jalan pintas yang paling sering terdengar. Masalahnya bukan pada niat mempercepat pekerjaan, melainkan pada data yang ikut hilang dari keputusan tersebut. Saat barang sudah dipotong atau dipasang, mengembalikan keputusan menjadi jauh lebih mahal dibanding meminta klarifikasi di awal.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman adalah menahan penggantian, menyandingkan data barang yang diminta dan barang yang ditawarkan, lalu meminta persetujuan tertulis dari pihak yang memegang tanggung jawab teknis proyek. Sobat Besi.co.id tidak perlu menjadi perancang untuk menjalankan kebiasaan ini; cukup pastikan pertanyaannya sampai kepada orang yang tepat dan jawabannya terdokumentasi.
 
-## Kesalahan umum dan cara memeriksanya
+## Penutup: gunakan nama profil sebagai pintu masuk, bukan putusan akhir
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Peta Profil WF, H, I, T, UNP, CNP, dan Siku”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+WF, H, I, T, UNP, CNP, dan siku adalah peta awal untuk membaca bentuk penampang. Gunakan peta itu untuk melihat bagian yang terbuka, bidang yang mungkin dipakai untuk detail, serta pertanyaan apa yang harus diajukan. Jangan gunakan nama tersebut untuk mengira-ngira ukuran, mutu, kesetaraan, atau kemampuan sebuah anggota.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: cocokkan gambar dan daftar material dengan tabel produk serta dokumen penerimaan barang yang nyata. Bila ada usulan penggantian atau keputusan tersebut memengaruhi struktur, mintalah peninjauan teknis yang sesuai sebelum barang dipotong atau dipasang. Itulah aturan kerja yang paling masuk akal: nama membantu memulai percakapan, tetapi data lengkap yang menutup keputusan.
