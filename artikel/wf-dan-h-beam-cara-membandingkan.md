@@ -1,9 +1,9 @@
 ---
 article_id: BES-04-A02
-title: "WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan"
+title: "WF dan H-Beam: Membandingkan Data, Bukan Sekadar Sebutan"
 slug: "wf-dan-h-beam-cara-membandingkan"
-description: "Compare actual section dimensions, mass, flange/web proportions, standard designation, certificate, and availability"
-status: outline
+description: "Cara membandingkan profil yang disebut WF atau H-beam melalui geometri, massa, standar, sertifikat, dan kebutuhan proyek."
+status: draft
 publication_date: "2025-10-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/wf-dan-h-beam-cara-membandingkan.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -29,37 +30,17 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# WF dan H-Beam: Membandingkan Data, Bukan Sekadar Sebutan
 
-# WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan
+Halo, Kawan Besi.co.id! Istilah WF dan H-beam sering dipakai bergantian di penawaran. Masalahnya, dua profil dengan nama mirip belum tentu memiliki ukuran, ketebalan, massa, mutu, standar, atau kondisi pasok yang sama. Memilih hanya dari sebutan berisiko membuat harga terlihat sebanding padahal barang yang ditawarkan berbeda.
 
-## Assignment lock
+Cara membandingkannya sederhana: pecah nama profil menjadi data yang dapat diperiksa. Lihat tinggi, lebar sayap, tebal badan, tebal sayap, panjang, massa per panjang menurut acuan yang disebut, mutu/kelas, standar dan edisinya, tanda fisik, serta sertifikat. Setelah itu baru tanyakan apakah profil tersebut dapat dipakai untuk kebutuhan proyek. Artikel ini membantu membandingkan data; artikel ini tidak menyetujui penggantian profil atau menentukan kapasitas struktur.
 
-- **Writer task:** Expand this file into one complete article answering: “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”
-- **Reader and situation:** Buyer seeing overlapping seller terms
-- **Reader outcome:** Compare actual section dimensions, mass, flange/web proportions, standard designation, certificate, and availability
-- **Primary intent:** Compare similar beam labels
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare universal synonymy or substitution; BES-02-A04 owns equivalence
-- **Final public route:** `/artikel/wf-dan-h-beam-cara-membandingkan.html`
-- **Appointed CMS date:** `2025-10-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi H Beam 4](/wp-content/uploads/2024/01/H-Beam-4.jpg)
 
-## Opening instructions
+*Aset lokal proyek ini dipakai sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-006`
@@ -70,144 +51,50 @@ sources:
 - **Selection basis:** filename/source metadata identifies `H Beam 4` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-006]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Nama dagang adalah titik mulai
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+WF lazim dipakai untuk menyebut profil dengan badan tegak di tengah dan dua sayap di sisi atas-bawah. H-beam juga merupakan sebutan dagang yang sering dipakai untuk profil serupa. Namun sebutan itu tidak otomatis menjelaskan semua ukuran maupun keluarga standar. Istilah bentuk produk dalam [ISO 6929](https://www.iso.org/standard/52949.html) dan pengelompokan dalam [klasifikasi ISO](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf) membantu membedakan kategori, tetapi tidak membuktikan mutu, toleransi, lapisan, atau kecocokan penggunaan suatu batang.
 
-### KR-02
+Jadi jangan mencari jawaban universal “WF sama dengan H-beam.” Pertanyaan yang lebih berguna adalah: profil yang dimaksud penjual ini ukurannya apa, dibuat menurut dokumen apa, dan apakah seluruh datanya sama dengan kebutuhan pada gambar? Sobat Besi.co.id, jika satu bagian data belum ada, perlakukan produk itu sebagai belum bisa dibandingkan secara penuh, bukan otomatis setara.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Data yang harus ada di meja perbandingan
 
-### KR-04
+Buat satu tabel untuk setiap penawaran. Kolom minimum yang layak ada ialah kode item, nama penjual, gambar/acuan, tinggi profil, lebar sayap, tebal badan, tebal sayap, panjang, massa yang dinyatakan beserta dasar acuannya, mutu/kelas, standar/edisi, kondisi permukaan, jumlah, penandaan, sertifikat, waktu pasok, dan penyimpangan. Bila angka berasal dari katalog, tandai sebagai data katalog; bila diukur pada barang, catat metode serta alat ukurnya.
 
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
+Sayap adalah bagian lebar di atas dan bawah profil, sedangkan badan adalah bagian tegak yang menghubungkan keduanya. Perbandingan proporsi sayap dan badan berguna untuk mengenali perbedaan bentuk, tetapi tidak cukup untuk memutuskan kemampuan. Massa katalog juga bukan vonis tunggal; ia terikat pada tabel geometri, pembulatan, panjang, dan acuan produk. Kawan Besi.co.id, jangan mengganti barang karena “beratnya hampir sama” tanpa mencocokkan semua dimensi dan persyaratan yang relevan.
 
-### KR-05
+[ISO 630-1](https://www.iso.org/standard/73841.html) menunjukkan bahwa kondisi pasok umum untuk produk struktur canai panas masih perlu dihubungkan dengan bentuk, bagian standar, mutu, dimensi, dan persyaratan pesanan. Artinya, kata “baja struktur” pun belum merupakan spesifikasi barang lengkap.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+## Standar, sertifikat, dan penandaan
 
-### KR-09
+Katalog publik [profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) dan [produk baja datar](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=) menunjukkan bahwa keluarga produk memengaruhi dokumen yang dicari. Catatan [SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018) dan [SNI 9172:2023](https://pesta.bsn.go.id/produk/detail/14592-91722023) juga mengingatkan bahwa satu catatan produk tidak menjadi aturan untuk semua profil, pelat, kawat, sambungan, atau pekerjaan terpasang. Gunakan katalog untuk menemukan identitas dokumen, lalu cek edisi, ruang lingkup, dan ketentuan pesanan yang benar.
 
-- **Original sources:** [AISC HSS resources](https://www.aisc.org/aisc/solutions-center/hss/) and [AISC structural-product EDI naming convention](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf)
-- **Purpose for this article:** Support profile anatomy and naming comparisons while preventing U.S. designations from being treated as Indonesian supply or design rules.
-- **Safe grounded facts:** A section label should be unpacked into actual geometry, axes, dimensions, thickness, mass, material/product standard, and certificate. Similar seller terms or matching outside dimensions do not establish grade, tolerance, capacity, or interchangeability.
-- **Limits:** U.S. ASTM/AISC examples are illustrative only. Use current Indonesian/project profile tables, complete standards, mill data, and licensed design through G-04/G-06.
+Sertifikat harus bisa dihubungkan dengan barang: nomor identitas, penandaan, jumlah, ukuran, dan kelompok pasoknya. Dokumen yang tampak resmi tetapi tidak dapat dicocokkan dengan batang yang tiba tidak membuktikan sifat batang tersebut. Jika penandaan hilang, jumlah terbagi, atau sertifikat tidak jelas kaitannya, pisahkan barang dan minta klarifikasi pemasok sebelum menjadikannya dasar keputusan.
 
-### KR-11
+Rujukan [AISC mengenai HSS](https://www.aisc.org/aisc/solutions-center/hss/) dan [konvensi penamaan produk struktur](https://www.aisc.org/globalassets/aisc/manual/v15.0-shapes-database/naming-convention-for-structural-steel-products-for-use-in-electronic-data-interchange-edi.pdf) berguna untuk memahami bahwa nama penampang perlu dibuka menjadi geometri, sumbu, dimensi, massa, material, dan dokumen. Contoh Amerika itu bukan tabel pasok atau aturan desain Indonesia.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+## Contoh membandingkan dua penawaran
 
-## Evidence gates
+Misalkan dua pemasok sama-sama menulis “H-beam 300”. Jangan memilih dari harga per batang dulu. Minta masing-masing menunjukkan ukuran lengkap, panjang, massa dan dasar massanya, mutu, standar/edisi, jumlah, kondisi pasok, serta sertifikat yang akan disediakan. Jika salah satu menawarkan panjang berbeda atau toleransi tidak sama, pisahkan baris perbandingan; jangan memaksa keduanya menjadi satu angka harga.
 
-- **TOPIC-GATE:** G-01, G-04, G-06
+Setelah data barang setara, masih ada pertanyaan proyek: apakah panjang cocok dengan rencana pemotongan, apakah sambungan dan tumpuan tetap sesuai, apakah ada perubahan beban atau fungsi, dan siapa yang mengesahkan substitusi. Halaman [penyediaan H-beam](/jual-h-beam-yogyakarta.html) dapat membantu pembeli memahami kategori barang yang ditawarkan, tetapi gambar dan perancang proyek tetap menentukan kecocokan teknis.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Batas antara pembelian dan desain
 
-## Internal-link plan
+Tabel dimensi, sertifikat, atau foto profil bukan rancangan struktur. Rekaman publik [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) menunjukkan lapisan aturan bangunan, desain struktur, dan desain baja canai dingin tidak sama dengan brosur produk. Kapasitas, kestabilan, sambungan, jalur gaya, keadaan sementara, dan keselamatan tetap membutuhkan fakta proyek serta penilaian kompeten.
 
-### Existing local routes
+Teman Besi.co.id, bila pemasok menawarkan ukuran pengganti, jangan menilainya dari tampilan “lebih besar” atau massa yang lebih berat. Tahan keputusan sampai perubahan dibandingkan terhadap gambar, persyaratan, dan persetujuan pihak yang berwenang.
 
-- `/jual-h-beam-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-h-beam-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-h-beam-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-h-beam-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-h-beam-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-h-beam-way-kanan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Kesalahan yang paling sering terjadi
 
-### Planned sibling articles
+Kesalahan pertama adalah menganggap nama penjual sebagai spesifikasi. Kesalahan kedua ialah membandingkan harga per kilogram tanpa mengecek panjang, massa acuan, toleransi, mutu, dokumen, dan pengiriman. Kesalahan ketiga ialah memakai sertifikat dari satu kelompok barang untuk membenarkan kelompok lain. Semua jalan pintas itu dapat menghasilkan pembelian yang murah di awal tetapi sulit dipasang atau tidak dapat diterima kemudian.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sebelum memesan, minta pemasok menuliskan setiap penyimpangan secara terpisah. Untuk penerimaan, cocokkan barang nyata dengan tabel pembelian, daftar kemasan, penandaan, ukuran, dan dokumen. Jika ada perbedaan, jangan mencampur barang itu dengan stok siap pakai sampai statusnya diputuskan.
 
-- `BES-04-A01` → `/artikel/peta-profil-struktur-baja.html` — Peta Profil WF, H, I, T, UNP, CNP, dan Siku
-- `BES-04-A03` → `/artikel/inp-unp-dan-cnp.html` — INP, UNP, dan CNP: Kanal yang Tidak Boleh Dipertukarkan dari Nama
-- `BES-04-A04` → `/artikel/besi-siku-dan-t-section.html` — Besi Siku dan T-Section: Orientasi Mengubah Perilaku
+## Pegangan saat memilih
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+WF dan H-beam dapat menjadi sebutan yang membantu percakapan, tetapi bukan dasar untuk menyatakan dua produk sama. Bandingkan geometri aktual, massa dan dasar acuannya, mutu, standar, sertifikat, kondisi pasok, serta kebutuhan gambar sebelum menyamakan penawaran.
 
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “WF dan H-Beam: Cara Membandingkan Data, Bukan Sebutan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah membuat tabel perbandingan satu baris untuk satu item dan mengirimkannya ke pihak teknis jika ada usulan pengganti. Kawan Besi.co.id, aturan praktisnya: jika data tidak bisa dibandingkan kolom demi kolom, profil belum siap dinyatakan setara.

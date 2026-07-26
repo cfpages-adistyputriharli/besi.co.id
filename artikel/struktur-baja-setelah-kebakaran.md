@@ -2,8 +2,8 @@
 article_id: BES-12-A05
 title: "Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas"
 slug: "struktur-baja-setelah-kebakaran"
-description: "Cover exposure history, deformation, protection condition, material records, connections, samples/tests, temporary controls, and assessment options"
-status: outline
+description: "Langkah awal setelah kebakaran untuk menjaga area aman, melestarikan bukti, dan menyiapkan penilaian struktur serta kebakaran yang kompeten."
+status: draft
 publication_date: "2026-04-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/struktur-baja-setelah-kebakaran.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
@@ -27,37 +28,17 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Setelah kebakaran, baja yang masih berdiri atau tampak utuh belum tentu aman dipakai kembali. Warna, jelaga, atau satu perkiraan suhu tidak cukup untuk menyatakan kekuatan yang tersisa, kelayakan perbaikan, atau izin masuk. Tindakan pertama adalah mengikuti arahan otoritas darurat, membatasi akses bila kondisi belum dinyatakan aman, lalu menjaga bukti agar penilaian kompeten bisa dilakukan.
 
-- **Writer task:** Expand this file into one complete article answering: “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”
-- **Reader and situation:** Owner after a fire or severe heating
-- **Reader outcome:** Cover exposure history, deformation, protection condition, material records, connections, samples/tests, temporary controls, and assessment options
-- **Primary intent:** Plan post-fire evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve reoccupation, repair, or reuse; emergency authority and competent engineer own disposition
-- **Final public route:** `/artikel/struktur-baja-setelah-kebakaran.html`
-- **Appointed CMS date:** `2026-04-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: jangan buru-buru membersihkan, meluruskan, mengelas, membongkar, atau memakai kembali area terdampak. Kumpulkan riwayat kejadian, foto kondisi awal, gambar dan data material, kondisi pelindung kebakaran, deformasi, sambungan, serta catatan pemadaman dan pendinginan. Data itu membantu insinyur struktur dan ahli kebakaran menentukan pemeriksaan berikutnya. Artikel ini tidak menyetujui masuk kembali, perbaikan, atau penggunaan ulang.
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek ini dipakai sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,132 +49,48 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Amankan orang dan area lebih dulu
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ikuti arahan pemadam, petugas darurat, dan pengelola lokasi. Batasi akses ke area yang belum diperiksa, terutama bila ada perubahan bentuk, bagian menggantung, sambungan rusak, puing, air pemadaman, atau jalur keluar yang terganggu. Jangan naik ke lantai, menggantung beban, mengaktifkan kembali mesin, atau memulai pekerjaan panas hanya untuk melihat “masih kuat atau tidak”.
 
-### KR-11
+Kontrol sementara dapat berupa pembatasan akses dan pengamanan sesuai arahan pihak berwenang, bukan keputusan untuk menyangga, membongkar, atau memperbaiki sendiri. Teman Besi.co.id, keselamatan tidak dapat disimpulkan dari tampilan baja yang masih tegak. Bila ada keraguan, perlakukan area sebagai belum siap digunakan sampai penilaian kompeten selesai.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+## Bukti yang perlu dijaga
 
-### KR-24
+Sebelum pembersihan mengubah kondisi, buat catatan waktu kejadian, lokasi api, perkiraan lama paparan, bahan atau aktivitas di sekitar, tindakan pemadaman dan pendinginan, serta bagian yang terkena langsung atau tidak langsung. Foto dan video perlu menunjukkan konteks, lokasi elemen, sambungan, pelindung, perubahan bentuk, kerusakan penutup, dan penandaan bila masih dapat dibaca. Simpan gambar, spesifikasi, sertifikat material, dokumen fabrikasi, perubahan sebelumnya, serta riwayat penggunaan.
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+Catat pula apa yang belum diketahui. Misalnya, apakah area tertentu tertutup pelindung api, apakah sambungan berubah, atau apakah ada pemotongan/perbaikan lama. Jangan mengisi kekosongan itu dari warna baja. Panduan [NIST tentang ketahanan api struktur](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [perilaku struktur baja dalam kebakaran](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), dan [ISO 24679-1](https://www.iso.org/standard/72893.html) menempatkan riwayat kejadian, kondisi pelindung, deformasi, sambungan, catatan bahan/fabrikasi, survei, serta dasar sampling atau pengujian sebagai bagian penilaian. Ketiganya tidak memberi aturan umum bahwa struktur aman setelah api padam.
 
-### KR-25
+## Apa yang dinilai oleh tenaga kompeten
 
-- **Original sources:** [NIST best-practice guidance for structural fire resistance](https://www.nist.gov/publications/best-practice-guidelines-structural-fire-resistance-design-concrete-and-steel-buildings), [NIST white paper on fire behavior of steel structures](https://www.nist.gov/publications/white-paper-fire-behavior-steel-structures), and [ISO 24679-1:2019 — performance of structures in fire](https://www.iso.org/standard/72893.html)
-- **Purpose for this article:** Support fire-design and post-fire evidence articles without publishing a generic steel temperature or reoccupation rule.
-- **Safe grounded facts:** Post-fire work needs incident history, duration/location indicators, firefighting/cooling, protection condition, deformation, connections, material/fabrication records, temporary controls, survey, sampling/testing rationale, and competent disposition.
-- **Limits:** Do not infer fire rating, retained properties, safety, repair, or reuse from appearance, color, or one temperature estimate. Resolve Indonesian fire/building rules and project assessment through G-06/G-11/G-14.
+Penilaian struktur eksisting biasanya menghubungkan tujuan dan akibat keputusan dengan dokumen, survei, identitas bahan, geometri, riwayat beban/penggunaan, perubahan, kerusakan, pemantauan atau uji, analisis, serta tindakan sementara. Pendekatan ini tercermin dalam [ISO 13822](https://www.iso.org/standard/46556.html). Untuk kasus kebakaran, detail tambahan tetap diperlukan, termasuk aturan Indonesia dan keadaan proyek yang sebenarnya.
 
-### KR-26
+Pemeriksa dapat perlu membedakan area yang terkena panas, area yang terkena air pemadaman, sambungan, elemen penopang, pelindung, dan bagian yang aksesnya terbatas. Metode pengukuran, contoh bahan, atau pengujian bukan langkah seragam untuk semua bangunan; tujuannya, lokasi, dampak pengambilan contoh, prosedur, dan pihak yang memutuskan harus jelas terlebih dahulu.
 
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
+Kawan Besi.co.id, pemeriksaan bukan semata mencari besi yang berubah warna. Ia menyusun cerita teknis dari kejadian, kondisi aktual, bukti bahan, dan fungsi struktur agar keputusan tidak dibuat dari satu tanda saja.
 
-## Evidence gates
+## Batas antara catatan produk dan keputusan struktur
 
-- **TOPIC-GATE:** G-02, G-06, G-11, G-14
+Sertifikat material, tabel profil, atau arsip fabrikasi berguna, tetapi bukan rancangan penilaian pascakebakaran. Rekaman [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) memperlihatkan bahwa aturan bangunan, desain struktur, dan dokumen produk adalah lapisan berbeda. Kapasitas, kestabilan, sambungan, jalur gaya, serta kondisi sementara membutuhkan fakta proyek dan penilaian yang berwenang.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jangan menyimpulkan baja pasti dapat dipakai ulang karena tidak tampak melengkung, atau pasti harus dibuang karena tampak berubah warna. Kedua kesimpulan itu melompati bukti yang diperlukan. Sobat Besi.co.id, keputusan perbaikan atau penggunaan ulang hanya boleh mengikuti disposisi—keputusan tertulis setelah penilaian—dari pihak yang kompeten dan otoritas terkait.
 
-## Internal-link plan
+## Contoh tindakan yang lebih tertib
 
-### Existing local routes
+Misalkan api terjadi di satu sisi bangunan dan pemadaman menggunakan banyak air. Alih-alih langsung mengecat ulang area yang tampak paling kotor, buat peta lokasi: bagian yang terkena api, bagian yang terkena air, komponen yang tampak berubah, dokumen yang tersedia, dan bagian yang tidak dapat diakses. Beri nomor pada foto dan hubungkan dengan gambar bila ada. Kemudian serahkan paket itu kepada penilai.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jika sebuah sambungan atau elemen memperlihatkan retak, korosi, perubahan bentuk, atau kerusakan yang belum dipahami, jangan menggerinda atau mengelasnya sebelum dicatat dan diperiksa. Rujukan [FHWA tentang lelah dan patah](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [pusat sumber inspeksi](https://www.fhwa.dot.gov/bridge/inspection/), serta [program pemeriksaan retak](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm) membantu menjelaskan kebutuhan identitas detail, riwayat, kondisi, inspeksi, dan evaluasi kompeten. Rujukan jembatan tersebut bukan aturan bangunan Indonesia dan tidak boleh dipakai untuk menetapkan sisa umur atau cara perbaikan gedung.
 
-### Planned sibling articles
+## Kesalahan yang memperburuk keadaan
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan umum ialah membersihkan jelaga sebelum kondisi awal terdokumentasi, mencampur puing atau komponen yang bisa menjadi bukti, memperbaiki bentuk secara cepat, dan membuka area karena kegiatan operasional mendesak. Kesalahan lain ialah menganggap satu pengukuran suhu atau satu sertifikat bahan cukup untuk menentukan keamanan setelah kebakaran.
 
-- `BES-12-A03` → `/artikel/load-path-dan-connection-interface-baja.html` — Load Path dan Connection Interface pada Struktur Baja
-- `BES-12-A04` → `/artikel/fatigue-dan-fracture-struktur-baja.html` — Fatigue, Fracture, dan Detail Kritis pada Struktur Eksisting
-- `BES-12-A06` → `/artikel/modifikasi-struktur-baja-eksisting.html` — Menambah atau Mengubah Struktur Baja Eksisting
+Simpan catatan siapa melakukan apa dan kapan, termasuk pemadaman, pendinginan, pemindahan barang, serta perubahan sementara. Bila kondisi memburuk, ada bagian jatuh, timbul retak baru, atau fakta kejadian berbeda dari catatan awal, hentikan akses atau pekerjaan yang terdampak dan laporkan kepada pihak yang berwenang.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Pegangan setelah api padam
 
-## Jawaban singkat dan salah paham utama
+Setelah kebakaran, tujuan pertama bukan mengembalikan operasi secepat mungkin, melainkan menjaga orang aman dan memberi penilai data yang tidak rusak. Kumpulkan riwayat paparan, kondisi pelindung, deformasi, sambungan, gambar, identitas bahan, foto, serta riwayat pemadaman; lalu minta penilaian struktur dan kebakaran yang kompeten.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kebakaran dan Struktur Baja: Data yang Diperlukan setelah Terpapar Panas”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah membuat daftar bukti dan pembatasan akses bersama pengelola lokasi serta otoritas darurat. Kawan Besi.co.id, aturan praktisnya: penampilan baja setelah api tidak pernah cukup untuk menyatakan aman, layak diperbaiki, atau layak dipakai ulang.
