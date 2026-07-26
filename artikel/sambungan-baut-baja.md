@@ -1,9 +1,10 @@
 ---
 article_id: BES-10-A06
-title: "Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record"
+title: "Sambungan Baut Baja: Mutu, Kecocokan, Pengencangan, dan Catatan Pemeriksaan"
 slug: "sambungan-baut-baja"
-description: "Cover bolt/nut/washer identity, storage, hole/fit-up, surface condition, tightening method, access, marking, inspection, and traceability"
-status: outline
+description: "Panduan memeriksa identitas baut, mur, dan ring, kecocokan komponen, cara pengencangan, serta catatan pemeriksaan sambungan baja tanpa menebak ketentuan proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,22 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/sambungan-baut-baja.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/68893.html"
-  - "https://www.iso.org/standard/83737.html"
-  - "https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/"
-  - "https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Sambungan Baut Baja: Mutu, Kecocokan, Pengencangan, dan Catatan Pemeriksaan
 
-# Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record
+Halo, Sobat Besi.co.id!
 
-## Assignment lock
+Sambungan baut yang baik bukan sambungan yang sekadar terlihat rapat. Yang perlu dipastikan adalah baut, mur, dan ringnya benar-benar dapat dikenali; komponen yang disambung sudah pas posisinya; cara pengencangannya mengikuti dokumen yang berlaku; lalu semuanya tercatat sehingga orang berikutnya tidak perlu menebak-nebak.
 
-- **Writer task:** Expand this file into one complete article answering: “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”
-- **Reader and situation:** Installer or inspector assembling steel
-- **Reader outcome:** Cover bolt/nut/washer identity, storage, hole/fit-up, surface condition, tightening method, access, marking, inspection, and traceability
-- **Primary intent:** Manage bolted-joint evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set bolt grade, torque, or capacity; BES-12-A03 and approved procedure own design/execution
-- **Final public route:** `/artikel/sambungan-baut-baja.html`
-- **Appointed CMS date:** `2026-03-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ini penting karena baut yang tampak sama belum tentu satu paket yang sama, dan baut yang sudah diputar keras belum tentu sudah memenuhi kebutuhan sambungan. Mutu atau *grade* baut, nilai pengencangan, ukuran lubang, kondisi permukaan, urutan kerja, sampai kriteria penerimaan harus mengikuti gambar, spesifikasi, dan prosedur proyek yang disetujui. Artikel ini membantu menata bukti pemeriksaannya, bukan menetapkan angka pengencangan atau kapasitas sambungan.
 
-## Opening instructions
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+_Aset lokal proyek; ilustrasi ini bukan dokumentasi proyek tertentu._
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,138 +41,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Mulai dari identitas, bukan dari kunci
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Sebelum alat pengencang dipakai, pisahkan dulu pertanyaan dasarnya: komponen apa yang ada di tangan kita, dan untuk sambungan mana komponen itu diperuntukkan? Catat tanda pada baut dan mur bila ada, ukuran nominal, jenis ring, jumlah kemasan atau kelompok penerimaan, serta kaitannya dengan lokasi sambungan. Catatan ini yang disebut ketertelusuran: kemampuan menelusuri kembali asal dan riwayat komponen saat ada keraguan di kemudian hari.
 
-### KR-12
+Jangan menyimpulkan mutu baut dari warna, bentuk kepala, atau kebiasaan pemasok. Tanda komponen perlu dicocokkan dengan dokumen penerimaan material dan persyaratan proyek. Bila tanda tidak terbaca, campur dengan kelompok lain, atau dokumen pendukungnya tidak tersedia, tahan pemakaiannya sampai ada keputusan pihak teknis yang berwenang.
 
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
+Kawan Besi.co.id, langkah ini mungkin terasa lambat ketika pekerjaan mengejar jadwal. Tetapi mencari asal satu baut setelah rangka tertutup, dicat, atau berada di ketinggian jauh lebih mahal daripada memberi identitas sejak awal.
 
-### KR-13
+## Apa saja yang termasuk pemeriksaan sambungan baut
 
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
+Pemeriksaan sambungan baut tidak berhenti pada baut, mur, dan ring. Ia mencakup hubungan antara gambar yang disetujui, komponen yang diterima, kondisi pelat atau profil, lubang, akses alat, metode kerja, hasil pemeriksaan, dan keputusan bila ada penyimpangan.
 
-### KR-14
+Istilah *fit-up* sering dipakai di lapangan. Dalam bahasa sederhana, ini adalah kecocokan dan posisi bagian-bagian sebelum dikencangkan: elemen yang benar bertemu di lokasi yang benar, lubangnya selaras sesuai rancangan, bidang sambungannya tidak dipaksa, dan alat masih bisa mencapai titik kerja tanpa membuat pekerja mengambil jalan pintas. Kecocokan yang buruk tidak otomatis boleh "ditolong" dengan memperbesar lubang, memaksa baut masuk, atau mengganjal tanpa persetujuan tertulis.
 
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
+Begitu pula dengan *inspection record* atau catatan pemeriksaan. Catatan yang berguna menjawab: sambungan mana yang diperiksa, kapan, dengan dokumen acuan apa, siapa yang memeriksa, apa yang ditemukan, dan apa tindak lanjutnya. Bukan sekadar kolom tanda tangan di akhir pekerjaan.
 
-### KR-19
+## Urutan kerja yang membuat bukti tidak putus
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+Urutan sederhana berikut membantu tim pemasangan dan pemeriksa berbicara dengan bahasa yang sama.
 
-### KR-20
+1. Cocokkan lokasi sambungan dengan gambar dan revisi yang disetujui.
+2. Kenali baut, mur, dan ring; pisahkan kelompok yang tidak dapat dibuktikan asalnya.
+3. Periksa kebersihan, kerusakan yang terlihat, dan kondisi bidang sambungan sesuai ketentuan proyek.
+4. Pastikan bagian yang disambung sudah berada pada posisi yang direncanakan dan alat dapat dipakai dengan aman.
+5. Terapkan metode pengencangan yang ditetapkan proyek, termasuk urutan, alat, dan pemeriksaan yang diminta.
+6. Catat hasilnya per lokasi atau kelompok kerja, termasuk penyimpangan dan penanganannya.
 
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
+Pengencangan bukan perlombaan membuat baut terasa paling keras. Cara pengencangan dapat bergantung pada jenis sambungan, detail rancangan, kondisi komponen, dan prosedur yang disetujui. Karena itu, angka torsi, jumlah putaran, atau tanda penerimaan tidak boleh disalin dari proyek lain. **[NEEDS REVIEW PROYEK: minta gambar, spesifikasi, dan prosedur pengencangan yang disetujui sebelum menetapkan metode atau nilai pemeriksaan.]**
 
-## Evidence gates
+Untuk pekerjaan konstruksi, pengendalian seperti ini juga tidak berdiri sendiri. Sistem manajemen keselamatan konstruksi menuntut pengelolaan risiko dan pengendalian pekerjaan sesuai konteks proyek; satu daftar periksa umum tidak dapat menggantikan metode kerja, pengawasan, dan dokumen lokasi. Lihat [Permen PUPR Nomor 10 Tahun 2021 tentang SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi) sebagai rujukan lingkup, lalu cocokkan penerapannya dengan dokumen proyek dan peninjauan personel yang kompeten.
 
-- **TOPIC-GATE:** G-07, G-08, G-12
+## Hal yang sering mengubah keputusan di lapangan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Ada beberapa kondisi yang membuat jawaban "lanjut saja" menjadi berbahaya. Contohnya, baut dan mur datang dari kemasan berbeda tanpa penandaan yang jelas; lubang tidak bertemu sehingga baut harus dipukul masuk; ring yang dipasang tidak sesuai daftar komponen; permukaan sambungan berubah karena karat, cat, minyak, atau pekerjaan sebelumnya; atau alat tidak dapat menjangkau baut dengan posisi kerja yang aman.
 
-## Internal-link plan
+Teman Besi.co.id, kondisi-kondisi itu bukan otomatis berarti sambungan gagal. Namun semuanya adalah alasan untuk berhenti sejenak, mencatat fakta, dan meminta arahan berdasarkan dokumen yang menguasai pekerjaan tersebut. Keputusan yang baik dimulai dari masalah yang ditulis jelas, bukan dari asumsi bahwa semua baut bisa diperlakukan sama.
 
-### Existing local routes
+Penyimpanan juga berpengaruh pada kemampuan membuktikan identitas. Jaga komponen tetap terpisah dan mudah dikenali, terlindung dari kondisi yang dapat menimbulkan keraguan terhadap kebersihan atau kerusakannya, dan jangan mencampur sisa material hanya demi merapikan gudang. Bila prosedur proyek memiliki aturan khusus penyimpanan atau pemeriksaan ulang, aturan itulah yang diikuti.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan yang lebih aman
 
-### Planned sibling articles
+Bayangkan satu sambungan balok-kolom sudah siap dirakit, tetapi sebagian baut tidak lagi memiliki label kemasan dan satu lubang tampak tidak segaris. Respons yang aman bukan memilih baut yang "rasanya cocok" lalu memaksa pemasangan.
 
-These are future routes. Do not link them as live until their HTML exists.
+| Temuan | Tindakan awal | Bukti yang perlu dicari |
+|---|---|---|
+| Identitas komponen tidak lengkap | Pisahkan dan tahan dari pemasangan | Dokumen penerimaan, tanda komponen, keputusan teknis |
+| Lubang atau posisi tidak cocok | Jangan ubah sendiri | Gambar yang disetujui, hasil ukur, instruksi perbaikan |
+| Alat tidak punya akses aman | Hentikan metode sementara | Metode kerja, akses kerja, arahan pengawas |
+| Pengencangan sudah dilakukan tetapi tidak ada catatan | Tandai lokasi untuk penelusuran | Prosedur, catatan pemasangan, keputusan pemeriksaan |
 
-- `BES-10-A04` → `/artikel/cacat-las-dan-ndt.html` — Cacat Las yang Terlihat dan yang Memerlukan NDT
-- `BES-10-A05` → `/artikel/distorsi-dan-sequence-pengelasan.html` — Distorsi, Residual Stress, dan Sequence Pengelasan
+Tabel ini bukan kriteria penerimaan. Fungsinya hanya menjaga alur keputusan: temuan dicatat, bukti dicari, lalu pihak yang berwenang menentukan apakah pekerjaan dapat diteruskan, diperbaiki, atau diperiksa lebih lanjut.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Jalan pintas yang sering merusak catatan
 
-## Jawaban singkat dan salah paham utama
+Jalan pintas paling umum adalah menganggap semua baut dengan ukuran serupa dapat dipertukarkan, lalu mengencangkannya sampai terasa cukup. Masalahnya, rasa pada tangan atau suara alat tidak menyimpan informasi tentang mutu komponen, pasangan mur dan ring, kondisi sambungan, atau prosedur yang seharusnya dipakai.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas lain adalah membuat catatan sekaligus di akhir hari. Ketika pekerjaan sudah berpindah lokasi, orang mudah lupa sambungan mana yang diperiksa dan apa yang sebenarnya terjadi. Lebih aman bila catatan dibuat saat titik kerja masih dapat dikenali: nomor atau lokasi sambungan, dokumen acuan, identitas komponen bila tersedia, metode yang dipakai, pemeriksa, temuan, serta tindak lanjut.
 
-## Definisi dan batas objek
+Sobat Besi.co.id, catatan seperti ini bukan birokrasi untuk mempersulit pemasangan. Ia adalah cara sederhana agar masalah kecil tidak berubah menjadi debat besar saat pekerjaan sudah tertutup atau tanggung jawab sudah berpindah tangan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Aturan kerja yang bisa langsung dipakai
 
-## Cara kerjanya
+Untuk setiap sambungan baut, jangan mulai dari pertanyaan "sudah kencang belum?" Mulailah dari "apakah komponen, posisi, metode, dan buktinya sudah cocok dengan dokumen proyek?" Jika salah satu jawabannya belum jelas, tandai lokasi, tahan keputusan yang berisiko, dan minta peninjauan teknis.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Baut: Grade, Fit-Up, Tightening, dan Inspection Record”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, mutu komponen, kecocokan pemasangan, pengencangan, dan catatan pemeriksaan harus diperlakukan sebagai satu rangkaian. Artikel ini tidak menetapkan grade baut, torsi, kapasitas, atau kriteria penerimaan karena semuanya memerlukan bukti proyek yang tepat. Aturan praktisnya: **jangan menutup sambungan sebelum identitas, metode, hasil pemeriksaan, dan tindak lanjutnya dapat ditelusuri.**
