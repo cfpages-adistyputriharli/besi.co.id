@@ -48,7 +48,7 @@ Jadi, tujuan dokumen ini bukan membuktikan sendiri bahwa dua material setara. Do
 
 ![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-Kredit gambar: aset lokal proyek.
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 

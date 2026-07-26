@@ -46,7 +46,7 @@ Jawaban singkatnya: jangan memilih hanya dari sebutan “pipa”, warna, ada-tid
 
 ![Ilustrasi Besi WF 1](/wp-content/uploads/2024/01/Besi-WF-1.jpg)
 
-_Gambar: aset lokal proyek._
+_Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu._
 
 ## Bedakan fungsi sebelum membandingkan spesifikasi
 

@@ -1,9 +1,10 @@
 ---
 article_id: BES-03-A04
-title: "Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih"
+title: "Berat Teoretis, Timbangan, dan Faktur (Invoice): Cara Menelusuri Selisihnya"
 slug: "rekonsiliasi-berat-baja-dan-invoice"
-description: "Compare theoretical mass, weighbridge records, tare, piece count, tolerances, moisture/packaging, rounding, and contract basis"
-status: outline
+description: "Panduan mencocokkan berat teoretis, catatan timbangan, tara, jumlah batang, dan dasar penghitungan pada faktur tanpa mengabaikan dokumen kontrak."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,21 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/rekonsiliasi-berat-baja-dan-invoice.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/78322.html"
-  - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
   - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Berat Teoretis, Timbangan, dan Faktur (Invoice): Cara Menelusuri Selisihnya
 
-# Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih
+Halo, Sobat Besi.co.id! Selisih antara berat pada faktur (*invoice*), perhitungan tabel, dan hasil timbang tidak otomatis berarti salah satu pihak curang. Tiga angka itu bisa memang lahir dari dasar yang berbeda: berat teoretis dari ukuran nominal, berat timbang dari muatan yang benar-benar melewati timbangan, dan faktur dari dasar penagihan yang disepakati.
 
-## Assignment lock
+Jadi, jangan mulai dari debat angkanya. Mulailah dari pertanyaan: angka mana yang sedang dibandingkan, untuk barang yang mana, pada saat kapan, dan dengan aturan apa? Bila identitas barang, satuan, tara, serta dasar kontrak cocok, selisihnya dapat ditelusuri. Bila salah satu dokumen itu tidak ada, keputusan penerimaan atau pembayaran harus ditahan untuk ditinjau pihak yang berwenang.
 
-- **Writer task:** Expand this file into one complete article answering: “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”
-- **Reader and situation:** Buyer finding mass differences
-- **Reader outcome:** Compare theoretical mass, weighbridge records, tare, piece count, tolerances, moisture/packaging, rounding, and contract basis
-- **Primary intent:** Reconcile quantity evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not determine payment entitlement; BES-13-A03 owns commercial terms
-- **Final public route:** `/artikel/rekonsiliasi-berat-baja-dan-invoice.html`
-- **Appointed CMS date:** `2025-09-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,133 +40,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `besi baja 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu._
 
-### KR-03
+## Hasil yang perlu dicapai sebelum selisih diputuskan
 
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
+Tujuannya bukan mencari angka yang paling enak dipakai, melainkan membuat satu jejak bukti yang bisa diperiksa ulang. Minimal, tim penerima perlu mengetahui identitas produk atau lot, jumlah unit, ukuran yang dipakai, catatan timbang bruto dan netto, serta dokumen yang menjadi dasar invoice. Berat bruto adalah berat kendaraan atau kemasan beserta muatannya; berat netto adalah berat barang setelah **tara**, yaitu berat kendaraan, wadah, atau kemasan yang dikecualikan, dikurangkan.
 
-### KR-08
+Berat teoretis juga perlu ditempatkan dengan tepat. Ia adalah hasil hitung berdasarkan geometri, panjang, asumsi densitas, dan aturan pembulatan dari tabel atau spesifikasi yang dirujuk; bukan pengganti hasil timbang aktual. Untuk pipa baja, misalnya, tabel dimensi dan massa memiliki lingkup sendiri dalam [ISO 4200](https://www.iso.org/standard/9985.html), sementara [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) juga merupakan rujukan dimensi pipa baja tempa las maupun tanpa sambungan. Nama nominal yang sama belum cukup untuk menyamakan dasar hitung, ukuran terukur, dan dasar tagih.
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+Sebelum menyimpulkan apa pun, catat juga siapa yang berwenang menerima barang dan siapa yang berwenang menyetujui penyelesaian selisih. Artikel ini membantu menata bukti kuantitas, bukan menentukan hak pembayaran. Dasar niaga, toleransi yang diizinkan, dan keputusan pembayaran tetap harus mengikuti kontrak atau pesanan pembelian yang berlaku.
 
-### KR-15
+## Pisahkan dulu objek yang sedang dibandingkan
 
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
+Kesalahan yang sering terjadi adalah membandingkan satu total di invoice dengan total lain di slip timbang tanpa memastikan keduanya mewakili kumpulan barang yang sama. Satu truk bisa berisi beberapa ukuran; satu invoice bisa mencakup beberapa pengiriman; dan satu slip timbang mungkin mencatat kendaraan, bukan setiap batang atau bundel.
 
-### KR-23
+Buat batas pemeriksaan yang sederhana: satu nomor pengiriman, satu daftar barang, satu periode timbang, dan satu dasar satuan. Apakah yang ditagihkan kilogram, ton, batang, atau panjang? Jika invoice berbasis jumlah batang, selisih berat tidak langsung membuktikan jumlah batang salah. Sebaliknya, bila invoice berbasis berat netto, jumlah batang saja belum cukup membuktikan totalnya benar.
 
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
+Kawan Besi.co.id, periksa pula apakah material sudah dipotong, dibengkokkan, atau dirakit sebelum ditimbang. Proses termal seperti pemotongan memiliki persyaratan mutu dan pengukuran yang bergantung pada proses, material, ketebalan, serta kebutuhan gambar; standar umum tidak boleh dipakai sembarangan sebagai satu angka toleransi untuk semua pekerjaan. [ISO 9013](https://www.iso.org/standard/60321.html) membahas pemotongan termal, sedangkan [ISO 13920](https://www.iso.org/standard/86032.html) membahas toleransi umum untuk konstruksi las. Keduanya bukan alasan untuk mengasumsikan potongan atau rakitan tertentu otomatis boleh berbeda sekian persen.
 
-## Evidence gates
+## Kumpulkan bukti dalam urutan yang bisa dicocokkan
 
-- **TOPIC-GATE:** G-01, G-04, G-13
+Mulailah dari dokumen sumber, bukan dari spreadsheet akhir. Susun pesanan pembelian atau kontrak, surat jalan, daftar kemasan bila ada, invoice, slip timbang masuk dan keluar, serta daftar jumlah batang atau bundel. Lalu cocokkan nomor kendaraan, tanggal, nomor dokumen, identitas produk, dan tanda lot atau heat bila memang dicantumkan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Setelah itu, buat kolom terpisah untuk tiga jenis angka:
 
-## Internal-link plan
+| Yang dicatat | Pertanyaan pemeriksaan |
+| --- | --- |
+| Berat teoretis | Tabel atau spesifikasi apa yang dirujuk, ukuran dan panjang mana yang dipakai, serta bagaimana pembulatannya? |
+| Berat timbang | Apakah slip memperlihatkan bruto, tara, dan netto untuk kendaraan atau wadah yang benar? |
+| Kuantitas fisik | Apakah jumlah batang, bundel, atau panjang teridentifikasi dan cocok dengan dokumen pengiriman? |
 
-### Existing local routes
+Kemasan, pengikat, pallet, atau wadah dapat memengaruhi angka bruto. Karena itu jangan mengurangi tara berdasarkan perkiraan setelah barang terlanjur diturunkan. Gunakan catatan yang dapat dilacak, atau tandai data tersebut belum cukup untuk rekonsiliasi. Jika metode sampling atau pemeriksaan dipakai untuk mewakili satu lot, rencananya harus menyebut populasi lot, karakteristik yang diperiksa, cara memilih sampel, aturan keputusan, penanggung jawab, dan rekamannya. [ISO 2859-1](https://www.iso.org/standard/85464.html) sendiri adalah standar sampling inspeksi lot demi lot; abstraknya bukan dasar untuk memilih jumlah sampel atau menerima lot tertentu pada proyek Anda.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Telusuri penyebab selisih satu per satu
 
-### Planned sibling articles
+Sesudah data berada pada unit yang sama, telusuri selisih dengan urutan yang membuat penyebabnya tidak tercampur.
 
-These are future routes. Do not link them as live until their HTML exists.
+1. Pastikan barang yang dibandingkan identik: nomor pengiriman, jenis, ukuran, dan jumlah kemasan atau batangnya.
+2. Cocokkan dasar invoice dengan pesanan atau kontrak: apakah menggunakan berat timbang, berat teoretis, jumlah unit, atau dasar lain yang tertulis.
+3. Periksa slip timbang: apakah angka netto benar-benar berasal dari bruto dikurangi tara yang relevan, dan apakah waktu timbang sesuai dengan pengiriman.
+4. Ulangi hitungan teoretis hanya dengan tabel, ukuran, panjang, asumsi, dan pembulatan yang memang dirujuk dokumen. Jangan mencampur tabel produk lain.
+5. Pisahkan perubahan fisik yang terdokumentasi—misalnya pemotongan atau kemasan—dari dugaan yang belum dibuktikan.
 
-- `BES-03-A02` → `/artikel/menghitung-berat-teoretis-produk-baja.html` — Menghitung Berat Teoretis Produk Baja
-- `BES-03-A03` → `/artikel/mengukur-dimensi-material-saat-receiving.html` — Cara Mengukur Tebal, Diameter, dan Panjang Material saat Receiving
-- `BES-03-A05` → `/artikel/memahami-section-properties-baja.html` — Section Properties: Area, Inersia, Modulus, dan Radius Gyration
-- `BES-03-A06` → `/artikel/allowance-potong-kerf-dan-waste-baja.html` — Allowance Potong, Kerf, Remnant, dan Waste dalam Takeoff Baja
+Contohnya begini: invoice menyebut total berat, sementara daftar penerimaan hanya menyebut jumlah batang. Jangan langsung membagi total invoice dengan jumlah batang lalu menyatakan tiap batang kurang berat. Bisa saja panjang nominal yang dipakai berbeda, barang terdiri dari beberapa ukuran, atau invoice memang memakai dasar timbang. Pertanyaan pertama yang lebih berguna adalah: “Di dokumen mana dasar tagih ini tertulis?”
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Teman Besi.co.id, angka timbangan juga bukan satu-satunya bukti mutu material. Jika sengketa kemudian merembet ke identitas grade atau hasil uji, pisahkan jalurnya dari rekonsiliasi kuantitas. Laporan uji harus tetap terkait dengan sumber spesimen, metode, kondisi, satuan, serta identitas produk atau heat; kompetensi dan rekaman laboratorium memiliki konteks tersendiri dalam [ISO/IEC 17025](https://www.iso.org/standard/66912.html). Jangan mengubah selisih berat menjadi tuduhan mutu tanpa bukti yang relevan.
 
-## Hasil akhir dan prasyarat
+## Kapan pemeriksaan harus dihentikan sementara
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada beberapa kondisi yang tidak aman untuk “dirapikan belakangan”: nomor pengiriman tidak cocok, slip timbang tidak menunjukkan dasar netto, tara tidak jelas, sebagian barang tidak teridentifikasi, atau invoice tidak menyebut dasar kuantitasnya. Berhenti sejenak bukan berarti menolak barang secara otomatis; artinya statusnya belum cukup jelas untuk disetujui sebagai hasil akhir.
 
-## Langkah 1 — tetapkan scope
+[NEEDS TECHNICAL REVIEW: toleransi kuantitas, metode timbang, aturan pembulatan, dan dasar penerimaan untuk pengiriman ini harus ditetapkan dari kontrak, spesifikasi produk, prosedur inspeksi yang disetujui, serta rekaman proyek yang lengkap.]
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan pula menetapkan sendiri ukuran sampel, batas selisih, atau pelepasan lot dari ringkasan standar. Untuk keputusan penerimaan, pihak teknis dan komersial perlu memeriksa dokumen pengendali yang lengkap. Ini penting terutama bila hasilnya akan menjadi dasar koreksi invoice, klaim, atau pelepasan material ke proses berikutnya.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Tutup rekonsiliasi dengan catatan yang dapat diaudit
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rekonsiliasi yang selesai harus menghasilkan catatan ringkas: barang apa yang diperiksa, dokumen apa yang dipakai, angka mana yang dibandingkan, penyebab selisih yang telah terbukti, data yang masih kurang, dan keputusan beserta penanggung jawabnya. Simpan perhitungan dengan satuan asli dan satuan pembandingnya agar orang berikutnya tidak perlu menebak asal angka.
 
-## Langkah 3 — jalankan urutan kerja
+Jalan pintas yang tampak praktis adalah memakai berat teoretis untuk semua kasus karena mudah dihitung. Masalahnya, hitungan itu hanya sah sebagai pembanding bila geometri, panjang, asumsi densitas, tabel produk, dan pembulatannya memang sama dengan dasar yang disetujui. Begitu dasar tagihnya berbeda atau material telah berubah bentuk, angka tersebut bukan jawaban final. Ia hanya petunjuk lokasi yang perlu diperiksa.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoretis, Timbangan, dan Invoice: Cara Merekonsiliasi Selisih”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, Sobat Besi.co.id: cocokkan identitas barang dan dasar perhitungan lebih dulu, baru bandingkan beratnya. Tindakan berikutnya adalah meminta rangkaian dokumen sumber dan menahan keputusan komersial sampai dasar kontrak serta rekaman timbangnya terbukti selaras. Aturan kerjanya sederhana: jangan menyelesaikan selisih dengan angka yang paling mudah—selesaikan dengan bukti yang mengacu pada barang yang sama.

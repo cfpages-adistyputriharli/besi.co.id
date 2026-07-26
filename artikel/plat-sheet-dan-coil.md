@@ -41,7 +41,7 @@ Jadi, jangan langsung menganggap salah satunya lebih kuat, lebih cocok, atau set
 
 ![Ilustrasi plat besi](/wp-content/uploads/2024/05/plat-besi.jpg)
 
-*Aset lokal proyek untuk ilustrasi umum plat besi.*
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Yang sebenarnya berubah saat bentuk pasok berubah
 

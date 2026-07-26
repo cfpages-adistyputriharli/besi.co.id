@@ -42,7 +42,7 @@ Jawaban singkatnya, bukti yang rapi harus berjalan berurutan: dasar perencanaan 
 
 ![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-*Ilustrasi umum dari aset lokal proyek.*
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Rantai bukti itu apa, dan apa yang tidak dibuktikannya?
 

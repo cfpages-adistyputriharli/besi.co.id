@@ -32,7 +32,7 @@ Itulah sebabnya dua batang baja yang tampak sama bisa menua sangat berbeda. Yang
 
 ![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-*Ilustrasi: aset lokal proyek.*
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 <!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan

@@ -43,7 +43,7 @@ END MANAGED IMAGE PLAN -->
 
 ![Ilustrasi Besi WF 3](/wp-content/uploads/2024/01/Besi-WF-3.jpg)
 
-*Ilustrasi aset lokal proyek.*
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Hasil akhir dan prasyarat
 

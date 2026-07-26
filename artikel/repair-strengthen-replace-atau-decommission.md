@@ -1,9 +1,10 @@
 ---
 article_id: BES-16-A05
-title: "Repair, Strengthen, Replace, atau Decommission Steelwork"
+title: "Memperbaiki, Memperkuat, Mengganti, atau Menonaktifkan Struktur Baja?"
 slug: "repair-strengthen-replace-atau-decommission"
-description: "Compare defect mechanism, risk, temporary controls, access, downtime, design/approval, compatibility, inspectability, lifecycle cost, and reversibility"
-status: outline
+description: "Panduan memilah pilihan perbaikan, penguatan, penggantian, atau penghentian aset baja berdasarkan kondisi, risiko, bukti, dan biaya sepanjang masa pakai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,91 @@ final_route: "/artikel/repair-strengthen-replace-atau-decommission.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/83054.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Memperbaiki, Memperkuat, Mengganti, atau Menonaktifkan Struktur Baja?
 
-# Repair, Strengthen, Replace, atau Decommission Steelwork
+Halo, Kawan Besi.co.id! Saat baja berkarat, melendut, retak, atau tidak lagi cocok dengan fungsi bangunan, respons paling mahal sering muncul dari keputusan yang terlalu cepat: langsung dicat, langsung ditambah pelat, atau langsung dibongkar. Padahal, kerusakan yang terlihat belum tentu menunjukkan penyebabnya, dan satu tindakan bisa membuat pemeriksaan berikutnya lebih sulit.
 
-## Assignment lock
+Jawaban pendeknya: pilih **perbaikan** bila penyebab dan batas kerusakan sudah cukup dipahami serta fungsi aset masih layak dipulihkan. Pilih **penguatan** bila penilaian teknis menunjukkan jalur beban atau kebutuhan penggunaan perlu ditingkatkan. Pilih **penggantian** bila kondisi, akses, kompatibilitas, atau risiko membuat pemulihan tidak masuk akal. Pilih **penonaktifan** bila aset tidak aman atau tidak layak dipakai sambil bukti dan keputusan akhir disiapkan. Keputusan ini dapat berubah setelah survei, riwayat penggunaan, dokumen, dan pemeriksaan kondisi tersedia.
 
-- **Writer task:** Expand this file into one complete article answering: “Repair, Strengthen, Replace, atau Decommission Steelwork”
-- **Reader and situation:** Owner comparing asset options
-- **Reader outcome:** Compare defect mechanism, risk, temporary controls, access, downtime, design/approval, compatibility, inspectability, lifecycle cost, and reversibility
-- **Primary intent:** Choose intervention path
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose or design intervention; BES-12-A06 and competent owner team do
-- **Final public route:** `/artikel/repair-strengthen-replace-atau-decommission.html`
-- **Appointed CMS date:** `2026-07-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Besi WF 5](/wp-content/uploads/2024/01/Besi-WF-5.jpg)
 
-## Opening instructions
+*Ilustrasi umum aset baja dari koleksi lokal, bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Repair, Strengthen, Replace, atau Decommission Steelwork**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+## Mulai dari fungsi dan kondisi, bukan dari nama pekerjaannya
 
+Perbaikan berarti memulihkan bagian yang rusak agar kembali memenuhi tujuan yang disetujui. Penguatan berarti menambah atau mengubah sistem supaya kebutuhan yang dinilai memang dapat dipenuhi. Penggantian berarti mengganti komponen atau aset dengan solusi baru yang telah ditinjau. Penonaktifan berarti menghentikan atau membatasi penggunaan secara terkendali; ini bukan sinonim dari pembongkaran mendadak.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Empat istilah itu terdengar sederhana, tetapi objeknya bisa berbeda. Yang diputuskan mungkin lapisan pelindung, sambungan, satu batang, rangka, atau keseluruhan aset. Karena itu, pertanyaan awalnya bukan “mana yang paling murah?” melainkan: *bagian apa yang menjalankan fungsi apa, dalam kondisi apa, dan apa akibat jika gagal?*
+
+Penilaian struktur yang sudah ada perlu mempertimbangkan tujuan, dokumen, survei, identitas material, geometri, riwayat penggunaan dan perubahan, kerusakan, serta bila perlu pemantauan atau pengujian. Itulah alasan catatan lama dan pemeriksaan lapangan sama pentingnya dengan foto kerusakan hari ini. [ISO 13822](https://www.iso.org/standard/46556.html) juga menempatkan pekerjaan pada struktur eksisting dalam kerangka penilaian, bukan sekadar memilih metode kerja.
+
+Sobat Besi.co.id, bila elemen memikul beban, pernah berubah fungsi, terpapar kebakaran, mengalami retak, deformasi, korosi berat, atau identitasnya tidak jelas, jangan jadikan halaman ini sebagai dasar desain. Tahan penggunaan bila diperlukan dan minta penilaian dari tim pemilik serta tenaga kompeten.
+
+## Urutan keputusan yang lebih aman
+
+Praktiknya, keputusan yang rapi biasanya melalui empat langkah berikut.
+
+1. **Amankan keadaan sementara.** Batasi akses, kurangi penggunaan, atau pasang pengendalian sementara sesuai rencana yang disetujui bila ada potensi bahaya. Pengendalian sementara tidak membuktikan aset sudah aman untuk dipakai normal.
+2. **Buat kondisi awal yang bisa ditelusuri.** Hubungkan lokasi dan fungsi aset dengan gambar, catatan perubahan, foto kondisi, jenis kerusakan, lapisan pelindung, sambungan, lingkungan, dan akses inspeksi.
+3. **Cari mekanisme masalah.** Korosi, misalnya, tidak selesai dipahami hanya dengan kata “karat”. Kelembapan atau kondensasi, garam, polutan, bahan kimia, genangan, celah, logam yang bersentuhan, suhu, kerusakan lapisan, serta sulitnya perawatan dapat menghasilkan tindakan yang berbeda. Klasifikasi lingkungan dan pemilihan sistem cat memang harus dimulai dari paparan dan substrat, bukan dari sekadar memilih cat. [ISO 12944-2](https://www.iso.org/standard/64834.html) menjelaskan klasifikasi lingkungan untuk perlindungan korosi dengan sistem cat.
+4. **Bandingkan pilihan sampai masa pakainya.** Catat pekerjaan awal, penghentian operasi, akses, inspeksi ulang, pemeliharaan, kemungkinan kerusakan berulang, dan cara membalikkan keputusan bila asumsi keliru. Ini yang dimaksud biaya sepanjang masa pakai: bukan hanya nilai pekerjaan pertama, melainkan biaya dan risiko selama aset dipakai.
+
+Urutan ini membantu memisahkan fakta dari asumsi. Misalnya, lapisan mengelupas adalah fakta yang bisa didokumentasikan. Penyebabnya karena persiapan permukaan buruk, paparan berubah, atau air terjebak di detail adalah hipotesis yang masih perlu diperiksa. Jangan mengubah hipotesis menjadi spesifikasi pekerjaan.
+
+## Kapan tiap pilihan lebih masuk akal?
+
+Berikut bukan tabel desain, melainkan cara menyaring percakapan awal dengan pemilik dan tim penilai.
+
+| Pilihan | Lebih layak dibahas ketika | Pertanyaan yang tidak boleh dilewati |
+| --- | --- | --- |
+| Perbaikan | Kerusakan terlokalisasi, penyebabnya cukup dipahami, dan fungsi yang ditargetkan masih sama | Apa penyebabnya sudah diatasi, atau hanya gejalanya yang ditutup? |
+| Penguatan | Kebutuhan fungsi, beban, atau konfigurasi berubah dan ada penilaian jalur beban | Apakah tambahan elemen, sambungan, keadaan sementara, dan akses kerja sudah ditinjau? |
+| Penggantian | Bukti kondisi kurang, kerusakan berulang, akses perbaikan buruk, atau solusi lama sulit dipelihara | Apa dampaknya pada elemen yang tersambung, operasi, dan bukti penerimaan pengganti? |
+| Penonaktifan | Risiko penggunaan tidak dapat diterima sementara bukti atau keputusan akhir belum tersedia | Siapa yang mengendalikan akses, memberi tanda, memantau, dan mengesahkan pembukaan kembali? |
+
+Kawan Besi.co.id, kata “sementara” sering dipakai terlalu longgar. Jika pembatasan penggunaan dipilih, tulis batasnya: area mana, aktivitas apa yang dilarang, siapa yang bertanggung jawab, bukti apa yang masih kurang, dan kapan keputusan ditinjau ulang. Tanpa itu, penonaktifan mudah berubah menjadi kondisi menggantung yang tidak diawasi.
+
+## Faktor yang biasanya mengubah pilihan
+
+Pertama, **tingkat konsekuensi kegagalan**. Baja pada rak ringan, pagar, rangka atap, tangga, atau elemen proses tidak otomatis memiliki risiko yang sama. Fungsi, orang yang terpapar, kegagalan berantai, serta kemampuan membatasi akses harus dibaca bersama.
+
+Kedua, **kualitas bukti yang tersedia**. Gambar lama mungkin tidak mencerminkan perubahan lapangan. Sertifikat atau tanda material yang tidak bisa disambungkan ke item fisik juga bukan bukti penuh. Bila identitas, dimensi, sambungan, riwayat beban, atau kondisi tersembunyi tidak cukup jelas, pilihan yang tampak murah bisa justru membawa ketidakpastian paling mahal.
+
+Ketiga, **detail lingkungan dan kemudahan perawatan**. Air yang selalu masuk ke celah, area yang sulit dijangkau, atau sambungan yang menyimpan kotoran dapat membuat perbaikan berulang. Pemilihan perlindungan korosi perlu mempertimbangkan paparan aktual dan sistem yang lengkap; satu kaleng cat tidak otomatis menjadi spesifikasi perlindungan.
+
+Keempat, **keterbalikan keputusan**. Keterbalikan berarti seberapa mudah tindakan dapat diubah atau dibatalkan tanpa menambah kerusakan, kehilangan bukti, atau mengganggu fungsi lain. Menutup area untuk survei biasanya lebih mudah dibalik daripada memotong elemen atau mengelas tambahan. Pada kondisi bukti masih tipis, pilihan yang menjaga akses inspeksi sering lebih bijak daripada tindakan permanen yang terburu-buru.
+
+Kelima, **biaya sepanjang masa pakai dan waktu henti**. Penggantian bisa membutuhkan gangguan operasi lebih besar di awal, tetapi mungkin memberikan akses inspeksi dan pemeliharaan yang lebih jelas. Perbaikan bisa lebih singkat, namun perlu diulang bila mekanisme masalah tidak diselesaikan. Catat keduanya dengan dasar yang sama dan gunakan penawaran serta data proyek yang bertanggal sebelum mengambil keputusan komersial.
+
+## Dua skenario yang sering disalahbaca
+
+**Skenario 1: lapisan pelindung rusak di beberapa titik.** Tindakan pertama bukan otomatis mengecat ulang seluruh area. Dokumentasikan sebaran kerusakan, periksa adanya air, celah, kontaminasi, benturan, dan akses pemeliharaan. Bila struktur dan detailnya tidak menunjukkan persoalan lain, perbaikan lapisan mungkin dapat dibahas dengan spesifikasi dan pemeriksaan yang sesuai. Namun jika ada kehilangan penampang, sambungan terdampak, atau gejala perubahan bentuk, jalur penilaian harus diperluas sebelum memilih perbaikan atau penguatan.
+
+**Skenario 2: pemilik ingin memakai rangka lama untuk fungsi baru.** Keinginan memakai kembali tidak sama dengan kelayakan pakai kembali. Perubahan penggunaan dapat mengubah beban, pola pembebanan, sambungan, kebutuhan keselamatan, dan metode pemasangan. Teman Besi.co.id, kumpulkan dulu gambar, kondisi aktual, identitas material, perubahan yang pernah dilakukan, serta rencana penggunaan baru. Setelah itu, tim yang berwenang dapat membandingkan penguatan, penggantian, atau penghentian penggunaan dengan dasar yang dapat diperiksa.
+
+Dalam dua skenario itu, keputusan akhir tidak lahir dari satu foto atau satu kunjungan singkat. Sistem pengelolaan aset yang baik menghubungkan identitas aset, kondisi, tindakan, keputusan, dan jadwal peninjauan berikutnya. [ISO 55001](https://www.iso.org/standard/83054.html) menjelaskan persyaratan sistem manajemen aset; halaman tersebut tidak menentukan interval inspeksi atau batas kerusakan untuk proyek Anda.
+
+## Jalan pintas yang perlu dihindari
+
+Jalan pintas paling umum adalah berkata, “Tambahkan saja pelat, pasti lebih kuat.” Masalahnya, tambahan material dapat mengubah jalur beban, sambungan, berat, akses, keadaan saat pemasangan, dan titik konsentrasi baru. Tanpa gambar yang disetujui, pemeriksaan kondisi, prosedur pengelasan bila relevan, serta rencana inspeksi, tindakan yang tampak menguatkan dapat menciptakan masalah lain.
+
+Jalan pintas kedua: “Kalau mahal, ganti saja.” Penggantian juga membawa pertanyaan tentang urutan pembongkaran, pengendalian sementara, sambungan ke bagian yang tetap ada, identitas material baru, pekerjaan di ketinggian, dan dampak operasi. Bila ada pemotongan, pengelasan, pengangkatan, atau pembongkaran, siapkan pengendalian keselamatan dan metode kerja spesifik lokasi melalui pihak yang kompeten.
+
+Jalan pintas ketiga adalah menilai biaya hanya dari pekerjaan hari pertama. Minta setiap opsi menjelaskan asumsi akses, waktu henti, lingkup inspeksi, pemeliharaan berikutnya, bukti serah-terima, dan kondisi yang membuat biaya berubah. Dengan begitu, Anda tidak membandingkan angka yang kelihatannya murah tetapi sebenarnya tidak sebanding.
+
+## Aturan kerja sebelum menetapkan pilihan
+
+Singkatnya, jangan memilih perbaikan, penguatan, penggantian, atau penonaktifan dari label kerusakannya saja. Pilih setelah fungsi aset, mekanisme masalah, bukti kondisi, risiko sementara, akses inspeksi, biaya sepanjang masa pakai, dan keterbalikan tindakan dibandingkan secara terbuka.
+
+Langkah praktis berikutnya: buat satu lembar kondisi awal yang memuat lokasi dan fungsi aset, foto bertanggal, gambar atau dokumen yang tersedia, perubahan penggunaan, kerusakan yang terlihat, batas penggunaan sementara, serta pertanyaan yang belum terjawab. Serahkan paket itu kepada tim pemilik dan penilai teknis untuk menentukan jalur yang disetujui.
+
+Aturan operasinya sederhana: **bila keputusan menyentuh keselamatan, jalur beban, kebakaran, pengelasan, kondisi tak dikenal, atau pembongkaran, hentikan asumsi dan minta penilaian kompeten sebelum pekerjaan permanen dimulai.**
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,139 +111,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi WF 5` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-28
-
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18. ## Parent-topic coverage matrix | Topic family | Main research records | Safe ground for the six-article set | Remaining evidence/professional gate | |---|---|---|---| | BES-01 | KR-02, KR-03, KR-04 | Form/stage vocabulary; property and processing concepts; why appearance/trade terms are not grade proof | G-01 for definitions/requirements beyond public scope; G-13 for test claims | | BES-02 | KR-01, KR-05, KR-06, KR-07, KR-22 | Standard/edition hierarchy, certificate-to-order linkage, heat/item traceability, and controlled claims | G-01, G-02, G-03, G-13 | | BES-03 | KR-03, KR-08, KR-15, KR-23 | Nominal/measured/theoretical/actual distinctions; assumption and measurement records | G-01, G-04, G-13 | | BES-04 | KR-02, KR-04, KR-05, KR-09, KR-11 | Profile taxonomy, geometry/axis questions, hot-rolled/cold-formed and HSS boundaries | G-01, G-04, G-06 | | BES-05 | KR-02, KR-05, KR-16, KR-17, KR-18 | Flat/open-product distinctions; coating/process and function evidence questions | G-01, G-05, G-06, G-09 | | BES-06 | KR-05, KR-06, KR-07, KR-19 | Bar/wire/rebar-family distinction; current mandatory-SNI discovery; receiving traceability | G-01, G-02, G-03, G-06 | | BES-07 | KR-02, KR-08, KR-10, KR-17 | Geometry, manufacturing, coating, and service-system separation | G-01, G-04, G-05, G-16 | | BES-08 | KR-03, KR-04, KR-10, KR-16, KR-24, KR-25, KR-26 | Requirements/failure-mode evidence map for environment, fatigue, temperature, fabrication, and service | G-05, G-06, G-09, G-11, G-14, G-16 | | BES-09 | KR-07, KR-12, KR-15, KR-19 | Route-card, tolerance-source, process-control, traceability, and dimensional hold points | G-04, G-07, G-12 | | BES-10 | KR-12, KR-13, KR-14, KR-19, KR-20 | Welding evidence chain, application-code boundary, NDT capability, and hazard map | G-07, G-08, G-12 | | BES-11 | KR-16, KR-17, KR-18, KR-21 | Exposure-before-system logic; product/process-specific galvanizing and damage records | G-05, G-09, G-10, G-12 | | BES-12 | KR-11, KR-24, KR-25, KR-26 | Material-to-system evidence chain; existing, fire, fatigue, and retrofit assessment inputs | G-02, G-06, G-11, G-14 | | BES-13 | KR-01, KR-05–KR-08, KR-10, KR-22, KR-23, KR-27 | Unambiguous RFQ, bid normalization, supplier/claim evidence, deviation and lifecycle inputs | G-01–G-05, G-13, G-15–G-17 | | BES-14 | KR-03, KR-07, KR-12, KR-14, KR-15, KR-18, KR-23 | ITP fields, document chain, laboratory/NDT/coating evidence and handover index | G-01, G-03, G-07–G-10, G-13 | | BES-15 | KR-18–KR-21, KR-28 | Indonesian K3 source map; bounded handling/storage/coating prompts; stage and damage records | G-05, G-10, G-12, G-18 | | BES-16 | KR-16, KR-18, KR-22, KR-24–KR-28 | Asset baseline; defect escalation; evidence-based repair/reuse/end-of-life distinctions | G-06, G-08–G-11, G-14, G-17, G-18 | ## Evidence gates | Gate | Unresolved need | Applies to | Resolution before a definitive claim | |---|---|---|---| | G-01 | Current full standard, correct edition, amendments/corrigenda, and licensed text | All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | G-02 | Indonesian mandatory/application and local building-rule boundary | SNI, rebar, structural/cold-formed work, conformity claims | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | G-03 | Material/document authenticity and physical traceability | Certificates, heat/batch, split stock, remnants, claims | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | G-04 | Product-specific dimensions, mass basis, tolerance, and calibrated measurement | Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | G-05 | Current manufacturer/system evidence | Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | G-06 | Licensed structural/professional design and approval | Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | G-07 | Approved welding engineering package | Welding, repair welding, distortion correction | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | G-08 | Approved NDT plan and competent personnel | Weld/asset inspection and defect disposition | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | G-09 | Site exposure and complete corrosion-protection specification | Paint, galvanizing, duplex, touch-up, maintenance | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | G-10 | Galvanizer/coater review | Vent/drain/lift details, fabrication, inspection, repair | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | G-11 | Fire/emergency and post-fire specialist disposition | Fire rating, reoccupation, repair, reuse | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | G-12 | Site-specific Indonesian K3 and logistics controls | Cutting, welding, lifting, transport, storage, work at height, erection, demolition | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | G-13 | Sampling, laboratory scope, test method, uncertainty, and decision rule | Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | G-14 | Existing-asset identity, survey, history, monitoring, and assessment | Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | G-15 | Dated supplier, inventory, quote, price, lead-time, warranty, and commercial facts | Procurement comparisons and lifecycle cost | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | G-16 | Pipe/tube service-system design | Pressure/fluid/temperature/corrosion/structural pipe suitability | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | G-17 | Indonesian waste, contamination, chain-of-custody, and authorized end route | Reuse, deconstruction, scrap, recycling, environmental claims | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | G-18 | Owner-approved asset and maintenance plan | Baseline, inspection interval, repair/replace/decommission decision | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | ## Downstream stop conditions Article outlines and drafts must stop and escalate when any of the following appears: - the grade, heat, product standard, certificate, or physical marking does not reconcile; - a proposed substitution changes form, grade, edition, supply condition, dimensions, coating, welding, inspection, service, or design assumptions; - a load-bearing, pressure-containing, fire-exposed, cyclic/fatigue-sensitive, corroded, cracked, deformed, modified, or unknown item needs a fitness/safety decision; - welding or repair lacks an approved application code, WPS/qualification, material identity, competent coordination, or inspection route; - lifting, storage, erection, hot work, work at height, or deconstruction lacks a site-specific competent plan and emergency controls; - exact requirements are available only in a paywalled/full standard not held by the writer; - a manufacturer or foreign source conflicts with Indonesian law, the project specification, drawings, or responsible professional; - the writer is asked to publish current price, stock, supplier endorsement, conformity, service life, capacity, acceptance, or legal compliance without dated primary evidence. ## Refresh policy Recheck before outlining and again before publication when: - BSN, Kemenperin, PUPR, or Kemnaker changes a record, regulation, status, amendment, or referenced standard; - ISO/AWS/API/ASME publishes a new edition, amendment, corrigendum, or withdrawal (several cited ISO pages already show review/revision activity); - the project changes product form, jurisdiction, structure/system type, service, exposure, fabrication route, supplier, or intended claim; - a direct link no longer resolves or a manufacturer revises its product/process guidance; - actual certificates, test reports, drawings, specifications, site surveys, calculations, ITPs, or operating/inspection histories become available.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-06, G-08–G-11, G-14, G-17, G-18
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BES-16-A03` → `/artikel/repair-coating-dan-steelwork.html` — Repair Coating dan Steelwork: Mulai dari Penyebab, Bukan Cat Baru
-- `BES-16-A04` → `/artikel/reuse-baja-eksisting.html` — Reuse Baja Eksisting: Bukti Minimum sebelum Dipakai Kembali
-- `BES-16-A06` → `/artikel/deconstruction-dan-recycling-baja.html` — Deconstruction, Sorting, Scrap, dan Recycling Baja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Repair, Strengthen, Replace, atau Decommission Steelwork”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

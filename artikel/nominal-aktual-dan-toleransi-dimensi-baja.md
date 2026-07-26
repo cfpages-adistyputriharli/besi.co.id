@@ -49,7 +49,7 @@ Ukuran nominal adalah nama atau penanda ukuran. Ukuran aktual adalah hasil pengu
 
 ![Ilustrasi besi baja 1](/wp-content/uploads/2024/01/besi-baja-1.jpg)
 
-*Aset lokal proyek; bukan klaim dokumentasi proyek tertentu.*
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Bedakan nama ukuran dengan hasil ukur
 

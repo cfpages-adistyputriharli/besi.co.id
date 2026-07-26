@@ -46,7 +46,7 @@ Jawaban singkatnya: **OD** adalah diameter bagian luar yang diukur; **NPS** dan 
 
 ![Ilustrasi Jual Pipa Schedule 1](/wp-content/uploads/2024/01/Jual-Pipa-Schedule-1.jpg)
 
-_Aset lokal proyek; tidak dinyatakan sebagai dokumentasi proyek tertentu._
+_Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu._
 
 ## Bedakan nama ukuran dengan ukuran yang diukur
 
